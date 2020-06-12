@@ -39,6 +39,20 @@ Optional arguments:
   --destination DESTINATION
                         Defaults to output.csv
   --in                  Defaults to second.
+
+Format for arguments:
+  --firstcsv FIRSTCSV   Filename with .csv extension (example: abc.csv).
+  --secondcsv SECONDCSV Filename with .csv extension (example: xyz.csv)
+  --destination DESTINATION
+                        Filename with .csv extension (example: output.csv)
+  --commoncolumns1 COMMONCOLUMNS1
+                        Comma-separated common columns of the first table
+                        enclosed by quotes (example: 'District,Local Unit,Ward')
+  --commoncolumns1 COMMONCOLUMNS1
+                        Comma-separated common columns of the second table
+                        enclosed by quotes (example: 'Jilla,Palika,Ward Number'
+  --in                  Takes either 'second' or 'first'. Other argument would be invalid. 
+
 ```
 
 ## Contributing
