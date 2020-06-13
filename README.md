@@ -13,7 +13,7 @@ This script requires Python (Version 3.4+) to be installed on the system. Though
 Download Python from [here](https://www.python.org/downloads/).
 
 ## Usage
-Run the following command in terminal or command-line prompt.
+Download the whole repository or just the [fuzzy.py](fuzzy.py) file and run the following command in terminal or command-line prompt. Note that you need to be in the same path as the [fuzzy.py](fuzzy.py) file is in.
 
 
 ```
