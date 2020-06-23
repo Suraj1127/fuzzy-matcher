@@ -55,6 +55,9 @@ Format for arguments:
 
 ```
 
+## Palika Codes
+Central Bureau of Statistics (CBS) codes, High Level Commission for Information and Technology (HLCIT) codes and P-codes (used by UN agencies like UN-OCHA) for all the palikas (local units) are compiled and provided in the CSV format.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
