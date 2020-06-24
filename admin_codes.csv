@@ -1,776 +1,776 @@
 OBJECTID,PALIKA,DISTRICT,GAPA_NAPA,GN_TYPE,PROVINCE_CODE,PROVINCE_NAME,HLCIT_DISTRICT_CODE,CBS_DISTRICT_CODE,DISTRICT_PCODE,CBS_LU_CODE,HLCIT_LU_CODE,LU_PCODE
-1,Aathrai Tribeni Gaunpalika,Taplejung,Aathrai Tribeni,Gaunpalika,1,1,524101,101.0,NP0101,10105.0,524 1 01 4 006,NP0101406
-2,Maiwakhola Gaunpalika,Taplejung,Maiwakhola,Gaunpalika,1,1,524101,101.0,NP0101,10104.0,524 1 01 4 005,NP0101405
-3,Meringden Gaunpalika,Taplejung,Meringden,Gaunpalika,1,1,524101,101.0,NP0101,10103.0,524 1 01 4 004,NP0101404
-4,Mikwakhola Gaunpalika,Taplejung,Mikwakhola,Gaunpalika,1,1,524101,101.0,NP0101,10102.0,524 1 01 4 002,NP0101402
-5,Phaktanglung Gaunpalika,Taplejung,Phaktanglung,Gaunpalika,1,1,524101,101.0,NP0101,10101.0,524 1 01 4 001,NP0101401
-6,Phungling Nagarpalika,Taplejung,Phungling,Nagarpalika,1,1,524101,101.0,NP0101,10106.0,524 1 01 3 001,NP0101301
-7,Sidingba Gaunpalika,Taplejung,Sidingba,Gaunpalika,1,1,524101,101.0,NP0101,10109.0,524 1 01 4 008,NP0101408
-8,Sirijangha Gaunpalika,Taplejung,Sirijangha,Gaunpalika,1,1,524101,101.0,NP0101,10108.0,524 1 01 4 003,NP0101403
-9,Pathibhara Yangwarak Gaunpalika,Taplejung,Pathibhara Yangwarak,Gaunpalika,1,1,524101,101.0,NP0101,10107.0,524 1 01 4 007,NP0101407
-10,Falelung Gaunpalika,Panchthar,Falelung,Gaunpalika,1,1,524102,109.0,NP0102,10903.0,524 1 02 4 003,NP0102403
-11,Falgunanda Gaunpalika,Panchthar,Falgunanda,Gaunpalika,1,1,524102,109.0,NP0102,10905.0,524 1 02 4 005,NP0102405
-12,Hilihang Gaunpalika,Panchthar,Hilihang,Gaunpalika,1,1,524102,109.0,NP0102,10902.0,524 1 02 4 001,NP0102401
-13,Kummayak Gaunpalika,Panchthar,Kummayak,Gaunpalika,1,1,524102,109.0,NP0102,10906.0,524 1 02 4 004,NP0102404
-14,Miklajung Gaunpalika,Panchthar,Miklajung,Gaunpalika,1,1,524102,109.0,NP0102,10908.0,524 1 02 4 007,NP0102407
-15,Phidim Nagarpalika,Panchthar,Phidim,Nagarpalika,1,1,524102,109.0,NP0102,10904.0,524 1 02 3 001,NP0102301
-16,Tumbewa Gaunpalika,Panchthar,Tumbewa,Gaunpalika,1,1,524102,109.0,NP0102,10907.0,524 1 02 4 006,NP0102406
-17,Yangwarak Gaunpalika,Panchthar,Yangwarak,Gaunpalika,1,1,524102,109.0,NP0102,10901.0,524 1 02 4 002,NP0102402
-18,Chulachuli Gaunpalika,Ilam,Chulachuli,Gaunpalika,1,1,524103,110.0,NP0103,11007.0,524 1 03 4 004,NP0103404
-19,Deumai Nagarpalika,Ilam,Deumai,Nagarpalika,1,1,524103,110.0,NP0103,11004.0,524 1 03 3 001,NP0103301
-20,Fakphokthum Gaunpalika,Ilam,Fakphokthum,Gaunpalika,1,1,524103,110.0,NP0103,11005.0,524 1 03 4 001,NP0103401
-21,Illam Nagarpalika,Ilam,Illam,Nagarpalika,1,1,524103,110.0,NP0103,11003.0,524 1 03 3 002,NP0103302
-22,Mai Nagarpalika,Ilam,Mai,Nagarpalika,1,1,524103,110.0,NP0103,11008.0,524 1 03 3 004,NP0103304
-23,Maijogmai Gaunpalika,Ilam,Maijogmai,Gaunpalika,1,1,524103,110.0,NP0103,11001.0,524 1 03 4 003,NP0103403
-24,Mangsebung Gaunpalika,Ilam,Mangsebung,Gaunpalika,1,1,524103,110.0,NP0103,11006.0,524 1 03 4 005,NP0103405
-25,Rong Gaunpalika,Ilam,Rong,Gaunpalika,1,1,524103,110.0,NP0103,11010.0,524 1 03 4 006,NP0103406
-26,Sandakpur Gaunpalika,Ilam,Sandakpur,Gaunpalika,1,1,524103,110.0,NP0103,11002.0,524 1 03 4 002,NP0103402
-27,Suryodaya Nagarpalika,Ilam,Suryodaya,Nagarpalika,1,1,524103,110.0,NP0103,11009.0,524 1 03 3 003,NP0103303
-28,Arjundhara Nagarpalika,Jhapa,Arjundhara,Nagarpalika,1,1,524104,111.0,NP0104,11103.0,524 1 04 3 004,NP0104304
-29,Barhadashi Gaunpalika,Jhapa,Barhadashi,Gaunpalika,1,1,524104,111.0,NP0104,11111.0,524 1 04 4 005,NP0104405
-30,Bhadrapur Nagarpalika,Jhapa,Bhadrapur,Nagarpalika,1,1,524104,111.0,NP0104,11114.0,524 1 04 3 008,NP0104308
-31,Birtamod Nagarpalika,Jhapa,Birtamod,Nagarpalika,1,1,524104,111.0,NP0104,11112.0,524 1 04 3 007,NP0104307
-32,Buddhashanti Gaunpalika,Jhapa,Buddhashanti,Gaunpalika,1,1,524104,111.0,NP0104,11102.0,524 1 04 4 002,NP0104402
-33,Damak Nagarpalika,Jhapa,Damak,Nagarpalika,1,1,524104,111.0,NP0104,11107.0,524 1 04 3 001,NP0104301
-34,Gauradhaha Nagarpalika,Jhapa,Gauradhaha,Nagarpalika,1,1,524104,111.0,NP0104,11108.0,524 1 04 3 006,NP0104306
-35,Gauriganj Gaunpalika,Jhapa,Gauriganj,Gaunpalika,1,1,524104,111.0,NP0104,11109.0,524 1 04 4 003,NP0104403
-36,Haldibari Gaunpalika,Jhapa,Haldibari,Gaunpalika,1,1,524104,111.0,NP0104,11113.0,524 1 04 4 006,NP0104406
-37,Jhapa Gaunpalika,Jhapa,Jhapa,Gaunpalika,1,1,524104,111.0,NP0104,11110.0,524 1 04 4 004,NP0104404
-38,Kachankawal Gaunpalika,Jhapa,Kachankawal,Gaunpalika,1,1,524104,111.0,NP0104,11115.0,524 1 04 4 007,NP0104407
-39,Kamal Gaunpalika,Jhapa,Kamal,Gaunpalika,1,1,524104,111.0,NP0104,11106.0,524 1 04 4 001,NP0104401
-40,Kankai Nagarpalika,Jhapa,Kankai,Nagarpalika,1,1,524104,111.0,NP0104,11104.0,524 1 04 3 003,NP0104303
-41,Mechinagar Nagarpalika,Jhapa,Mechinagar,Nagarpalika,1,1,524104,111.0,NP0104,11101.0,524 1 04 3 005,NP0104305
-42,Shivasataxi Nagarpalika,Jhapa,Shivasataxi,Nagarpalika,1,1,524104,111.0,NP0104,11105.0,524 1 04 3 002,NP0104302
-43,Belbari Nagarpalika,Morang,Belbari,Nagarpalika,1,1,524105,112.0,NP0105,11205.0,524 1 05 3 003,NP0105303
-44,Biratnagar Mahanagarpalika,Morang,Biratnagar,Mahanagarpalika,1,1,524105,112.0,NP0105,11214.0,524 1 05 1 001,NP0105101
-45,Budhiganga Gaunpalika,Morang,Budhiganga,Gaunpalika,1,1,524105,112.0,NP0105,11213.0,524 1 05 4 004,NP0105404
-46,Dhanpalthan Gaunpalika,Morang,Dhanpalthan,Gaunpalika,1,1,524105,112.0,NP0105,11216.0,524 1 05 4 008,NP0105408
-47,Gramthan Gaunpalika,Morang,Gramthan,Gaunpalika,1,1,524105,112.0,NP0105,11212.0,524 1 05 4 005,NP0105405
-48,Jahada Gaunpalika,Morang,Jahada,Gaunpalika,1,1,524105,112.0,NP0105,11217.0,524 1 05 4 007,NP0105407
-49,Kanepokhari Gaunpalika,Morang,Kanepokhari,Gaunpalika,1,1,524105,112.0,NP0105,11206.0,524 1 05 4 003,NP0105403
-50,Katahari Gaunpalika,Morang,Katahari,Gaunpalika,1,1,524105,112.0,NP0105,11215.0,524 1 05 4 006,NP0105406
-51,Kerabari Gaunpalika,Morang,Kerabari,Gaunpalika,1,1,524105,112.0,NP0105,11203.0,524 1 05 4 001,NP0105401
-52,Letang Nagarpalika,Morang,Letang,Nagarpalika,1,1,524105,112.0,NP0105,11202.0,524 1 05 3 001,NP0105301
-53,Miklajung Gaunpalika,Morang,Miklajung,Gaunpalika,1,1,524105,112.0,NP0105,11201.0,524 1 05 4 002,NP0105402
-54,Patahrishanishchare Nagarpalika,Morang,Patahrishanishchare,Nagarpalika,1,1,524105,112.0,NP0105,11207.0,524 1 05 3 004,NP0105304
-55,Rangeli Nagarpalika,Morang,Rangeli,Nagarpalika,1,1,524105,112.0,NP0105,11211.0,524 1 05 3 006,NP0105306
-56,Ratuwamai Nagarpalika,Morang,Ratuwamai,Nagarpalika,1,1,524105,112.0,NP0105,11209.0,524 1 05 3 008,NP0105308
-57,Sundarharaicha Nagarpalika,Morang,Sundarharaicha,Nagarpalika,1,1,524105,112.0,NP0105,11204.0,524 1 05 3 002,NP0105302
-58,Sunwarshi Nagarpalika,Morang,Sunwarshi,Nagarpalika,1,1,524105,112.0,NP0105,11210.0,524 1 05 3 007,NP0105307
-59,Uralabari Nagarpalika,Morang,Uralabari,Nagarpalika,1,1,524105,112.0,NP0105,11208.0,524 1 05 3 005,NP0105305
-60,Barah Nagarpalika,Sunsari,Barah,Nagarpalika,1,1,524106,113.0,NP0106,11302.0,524 1 06 3 001,NP0106301
-61,Barju Gaunpalika,Sunsari,Barju,Gaunpalika,1,1,524106,113.0,NP0106,11312.0,524 1 06 4 006,NP0106406
-62,Bhokraha Narsingh Gaunpalika,Sunsari,Bhokraha Narsingh,Gaunpalika,1,1,524106,113.0,NP0106,11304.0,524 1 06 4 002,NP0106402
-63,Dewanganj Gaunpalika,Sunsari,Dewanganj,Gaunpalika,1,1,524106,113.0,NP0106,11311.0,524 1 06 4 005,NP0106405
-64,Dharan Upamahanagarpalika,Sunsari,Dharan,Upamahanagarpalika,1,1,524106,113.0,NP0106,11301.0,524 1 06 2 001,NP0106201
-65,Duhabi Nagarpalika,Sunsari,Duhabi,Nagarpalika,1,1,524106,113.0,NP0106,11307.0,524 1 06 3 004,NP0106304
-66,Gadhi Gaunpalika,Sunsari,Gadhi,Gaunpalika,1,1,524106,113.0,NP0106,11308.0,524 1 06 4 003,NP0106403
-67,Harinagar Gaunpalika,Sunsari,Harinagar,Gaunpalika,1,1,524106,113.0,NP0106,11310.0,524 1 06 4 004,NP0106404
-68,Inaruwa Nagarpalika,Sunsari,Inaruwa,Nagarpalika,1,1,524106,113.0,NP0106,11309.0,524 1 06 3 003,NP0106303
-69,Itahari Upamahanagarpalika,Sunsari,Itahari,Upamahanagarpalika,1,1,524106,113.0,NP0106,11306.0,524 1 06 2 002,NP0106202
-70,Koshi Gaunpalika,Sunsari,Koshi,Gaunpalika,1,1,524106,113.0,NP0106,11303.0,524 1 06 4 001,NP0106401
-71,Ramdhuni Nagarpalika,Sunsari,Ramdhuni,Nagarpalika,1,1,524106,113.0,NP0106,11305.0,524 1 06 3 002,NP0106302
+1,Aathrai Tribeni Gaunpalika,Taplejung,Aathrai Tribeni,Gaunpalika,1,1,524101,101,NP0101,10105,524 1 01 4 006,NP0101406
+2,Maiwakhola Gaunpalika,Taplejung,Maiwakhola,Gaunpalika,1,1,524101,101,NP0101,10104,524 1 01 4 005,NP0101405
+3,Meringden Gaunpalika,Taplejung,Meringden,Gaunpalika,1,1,524101,101,NP0101,10103,524 1 01 4 004,NP0101404
+4,Mikwakhola Gaunpalika,Taplejung,Mikwakhola,Gaunpalika,1,1,524101,101,NP0101,10102,524 1 01 4 002,NP0101402
+5,Phaktanglung Gaunpalika,Taplejung,Phaktanglung,Gaunpalika,1,1,524101,101,NP0101,10101,524 1 01 4 001,NP0101401
+6,Phungling Nagarpalika,Taplejung,Phungling,Nagarpalika,1,1,524101,101,NP0101,10106,524 1 01 3 001,NP0101301
+7,Sidingba Gaunpalika,Taplejung,Sidingba,Gaunpalika,1,1,524101,101,NP0101,10109,524 1 01 4 008,NP0101408
+8,Sirijangha Gaunpalika,Taplejung,Sirijangha,Gaunpalika,1,1,524101,101,NP0101,10108,524 1 01 4 003,NP0101403
+9,Pathibhara Yangwarak Gaunpalika,Taplejung,Pathibhara Yangwarak,Gaunpalika,1,1,524101,101,NP0101,10107,524 1 01 4 007,NP0101407
+10,Falelung Gaunpalika,Panchthar,Falelung,Gaunpalika,1,1,524102,109,NP0102,10903,524 1 02 4 003,NP0102403
+11,Falgunanda Gaunpalika,Panchthar,Falgunanda,Gaunpalika,1,1,524102,109,NP0102,10905,524 1 02 4 005,NP0102405
+12,Hilihang Gaunpalika,Panchthar,Hilihang,Gaunpalika,1,1,524102,109,NP0102,10902,524 1 02 4 001,NP0102401
+13,Kummayak Gaunpalika,Panchthar,Kummayak,Gaunpalika,1,1,524102,109,NP0102,10906,524 1 02 4 004,NP0102404
+14,Miklajung Gaunpalika,Panchthar,Miklajung,Gaunpalika,1,1,524102,109,NP0102,10908,524 1 02 4 007,NP0102407
+15,Phidim Nagarpalika,Panchthar,Phidim,Nagarpalika,1,1,524102,109,NP0102,10904,524 1 02 3 001,NP0102301
+16,Tumbewa Gaunpalika,Panchthar,Tumbewa,Gaunpalika,1,1,524102,109,NP0102,10907,524 1 02 4 006,NP0102406
+17,Yangwarak Gaunpalika,Panchthar,Yangwarak,Gaunpalika,1,1,524102,109,NP0102,10901,524 1 02 4 002,NP0102402
+18,Chulachuli Gaunpalika,Ilam,Chulachuli,Gaunpalika,1,1,524103,110,NP0103,11007,524 1 03 4 004,NP0103404
+19,Deumai Nagarpalika,Ilam,Deumai,Nagarpalika,1,1,524103,110,NP0103,11004,524 1 03 3 001,NP0103301
+20,Fakphokthum Gaunpalika,Ilam,Fakphokthum,Gaunpalika,1,1,524103,110,NP0103,11005,524 1 03 4 001,NP0103401
+21,Illam Nagarpalika,Ilam,Illam,Nagarpalika,1,1,524103,110,NP0103,11003,524 1 03 3 002,NP0103302
+22,Mai Nagarpalika,Ilam,Mai,Nagarpalika,1,1,524103,110,NP0103,11008,524 1 03 3 004,NP0103304
+23,Maijogmai Gaunpalika,Ilam,Maijogmai,Gaunpalika,1,1,524103,110,NP0103,11001,524 1 03 4 003,NP0103403
+24,Mangsebung Gaunpalika,Ilam,Mangsebung,Gaunpalika,1,1,524103,110,NP0103,11006,524 1 03 4 005,NP0103405
+25,Rong Gaunpalika,Ilam,Rong,Gaunpalika,1,1,524103,110,NP0103,11010,524 1 03 4 006,NP0103406
+26,Sandakpur Gaunpalika,Ilam,Sandakpur,Gaunpalika,1,1,524103,110,NP0103,11002,524 1 03 4 002,NP0103402
+27,Suryodaya Nagarpalika,Ilam,Suryodaya,Nagarpalika,1,1,524103,110,NP0103,11009,524 1 03 3 003,NP0103303
+28,Arjundhara Nagarpalika,Jhapa,Arjundhara,Nagarpalika,1,1,524104,111,NP0104,11103,524 1 04 3 004,NP0104304
+29,Barhadashi Gaunpalika,Jhapa,Barhadashi,Gaunpalika,1,1,524104,111,NP0104,11111,524 1 04 4 005,NP0104405
+30,Bhadrapur Nagarpalika,Jhapa,Bhadrapur,Nagarpalika,1,1,524104,111,NP0104,11114,524 1 04 3 008,NP0104308
+31,Birtamod Nagarpalika,Jhapa,Birtamod,Nagarpalika,1,1,524104,111,NP0104,11112,524 1 04 3 007,NP0104307
+32,Buddhashanti Gaunpalika,Jhapa,Buddhashanti,Gaunpalika,1,1,524104,111,NP0104,11102,524 1 04 4 002,NP0104402
+33,Damak Nagarpalika,Jhapa,Damak,Nagarpalika,1,1,524104,111,NP0104,11107,524 1 04 3 001,NP0104301
+34,Gauradhaha Nagarpalika,Jhapa,Gauradhaha,Nagarpalika,1,1,524104,111,NP0104,11108,524 1 04 3 006,NP0104306
+35,Gauriganj Gaunpalika,Jhapa,Gauriganj,Gaunpalika,1,1,524104,111,NP0104,11109,524 1 04 4 003,NP0104403
+36,Haldibari Gaunpalika,Jhapa,Haldibari,Gaunpalika,1,1,524104,111,NP0104,11113,524 1 04 4 006,NP0104406
+37,Jhapa Gaunpalika,Jhapa,Jhapa,Gaunpalika,1,1,524104,111,NP0104,11110,524 1 04 4 004,NP0104404
+38,Kachankawal Gaunpalika,Jhapa,Kachankawal,Gaunpalika,1,1,524104,111,NP0104,11115,524 1 04 4 007,NP0104407
+39,Kamal Gaunpalika,Jhapa,Kamal,Gaunpalika,1,1,524104,111,NP0104,11106,524 1 04 4 001,NP0104401
+40,Kankai Nagarpalika,Jhapa,Kankai,Nagarpalika,1,1,524104,111,NP0104,11104,524 1 04 3 003,NP0104303
+41,Mechinagar Nagarpalika,Jhapa,Mechinagar,Nagarpalika,1,1,524104,111,NP0104,11101,524 1 04 3 005,NP0104305
+42,Shivasataxi Nagarpalika,Jhapa,Shivasataxi,Nagarpalika,1,1,524104,111,NP0104,11105,524 1 04 3 002,NP0104302
+43,Belbari Nagarpalika,Morang,Belbari,Nagarpalika,1,1,524105,112,NP0105,11205,524 1 05 3 003,NP0105303
+44,Biratnagar Mahanagarpalika,Morang,Biratnagar,Mahanagarpalika,1,1,524105,112,NP0105,11214,524 1 05 1 001,NP0105101
+45,Budhiganga Gaunpalika,Morang,Budhiganga,Gaunpalika,1,1,524105,112,NP0105,11213,524 1 05 4 004,NP0105404
+46,Dhanpalthan Gaunpalika,Morang,Dhanpalthan,Gaunpalika,1,1,524105,112,NP0105,11216,524 1 05 4 008,NP0105408
+47,Gramthan Gaunpalika,Morang,Gramthan,Gaunpalika,1,1,524105,112,NP0105,11212,524 1 05 4 005,NP0105405
+48,Jahada Gaunpalika,Morang,Jahada,Gaunpalika,1,1,524105,112,NP0105,11217,524 1 05 4 007,NP0105407
+49,Kanepokhari Gaunpalika,Morang,Kanepokhari,Gaunpalika,1,1,524105,112,NP0105,11206,524 1 05 4 003,NP0105403
+50,Katahari Gaunpalika,Morang,Katahari,Gaunpalika,1,1,524105,112,NP0105,11215,524 1 05 4 006,NP0105406
+51,Kerabari Gaunpalika,Morang,Kerabari,Gaunpalika,1,1,524105,112,NP0105,11203,524 1 05 4 001,NP0105401
+52,Letang Nagarpalika,Morang,Letang,Nagarpalika,1,1,524105,112,NP0105,11202,524 1 05 3 001,NP0105301
+53,Miklajung Gaunpalika,Morang,Miklajung,Gaunpalika,1,1,524105,112,NP0105,11201,524 1 05 4 002,NP0105402
+54,Patahrishanishchare Nagarpalika,Morang,Patahrishanishchare,Nagarpalika,1,1,524105,112,NP0105,11207,524 1 05 3 004,NP0105304
+55,Rangeli Nagarpalika,Morang,Rangeli,Nagarpalika,1,1,524105,112,NP0105,11211,524 1 05 3 006,NP0105306
+56,Ratuwamai Nagarpalika,Morang,Ratuwamai,Nagarpalika,1,1,524105,112,NP0105,11209,524 1 05 3 008,NP0105308
+57,Sundarharaicha Nagarpalika,Morang,Sundarharaicha,Nagarpalika,1,1,524105,112,NP0105,11204,524 1 05 3 002,NP0105302
+58,Sunwarshi Nagarpalika,Morang,Sunwarshi,Nagarpalika,1,1,524105,112,NP0105,11210,524 1 05 3 007,NP0105307
+59,Uralabari Nagarpalika,Morang,Uralabari,Nagarpalika,1,1,524105,112,NP0105,11208,524 1 05 3 005,NP0105305
+60,Barah Nagarpalika,Sunsari,Barah,Nagarpalika,1,1,524106,113,NP0106,11302,524 1 06 3 001,NP0106301
+61,Barju Gaunpalika,Sunsari,Barju,Gaunpalika,1,1,524106,113,NP0106,11312,524 1 06 4 006,NP0106406
+62,Bhokraha Narsingh Gaunpalika,Sunsari,Bhokraha Narsingh,Gaunpalika,1,1,524106,113,NP0106,11304,524 1 06 4 002,NP0106402
+63,Dewanganj Gaunpalika,Sunsari,Dewanganj,Gaunpalika,1,1,524106,113,NP0106,11311,524 1 06 4 005,NP0106405
+64,Dharan Upamahanagarpalika,Sunsari,Dharan,Upamahanagarpalika,1,1,524106,113,NP0106,11301,524 1 06 2 001,NP0106201
+65,Duhabi Nagarpalika,Sunsari,Duhabi,Nagarpalika,1,1,524106,113,NP0106,11307,524 1 06 3 004,NP0106304
+66,Gadhi Gaunpalika,Sunsari,Gadhi,Gaunpalika,1,1,524106,113,NP0106,11308,524 1 06 4 003,NP0106403
+67,Harinagar Gaunpalika,Sunsari,Harinagar,Gaunpalika,1,1,524106,113,NP0106,11310,524 1 06 4 004,NP0106404
+68,Inaruwa Nagarpalika,Sunsari,Inaruwa,Nagarpalika,1,1,524106,113,NP0106,11309,524 1 06 3 003,NP0106303
+69,Itahari Upamahanagarpalika,Sunsari,Itahari,Upamahanagarpalika,1,1,524106,113,NP0106,11306,524 1 06 2 002,NP0106202
+70,Koshi Gaunpalika,Sunsari,Koshi,Gaunpalika,1,1,524106,113,NP0106,11303,524 1 06 4 001,NP0106401
+71,Ramdhuni Nagarpalika,Sunsari,Ramdhuni,Nagarpalika,1,1,524106,113,NP0106,11305,524 1 06 3 002,NP0106302
 72,Koshi Tappu Wildlife Reserve,Sunsari,Koshi Tappu Wildlife Reserve,Wildlife Reserve,1,1,524106,,NP0106,,524 1 06 5 995,NP0106595
-73,Chaubise Gaunpalika,Dhankuta,Chaubise,Gaunpalika,1,1,524107,107.0,NP0107,10707.0,524 1 07 4 004,NP0107404
-74,Chhathar Jorpati Gaunpalika,Dhankuta,Chhathar Jorpati,Gaunpalika,1,1,524107,107.0,NP0107,10703.0,524 1 07 4 002,NP0107402
-75,Dhankuta Nagarpalika,Dhankuta,Dhankuta,Nagarpalika,1,1,524107,107.0,NP0107,10704.0,524 1 07 3 003,NP0107303
-76,Shahidbhumi Gaunpalika,Dhankuta,Shahidbhumi,Gaunpalika,1,1,524107,107.0,NP0107,10705.0,524 1 07 4 001,NP0107401
-77,Mahalaxmi Nagarpalika,Dhankuta,Mahalaxmi,Nagarpalika,1,1,524107,107.0,NP0107,10701.0,524 1 07 3 001,NP0107301
-78,Pakhribas Nagarpalika,Dhankuta,Pakhribas,Nagarpalika,1,1,524107,107.0,NP0107,10702.0,524 1 07 3 002,NP0107302
-79,Sangurigadhi Gaunpalika,Dhankuta,Sangurigadhi,Gaunpalika,1,1,524107,107.0,NP0107,10706.0,524 1 07 4 003,NP0107403
-80,Aathrai Gaunpalika,Terhathum,Aathrai,Gaunpalika,1,1,524108,108.0,NP0108,10801.0,524 1 08 4 003,NP0108403
-81,Chhathar Gaunpalika,Terhathum,Chhathar,Gaunpalika,1,1,524108,108.0,NP0108,10806.0,524 1 08 4 004,NP0108404
-82,Laligurans Nagarpalika,Terhathum,Laligurans,Nagarpalika,1,1,524108,108.0,NP0108,10805.0,524 1 08 3 001,NP0108301
-83,Menchayam Gaunpalika,Terhathum,Menchayam,Gaunpalika,1,1,524108,108.0,NP0108,10803.0,524 1 08 4 001,NP0108401
-84,Myanglung Nagarpalika,Terhathum,Myanglung,Nagarpalika,1,1,524108,108.0,NP0108,10804.0,524 1 08 3 002,NP0108302
-85,Phedap Gaunpalika,Terhathum,Phedap,Gaunpalika,1,1,524108,108.0,NP0108,10802.0,524 1 08 4 002,NP0108402
-86,Bhotkhola Gaunpalika,Sankhuwasabha,Bhotkhola,Gaunpalika,1,1,524109,102.0,NP0109,10201.0,524 1 09 4 002,NP0109402
-87,Chainpur Nagarpalika,Sankhuwasabha,Chainpur,Nagarpalika,1,1,524109,102.0,NP0109,10208.0,524 1 09 3 003,NP0109303
-88,Chichila Gaunpalika,Sankhuwasabha,Chichila,Gaunpalika,1,1,524109,102.0,NP0109,10204.0,524 1 09 4 004,NP0109404
-89,Dharmadevi Nagarpalika,Sankhuwasabha,Dharmadevi,Nagarpalika,1,1,524109,102.0,NP0109,10210.0,524 1 09 3 004,NP0109304
-90,Khandbari Nagarpalika,Sankhuwasabha,Khandbari,Nagarpalika,1,1,524109,102.0,NP0109,10206.0,524 1 09 3 001,NP0109301
-91,Madi Nagarpalika,Sankhuwasabha,Madi,Nagarpalika,1,1,524109,102.0,NP0109,10209.0,524 1 09 3 005,NP0109305
-92,Makalu Gaunpalika,Sankhuwasabha,Makalu,Gaunpalika,1,1,524109,102.0,NP0109,10202.0,524 1 09 4 001,NP0109401
-93,Panchakhapan Nagarpalika,Sankhuwasabha,Panchakhapan,Nagarpalika,1,1,524109,102.0,NP0109,10207.0,524 1 09 3 002,NP0109302
-94,Sabhapokhari Gaunpalika,Sankhuwasabha,Sabhapokhari,Gaunpalika,1,1,524109,102.0,NP0109,10205.0,524 1 09 4 005,NP0109405
-95,Silichong Gaunpalika,Sankhuwasabha,Silichong,Gaunpalika,1,1,524109,102.0,NP0109,10203.0,524 1 09 4 003,NP0109403
-96,Aamchowk Gaunpalika,Bhojpur,Aamchowk,Gaunpalika,1,1,524110,106.0,NP0110,10609.0,524 1 10 4 006,NP0110406
-97,Arun Gaunpalika,Bhojpur,Arun,Gaunpalika,1,1,524110,106.0,NP0110,10605.0,524 1 10 4 003,NP0110403
-98,Bhojpur Nagarpalika,Bhojpur,Bhojpur,Nagarpalika,1,1,524110,106.0,NP0110,10604.0,524 1 10 3 002,NP0110302
-99,Hatuwagadhi Gaunpalika,Bhojpur,Hatuwagadhi,Gaunpalika,1,1,524110,106.0,NP0110,10608.0,524 1 10 4 007,NP0110407
-100,Pauwadungma Gaunpalika,Bhojpur,Pauwadungma,Gaunpalika,1,1,524110,106.0,NP0110,10606.0,524 1 10 4 005,NP0110405
-101,Ramprasad Rai Gaunpalika,Bhojpur,Ramprasad Rai,Gaunpalika,1,1,524110,106.0,NP0110,10607.0,524 1 10 4 004,NP0110404
-102,Salpasilichho Gaunpalika,Bhojpur,Salpasilichho,Gaunpalika,1,1,524110,106.0,NP0110,10602.0,524 1 10 4 001,NP0110401
-103,Shadananda Nagarpalika,Bhojpur,Shadananda,Nagarpalika,1,1,524110,106.0,NP0110,10601.0,524 1 10 3 001,NP0110301
-104,Tyamkemaiyung Gaunpalika,Bhojpur,Tyamkemaiyung,Gaunpalika,1,1,524110,106.0,NP0110,10603.0,524 1 10 4 002,NP0110402
-105,Thulung Dudhkoshi Gaunpalika,Solukhumbu,Thulung Dudhkoshi,Gaunpalika,1,1,524111,103.0,NP0111,10305.0,524 1 11 4 006,NP0111406
-106,Dudhkoshi Gaunpalika,Solukhumbu,Dudhkoshi,Gaunpalika,1,1,524111,103.0,NP0111,10304.0,524 1 11 4 004,NP0111404
-107,Khumbupasanglahmu Gaunpalika,Solukhumbu,Khumbupasanglahmu,Gaunpalika,1,1,524111,103.0,NP0111,10301.0,524 1 11 4 001,NP0111401
-108,Likhupike Gaunpalika,Solukhumbu,Likhupike,Gaunpalika,1,1,524111,103.0,NP0111,10308.0,524 1 11 4 003,NP0111403
-109,Mahakulung Gaunpalika,Solukhumbu,Mahakulung,Gaunpalika,1,1,524111,103.0,NP0111,10302.0,524 1 11 4 002,NP0111402
-110,Nechasalyan Gaunpalika,Solukhumbu,Nechasalyan,Gaunpalika,1,1,524111,103.0,NP0111,10306.0,524 1 11 4 005,NP0111405
-111,Solududhakunda Nagarpalika,Solukhumbu,Solududhakunda,Nagarpalika,1,1,524111,103.0,NP0111,10307.0,524 1 11 3 001,NP0111301
-112,Sotang Gaunpalika,Solukhumbu,Sotang,Gaunpalika,1,1,524111,103.0,NP0111,10303.0,524 1 11 4 007,NP0111407
-113,Champadevi Gaunpalika,Okhaldhunga,Champadevi,Gaunpalika,1,1,524113,104.0,NP0113,10406.0,524 1 13 4 004,NP0113404
-114,Chisankhugadhi Gaunpalika,Okhaldhunga,Chisankhugadhi,Gaunpalika,1,1,524113,104.0,NP0113,10401.0,524 1 13 4 006,NP0113406
-115,Khijidemba Gaunpalika,Okhaldhunga,Khijidemba,Gaunpalika,1,1,524113,104.0,NP0113,10404.0,524 1 13 4 001,NP0113401
-116,Likhu Gaunpalika,Okhaldhunga,Likhu,Gaunpalika,1,1,524113,104.0,NP0113,10405.0,524 1 13 4 002,NP0113402
-117,Manebhanjyang Gaunpalika,Okhaldhunga,Manebhanjyang,Gaunpalika,1,1,524113,104.0,NP0113,10408.0,524 1 13 4 007,NP0113407
-118,Molung Gaunpalika,Okhaldhunga,Molung,Gaunpalika,1,1,524113,104.0,NP0113,10403.0,524 1 13 4 003,NP0113403
-119,Siddhicharan Nagarpalika,Okhaldhunga,Siddhicharan,Nagarpalika,1,1,524113,104.0,NP0113,10402.0,524 1 13 3 001,NP0113301
-120,Sunkoshi Gaunpalika,Okhaldhunga,Sunkoshi,Gaunpalika,1,1,524113,104.0,NP0113,10407.0,524 1 13 4 005,NP0113405
-121,Ainselukhark Gaunpalika,Khotang,Ainselukhark,Gaunpalika,1,1,524112,105.0,NP0112,10502.0,524 1 12 4 001,NP0112401
-122,Barahapokhari Gaunpalika,Khotang,Barahapokhari,Gaunpalika,1,1,524112,105.0,NP0112,10510.0,524 1 12 4 007,NP0112407
-123,Diprung Gaunpalika,Khotang,Diprung,Gaunpalika,1,1,524112,105.0,NP0112,10507.0,524 1 12 4 004,NP0112404
-124,Halesi Tuwachung Nagarpalika,Khotang,Halesi Tuwachung,Nagarpalika,1,1,524112,105.0,NP0112,10504.0,524 1 12 3 001,NP0112301
-125,Jantedhunga Gaunpalika,Khotang,Jantedhunga,Gaunpalika,1,1,524112,105.0,NP0112,10509.0,524 1 12 4 008,NP0112408
-126,Kepilasagadhi Gaunpalika,Khotang,Kepilasagadhi,Gaunpalika,1,1,524112,105.0,NP0112,10501.0,524 1 12 4 002,NP0112402
-127,Khotehang Gaunpalika,Khotang,Khotehang,Gaunpalika,1,1,524112,105.0,NP0112,10508.0,524 1 12 4 006,NP0112406
-128,Rawa Besi Gaunpalika,Khotang,Rawa Besi,Gaunpalika,1,1,524112,105.0,NP0112,10503.0,524 1 12 4 003,NP0112403
-129,Rupakot Majhuwagadhi Nagarpalika,Khotang,Rupakot Majhuwagadhi,Nagarpalika,1,1,524112,105.0,NP0112,10505.0,524 1 12 3 002,NP0112302
-130,Sakela Gaunpalika,Khotang,Sakela,Gaunpalika,1,1,524112,105.0,NP0112,10506.0,524 1 12 4 005,NP0112405
-131,Belaka Nagarpalika,Udayapur,Belaka,Nagarpalika,1,1,524114,114.0,NP0114,11401.0,524 1 14 3 004,NP0114304
-132,Chaudandigadhi Nagarpalika,Udayapur,Chaudandigadhi,Nagarpalika,1,1,524114,114.0,NP0114,11402.0,524 1 14 3 003,NP0114303
-133,Katari Nagarpalika,Udayapur,Katari,Nagarpalika,1,1,524114,114.0,NP0114,11407.0,524 1 14 3 001,NP0114301
-134,Rautamai Gaunpalika,Udayapur,Rautamai,Gaunpalika,1,1,524114,114.0,NP0114,11404.0,524 1 14 4 004,NP0114404
-135,Sunkoshi Gaunpalika,Udayapur,Sunkoshi,Gaunpalika,1,1,524114,114.0,NP0114,11405.0,524 1 14 4 002,NP0114402
-136,Tapli Gaunpalika,Udayapur,Tapli,Gaunpalika,1,1,524114,114.0,NP0114,11406.0,524 1 14 4 001,NP0114401
-137,Triyuga Nagarpalika,Udayapur,Triyuga,Nagarpalika,1,1,524114,114.0,NP0114,11403.0,524 1 14 3 002,NP0114302
-138,Udayapurgadhi Gaunpalika,Udayapur,Udayapurgadhi,Gaunpalika,1,1,524114,114.0,NP0114,11408.0,524 1 14 4 003,NP0114403
+73,Chaubise Gaunpalika,Dhankuta,Chaubise,Gaunpalika,1,1,524107,107,NP0107,10707,524 1 07 4 004,NP0107404
+74,Chhathar Jorpati Gaunpalika,Dhankuta,Chhathar Jorpati,Gaunpalika,1,1,524107,107,NP0107,10703,524 1 07 4 002,NP0107402
+75,Dhankuta Nagarpalika,Dhankuta,Dhankuta,Nagarpalika,1,1,524107,107,NP0107,10704,524 1 07 3 003,NP0107303
+76,Shahidbhumi Gaunpalika,Dhankuta,Shahidbhumi,Gaunpalika,1,1,524107,107,NP0107,10705,524 1 07 4 001,NP0107401
+77,Mahalaxmi Nagarpalika,Dhankuta,Mahalaxmi,Nagarpalika,1,1,524107,107,NP0107,10701,524 1 07 3 001,NP0107301
+78,Pakhribas Nagarpalika,Dhankuta,Pakhribas,Nagarpalika,1,1,524107,107,NP0107,10702,524 1 07 3 002,NP0107302
+79,Sangurigadhi Gaunpalika,Dhankuta,Sangurigadhi,Gaunpalika,1,1,524107,107,NP0107,10706,524 1 07 4 003,NP0107403
+80,Aathrai Gaunpalika,Terhathum,Aathrai,Gaunpalika,1,1,524108,108,NP0108,10801,524 1 08 4 003,NP0108403
+81,Chhathar Gaunpalika,Terhathum,Chhathar,Gaunpalika,1,1,524108,108,NP0108,10806,524 1 08 4 004,NP0108404
+82,Laligurans Nagarpalika,Terhathum,Laligurans,Nagarpalika,1,1,524108,108,NP0108,10805,524 1 08 3 001,NP0108301
+83,Menchayam Gaunpalika,Terhathum,Menchayam,Gaunpalika,1,1,524108,108,NP0108,10803,524 1 08 4 001,NP0108401
+84,Myanglung Nagarpalika,Terhathum,Myanglung,Nagarpalika,1,1,524108,108,NP0108,10804,524 1 08 3 002,NP0108302
+85,Phedap Gaunpalika,Terhathum,Phedap,Gaunpalika,1,1,524108,108,NP0108,10802,524 1 08 4 002,NP0108402
+86,Bhotkhola Gaunpalika,Sankhuwasabha,Bhotkhola,Gaunpalika,1,1,524109,102,NP0109,10201,524 1 09 4 002,NP0109402
+87,Chainpur Nagarpalika,Sankhuwasabha,Chainpur,Nagarpalika,1,1,524109,102,NP0109,10208,524 1 09 3 003,NP0109303
+88,Chichila Gaunpalika,Sankhuwasabha,Chichila,Gaunpalika,1,1,524109,102,NP0109,10204,524 1 09 4 004,NP0109404
+89,Dharmadevi Nagarpalika,Sankhuwasabha,Dharmadevi,Nagarpalika,1,1,524109,102,NP0109,10210,524 1 09 3 004,NP0109304
+90,Khandbari Nagarpalika,Sankhuwasabha,Khandbari,Nagarpalika,1,1,524109,102,NP0109,10206,524 1 09 3 001,NP0109301
+91,Madi Nagarpalika,Sankhuwasabha,Madi,Nagarpalika,1,1,524109,102,NP0109,10209,524 1 09 3 005,NP0109305
+92,Makalu Gaunpalika,Sankhuwasabha,Makalu,Gaunpalika,1,1,524109,102,NP0109,10202,524 1 09 4 001,NP0109401
+93,Panchakhapan Nagarpalika,Sankhuwasabha,Panchakhapan,Nagarpalika,1,1,524109,102,NP0109,10207,524 1 09 3 002,NP0109302
+94,Sabhapokhari Gaunpalika,Sankhuwasabha,Sabhapokhari,Gaunpalika,1,1,524109,102,NP0109,10205,524 1 09 4 005,NP0109405
+95,Silichong Gaunpalika,Sankhuwasabha,Silichong,Gaunpalika,1,1,524109,102,NP0109,10203,524 1 09 4 003,NP0109403
+96,Aamchowk Gaunpalika,Bhojpur,Aamchowk,Gaunpalika,1,1,524110,106,NP0110,10609,524 1 10 4 006,NP0110406
+97,Arun Gaunpalika,Bhojpur,Arun,Gaunpalika,1,1,524110,106,NP0110,10605,524 1 10 4 003,NP0110403
+98,Bhojpur Nagarpalika,Bhojpur,Bhojpur,Nagarpalika,1,1,524110,106,NP0110,10604,524 1 10 3 002,NP0110302
+99,Hatuwagadhi Gaunpalika,Bhojpur,Hatuwagadhi,Gaunpalika,1,1,524110,106,NP0110,10608,524 1 10 4 007,NP0110407
+100,Pauwadungma Gaunpalika,Bhojpur,Pauwadungma,Gaunpalika,1,1,524110,106,NP0110,10606,524 1 10 4 005,NP0110405
+101,Ramprasad Rai Gaunpalika,Bhojpur,Ramprasad Rai,Gaunpalika,1,1,524110,106,NP0110,10607,524 1 10 4 004,NP0110404
+102,Salpasilichho Gaunpalika,Bhojpur,Salpasilichho,Gaunpalika,1,1,524110,106,NP0110,10602,524 1 10 4 001,NP0110401
+103,Shadananda Nagarpalika,Bhojpur,Shadananda,Nagarpalika,1,1,524110,106,NP0110,10601,524 1 10 3 001,NP0110301
+104,Tyamkemaiyung Gaunpalika,Bhojpur,Tyamkemaiyung,Gaunpalika,1,1,524110,106,NP0110,10603,524 1 10 4 002,NP0110402
+105,Thulung Dudhkoshi Gaunpalika,Solukhumbu,Thulung Dudhkoshi,Gaunpalika,1,1,524111,103,NP0111,10305,524 1 11 4 006,NP0111406
+106,Dudhkoshi Gaunpalika,Solukhumbu,Dudhkoshi,Gaunpalika,1,1,524111,103,NP0111,10304,524 1 11 4 004,NP0111404
+107,Khumbupasanglahmu Gaunpalika,Solukhumbu,Khumbupasanglahmu,Gaunpalika,1,1,524111,103,NP0111,10301,524 1 11 4 001,NP0111401
+108,Likhupike Gaunpalika,Solukhumbu,Likhupike,Gaunpalika,1,1,524111,103,NP0111,10308,524 1 11 4 003,NP0111403
+109,Mahakulung Gaunpalika,Solukhumbu,Mahakulung,Gaunpalika,1,1,524111,103,NP0111,10302,524 1 11 4 002,NP0111402
+110,Nechasalyan Gaunpalika,Solukhumbu,Nechasalyan,Gaunpalika,1,1,524111,103,NP0111,10306,524 1 11 4 005,NP0111405
+111,Solududhakunda Nagarpalika,Solukhumbu,Solududhakunda,Nagarpalika,1,1,524111,103,NP0111,10307,524 1 11 3 001,NP0111301
+112,Sotang Gaunpalika,Solukhumbu,Sotang,Gaunpalika,1,1,524111,103,NP0111,10303,524 1 11 4 007,NP0111407
+113,Champadevi Gaunpalika,Okhaldhunga,Champadevi,Gaunpalika,1,1,524113,104,NP0113,10406,524 1 13 4 004,NP0113404
+114,Chisankhugadhi Gaunpalika,Okhaldhunga,Chisankhugadhi,Gaunpalika,1,1,524113,104,NP0113,10401,524 1 13 4 006,NP0113406
+115,Khijidemba Gaunpalika,Okhaldhunga,Khijidemba,Gaunpalika,1,1,524113,104,NP0113,10404,524 1 13 4 001,NP0113401
+116,Likhu Gaunpalika,Okhaldhunga,Likhu,Gaunpalika,1,1,524113,104,NP0113,10405,524 1 13 4 002,NP0113402
+117,Manebhanjyang Gaunpalika,Okhaldhunga,Manebhanjyang,Gaunpalika,1,1,524113,104,NP0113,10408,524 1 13 4 007,NP0113407
+118,Molung Gaunpalika,Okhaldhunga,Molung,Gaunpalika,1,1,524113,104,NP0113,10403,524 1 13 4 003,NP0113403
+119,Siddhicharan Nagarpalika,Okhaldhunga,Siddhicharan,Nagarpalika,1,1,524113,104,NP0113,10402,524 1 13 3 001,NP0113301
+120,Sunkoshi Gaunpalika,Okhaldhunga,Sunkoshi,Gaunpalika,1,1,524113,104,NP0113,10407,524 1 13 4 005,NP0113405
+121,Ainselukhark Gaunpalika,Khotang,Ainselukhark,Gaunpalika,1,1,524112,105,NP0112,10502,524 1 12 4 001,NP0112401
+122,Barahapokhari Gaunpalika,Khotang,Barahapokhari,Gaunpalika,1,1,524112,105,NP0112,10510,524 1 12 4 007,NP0112407
+123,Diprung Gaunpalika,Khotang,Diprung,Gaunpalika,1,1,524112,105,NP0112,10507,524 1 12 4 004,NP0112404
+124,Halesi Tuwachung Nagarpalika,Khotang,Halesi Tuwachung,Nagarpalika,1,1,524112,105,NP0112,10504,524 1 12 3 001,NP0112301
+125,Jantedhunga Gaunpalika,Khotang,Jantedhunga,Gaunpalika,1,1,524112,105,NP0112,10509,524 1 12 4 008,NP0112408
+126,Kepilasagadhi Gaunpalika,Khotang,Kepilasagadhi,Gaunpalika,1,1,524112,105,NP0112,10501,524 1 12 4 002,NP0112402
+127,Khotehang Gaunpalika,Khotang,Khotehang,Gaunpalika,1,1,524112,105,NP0112,10508,524 1 12 4 006,NP0112406
+128,Rawa Besi Gaunpalika,Khotang,Rawa Besi,Gaunpalika,1,1,524112,105,NP0112,10503,524 1 12 4 003,NP0112403
+129,Rupakot Majhuwagadhi Nagarpalika,Khotang,Rupakot Majhuwagadhi,Nagarpalika,1,1,524112,105,NP0112,10505,524 1 12 3 002,NP0112302
+130,Sakela Gaunpalika,Khotang,Sakela,Gaunpalika,1,1,524112,105,NP0112,10506,524 1 12 4 005,NP0112405
+131,Belaka Nagarpalika,Udayapur,Belaka,Nagarpalika,1,1,524114,114,NP0114,11401,524 1 14 3 004,NP0114304
+132,Chaudandigadhi Nagarpalika,Udayapur,Chaudandigadhi,Nagarpalika,1,1,524114,114,NP0114,11402,524 1 14 3 003,NP0114303
+133,Katari Nagarpalika,Udayapur,Katari,Nagarpalika,1,1,524114,114,NP0114,11407,524 1 14 3 001,NP0114301
+134,Rautamai Gaunpalika,Udayapur,Rautamai,Gaunpalika,1,1,524114,114,NP0114,11404,524 1 14 4 004,NP0114404
+135,Sunkoshi Gaunpalika,Udayapur,Sunkoshi,Gaunpalika,1,1,524114,114,NP0114,11405,524 1 14 4 002,NP0114402
+136,Tapli Gaunpalika,Udayapur,Tapli,Gaunpalika,1,1,524114,114,NP0114,11406,524 1 14 4 001,NP0114401
+137,Triyuga Nagarpalika,Udayapur,Triyuga,Nagarpalika,1,1,524114,114,NP0114,11403,524 1 14 3 002,NP0114302
+138,Udayapurgadhi Gaunpalika,Udayapur,Udayapurgadhi,Gaunpalika,1,1,524114,114,NP0114,11408,524 1 14 4 003,NP0114403
 139,Koshi Tappu Wildlife Reserve,Udayapur,Koshi Tappu Wildlife Reserve,Wildlife Reserve,1,1,524114,,NP0114,,524 1 14 5 995,NP0114595
-140,Agnisair Krishna Savaran Gaunpalika,Saptari,Agnisair Krishna Savaran,Gaunpalika,2,2,524215,201.0,NP0215,20103.0,524 2 15 4 002,NP0215402
-141,Balan Bihul Gaunpalika,Saptari,Balan Bihul,Gaunpalika,2,2,524215,201.0,NP0215,20108.0,524 2 15 4 004,NP0215404
-142,Belhi Chapena Gaunpalika,Saptari,Belhi Chapena,Gaunpalika,2,2,524215,201.0,NP0215,20111.0,524 2 15 4 006,NP0215406
-143,Bishnupur Gaunpalika,Saptari,Bishnupur,Gaunpalika,2,2,524215,201.0,NP0215,20112.0,524 2 15 4 007,NP0215407
-144,Bode Barsain Nagarpalika,Saptari,Bode Barsain,Nagarpalika,2,2,524215,201.0,NP0215,20109.0,524 2 15 3 006,NP0215306
-145,Chhinnamasta Gaunpalika,Saptari,Chhinnamasta,Gaunpalika,2,2,524215,201.0,NP0215,20118.0,524 2 15 4 008,NP0215408
-146,Dakneshwori Nagarpalika,Saptari,Dakneshwori,Nagarpalika,2,2,524215,201.0,NP0215,20110.0,524 2 15 3 007,NP0215307
-147,Hanumannagar Kankalini Nagarpalika,Saptari,Hanumannagar Kankalini,Nagarpalika,2,2,524215,201.0,NP0215,20116.0,524 2 15 3 009,NP0215309
-148,Kanchanrup Nagarpalika,Saptari,Kanchanrup,Nagarpalika,2,2,524215,201.0,NP0215,20102.0,524 2 15 3 005,NP0215305
-149,Khadak Nagarpalika,Saptari,Khadak,Nagarpalika,2,2,524215,201.0,NP0215,20106.0,524 2 15 3 002,NP0215302
-150,Mahadeva Gaunpalika,Saptari,Mahadeva,Gaunpalika,2,2,524215,201.0,NP0215,20114.0,524 2 15 4 005,NP0215405
-151,Rajbiraj Nagarpalika,Saptari,Rajbiraj,Nagarpalika,2,2,524215,201.0,NP0215,20113.0,524 2 15 3 008,NP0215308
-152,Rupani Gaunpalika,Saptari,Rupani,Gaunpalika,2,2,524215,201.0,NP0215,20104.0,524 2 15 4 001,NP0215401
-153,Saptakoshi Nagarpalika,Saptari,Saptakoshi,Nagarpalika,2,2,524215,201.0,NP0215,20101.0,524 2 15 3 004,NP0215304
-154,Shambhunath Nagarpalika,Saptari,Shambhunath,Nagarpalika,2,2,524215,201.0,NP0215,20105.0,524 2 15 3 003,NP0215303
-155,Surunga Nagarpalika,Saptari,Surunga,Nagarpalika,2,2,524215,201.0,NP0215,20107.0,524 2 15 3 001,NP0215301
-156,Tilathi Koiladi Gaunpalika,Saptari,Tilathi Koiladi,Gaunpalika,2,2,524215,201.0,NP0215,20117.0,524 2 15 4 009,NP0215409
-157,Tirahut Gaunpalika,Saptari,Tirahut,Gaunpalika,2,2,524215,201.0,NP0215,20115.0,524 2 15 4 003,NP0215403
+140,Agnisair Krishna Savaran Gaunpalika,Saptari,Agnisair Krishna Savaran,Gaunpalika,2,2,524215,201,NP0215,20103,524 2 15 4 002,NP0215402
+141,Balan Bihul Gaunpalika,Saptari,Balan Bihul,Gaunpalika,2,2,524215,201,NP0215,20108,524 2 15 4 004,NP0215404
+142,Belhi Chapena Gaunpalika,Saptari,Belhi Chapena,Gaunpalika,2,2,524215,201,NP0215,20111,524 2 15 4 006,NP0215406
+143,Bishnupur Gaunpalika,Saptari,Bishnupur,Gaunpalika,2,2,524215,201,NP0215,20112,524 2 15 4 007,NP0215407
+144,Bode Barsain Nagarpalika,Saptari,Bode Barsain,Nagarpalika,2,2,524215,201,NP0215,20109,524 2 15 3 006,NP0215306
+145,Chhinnamasta Gaunpalika,Saptari,Chhinnamasta,Gaunpalika,2,2,524215,201,NP0215,20118,524 2 15 4 008,NP0215408
+146,Dakneshwori Nagarpalika,Saptari,Dakneshwori,Nagarpalika,2,2,524215,201,NP0215,20110,524 2 15 3 007,NP0215307
+147,Hanumannagar Kankalini Nagarpalika,Saptari,Hanumannagar Kankalini,Nagarpalika,2,2,524215,201,NP0215,20116,524 2 15 3 009,NP0215309
+148,Kanchanrup Nagarpalika,Saptari,Kanchanrup,Nagarpalika,2,2,524215,201,NP0215,20102,524 2 15 3 005,NP0215305
+149,Khadak Nagarpalika,Saptari,Khadak,Nagarpalika,2,2,524215,201,NP0215,20106,524 2 15 3 002,NP0215302
+150,Mahadeva Gaunpalika,Saptari,Mahadeva,Gaunpalika,2,2,524215,201,NP0215,20114,524 2 15 4 005,NP0215405
+151,Rajbiraj Nagarpalika,Saptari,Rajbiraj,Nagarpalika,2,2,524215,201,NP0215,20113,524 2 15 3 008,NP0215308
+152,Rupani Gaunpalika,Saptari,Rupani,Gaunpalika,2,2,524215,201,NP0215,20104,524 2 15 4 001,NP0215401
+153,Saptakoshi Nagarpalika,Saptari,Saptakoshi,Nagarpalika,2,2,524215,201,NP0215,20101,524 2 15 3 004,NP0215304
+154,Shambhunath Nagarpalika,Saptari,Shambhunath,Nagarpalika,2,2,524215,201,NP0215,20105,524 2 15 3 003,NP0215303
+155,Surunga Nagarpalika,Saptari,Surunga,Nagarpalika,2,2,524215,201,NP0215,20107,524 2 15 3 001,NP0215301
+156,Tilathi Koiladi Gaunpalika,Saptari,Tilathi Koiladi,Gaunpalika,2,2,524215,201,NP0215,20117,524 2 15 4 009,NP0215409
+157,Tirahut Gaunpalika,Saptari,Tirahut,Gaunpalika,2,2,524215,201,NP0215,20115,524 2 15 4 003,NP0215403
 158,Koshi Tappu Wildlife Reserve,Saptari,Koshi Tappu Wildlife Reserve,Wildlife Reserve,2,2,524215,,NP0215,,524 2 15 5 995,NP0215595
-159,Arnama Gaunpalika,Siraha,Arnama,Gaunpalika,2,2,524216,202.0,NP0216,20209.0,524 2 16 4 003,NP0216403
-160,Aurahi Gaunpalika,Siraha,Aurahi,Gaunpalika,2,2,524216,202.0,NP0216,20216.0,524 2 16 4 004,NP0216404
-161,Bariyarpatti Gaunpalika,Siraha,Bariyarpatti,Gaunpalika,2,2,524216,202.0,NP0216,20215.0,524 2 16 4 005,NP0216405
-162,Bhagawanpur Gaunpalika,Siraha,Bhagawanpur,Gaunpalika,2,2,524216,202.0,NP0216,20213.0,524 2 16 4 009,NP0216409
-163,Bishnupur Gaunpalika,Siraha,Bishnupur,Gaunpalika,2,2,524216,202.0,NP0216,20208.0,524 2 16 4 002,NP0216402
-164,Dhangadhimai Nagarpalika,Siraha,Dhangadhimai,Nagarpalika,2,2,524216,202.0,NP0216,20202.0,524 2 16 3 004,NP0216304
-165,Golbazar Nagarpalika,Siraha,Golbazar,Nagarpalika,2,2,524216,202.0,NP0216,20203.0,524 2 16 3 003,NP0216303
-166,Kalyanpur Nagarpalika,Siraha,Kalyanpur,Nagarpalika,2,2,524216,202.0,NP0216,20206.0,524 2 16 3 006,NP0216306
-167,Karjanha Nagarpalika,Siraha,Karjanha,Nagarpalika,2,2,524216,202.0,NP0216,20205.0,524 2 16 3 001,NP0216301
-168,Lahan Nagarpalika,Siraha,Lahan,Nagarpalika,2,2,524216,202.0,NP0216,20201.0,524 2 16 3 005,NP0216305
-169,Laxmipur Patari Gaunpalika,Siraha,Laxmipur Patari,Gaunpalika,2,2,524216,202.0,NP0216,20211.0,524 2 16 4 006,NP0216406
-170,Mirchaiya Nagarpalika,Siraha,Mirchaiya,Nagarpalika,2,2,524216,202.0,NP0216,20204.0,524 2 16 3 002,NP0216302
-171,Naraha Gaunpalika,Siraha,Naraha,Gaunpalika,2,2,524216,202.0,NP0216,20207.0,524 2 16 4 001,NP0216401
-172,Nawarajpur Gaunpalika,Siraha,Nawarajpur,Gaunpalika,2,2,524216,202.0,NP0216,20214.0,524 2 16 4 007,NP0216407
-173,Sakhuwanankarkatti Gaunpalika,Siraha,Sakhuwanankarkatti,Gaunpalika,2,2,524216,202.0,NP0216,20212.0,524 2 16 4 008,NP0216408
-174,Siraha Nagarpalika,Siraha,Siraha,Nagarpalika,2,2,524216,202.0,NP0216,20217.0,524 2 16 3 008,NP0216308
-175,Sukhipur Nagarpalika,Siraha,Sukhipur,Nagarpalika,2,2,524216,202.0,NP0216,20210.0,524 2 16 3 007,NP0216307
-176,Aaurahi Gaunpalika,Dhanusha,Aaurahi,Gaunpalika,2,2,524217,203.0,NP0217,20314.0,524 2 17 4 003,NP0217403
-177,Bateshwor Gaunpalika,Dhanusha,Bateshwor,Gaunpalika,2,2,524217,203.0,NP0217,20304.0,524 2 17 4 001,NP0217401
-178,Bideha Nagarpalika,Dhanusha,Bideha,Nagarpalika,2,2,524217,203.0,NP0217,20313.0,524 2 17 3 010,NP0217310
-179,Chhireshwornath Nagarpalika,Dhanusha,Chhireshwornath,Nagarpalika,2,2,524217,203.0,NP0217,20305.0,524 2 17 3 003,NP0217303
-180,Dhanauji Gaunpalika,Dhanusha,Dhanauji,Gaunpalika,2,2,524217,203.0,NP0217,20316.0,524 2 17 4 004,NP0217404
-181,Dhanusadham Nagarpalika,Dhanusha,Dhanusadham,Nagarpalika,2,2,524217,203.0,NP0217,20302.0,524 2 17 3 004,NP0217304
-182,Ganeshman Charnath Nagarpalika,Dhanusha,Ganeshman Charnath,Nagarpalika,2,2,524217,203.0,NP0217,20301.0,524 2 17 3 002,NP0217302
-183,Hansapur Nagarpalika,Dhanusha,Hansapur,Nagarpalika,2,2,524217,203.0,NP0217,20308.0,524 2 17 3 007,NP0217307
-184,Janaknandani Gaunpalika,Dhanusha,Janaknandani,Gaunpalika,2,2,524217,203.0,NP0217,20312.0,524 2 17 4 006,NP0217406
-185,Janakpur Upamahanagarpalika,Dhanusha,Janakpur,Upamahanagarpalika,2,2,524217,203.0,NP0217,20315.0,524 2 17 2 001,NP0217201
-186,Kamala Nagarpalika,Dhanusha,Kamala,Nagarpalika,2,2,524217,203.0,NP0217,20311.0,524 2 17 3 011,NP0217311
-187,Lakshminiya Gaunpalika,Dhanusha,Lakshminiya,Gaunpalika,2,2,524217,203.0,NP0217,20306.0,524 2 17 4 002,NP0217402
-188,Mithila Nagarpalika,Dhanusha,Mithila,Nagarpalika,2,2,524217,203.0,NP0217,20303.0,524 2 17 3 001,NP0217301
-189,Mithila Bihari Nagarpalika,Dhanusha,Mithila Bihari,Nagarpalika,2,2,524217,203.0,NP0217,20307.0,524 2 17 3 005,NP0217305
-190,Mukhiyapatti Musarmiya Gaunpalika,Dhanusha,Mukhiyapatti Musarmiya,Gaunpalika,2,2,524217,203.0,NP0217,20318.0,524 2 17 4 005,NP0217405
-191,Nagarain Nagarpalika,Dhanusha,Nagarain,Nagarpalika,2,2,524217,203.0,NP0217,20317.0,524 2 17 3 009,NP0217309
-192,Sabaila Nagarpalika,Dhanusha,Sabaila,Nagarpalika,2,2,524217,203.0,NP0217,20309.0,524 2 17 3 006,NP0217306
-193,Sahidnagar Nagarpalika,Dhanusha,Sahidnagar,Nagarpalika,2,2,524217,203.0,NP0217,20310.0,524 2 17 3 008,NP0217308
-194,Aurahi Nagarpalika,Mahottari,Aurahi,Nagarpalika,2,2,524218,204.0,NP0218,20404.0,524 2 18 3 003,NP0218303
-195,Balwa Nagarpalika,Mahottari,Balwa,Nagarpalika,2,2,524218,204.0,NP0218,20407.0,524 2 18 3 007,NP0218307
-196,Bardibas Nagarpalika,Mahottari,Bardibas,Nagarpalika,2,2,524218,204.0,NP0218,20401.0,524 2 18 3 001,NP0218301
-197,Bhangaha Nagarpalika,Mahottari,Bhangaha,Nagarpalika,2,2,524218,204.0,NP0218,20405.0,524 2 18 3 004,NP0218304
-198,Ekdanra Gaunpalika,Mahottari,Ekdanra,Gaunpalika,2,2,524218,204.0,NP0218,20411.0,524 2 18 4 003,NP0218403
-199,Gaushala Nagarpalika,Mahottari,Gaushala,Nagarpalika,2,2,524218,204.0,NP0218,20402.0,524 2 18 3 002,NP0218302
-200,Jaleswor Nagarpalika,Mahottari,Jaleswor,Nagarpalika,2,2,524218,204.0,NP0218,20415.0,524 2 18 3 009,NP0218309
-201,Loharpatti Nagarpalika,Mahottari,Loharpatti,Nagarpalika,2,2,524218,204.0,NP0218,20406.0,524 2 18 3 008,NP0218308
-202,Mahottari Gaunpalika,Mahottari,Mahottari,Gaunpalika,2,2,524218,204.0,NP0218,20412.0,524 2 18 4 004,NP0218404
-203,Manra Siswa Nagarpalika,Mahottari,Manra Siswa,Nagarpalika,2,2,524218,204.0,NP0218,20410.0,524 2 18 3 006,NP0218306
-204,Matihani Nagarpalika,Mahottari,Matihani,Nagarpalika,2,2,524218,204.0,NP0218,20414.0,524 2 18 3 010,NP0218310
-205,Pipra Gaunpalika,Mahottari,Pipra,Gaunpalika,2,2,524218,204.0,NP0218,20413.0,524 2 18 4 005,NP0218405
-206,Ramgopalpur Nagarpalika,Mahottari,Ramgopalpur,Nagarpalika,2,2,524218,204.0,NP0218,20408.0,524 2 18 3 005,NP0218305
-207,Samsi Gaunpalika,Mahottari,Samsi,Gaunpalika,2,2,524218,204.0,NP0218,20409.0,524 2 18 4 002,NP0218402
-208,Sonama Gaunpalika,Mahottari,Sonama,Gaunpalika,2,2,524218,204.0,NP0218,20403.0,524 2 18 4 001,NP0218401
-209,Bagmati Nagarpalika,Sarlahi,Bagmati,Nagarpalika,2,2,524219,205.0,NP0219,20503.0,524 2 19 3 001,NP0219301
-210,Balara Nagarpalika,Sarlahi,Balara,Nagarpalika,2,2,524219,205.0,NP0219,20516.0,524 2 19 3 011,NP0219311
-211,Barahathawa Nagarpalika,Sarlahi,Barahathawa,Nagarpalika,2,2,524219,205.0,NP0219,20504.0,524 2 19 3 004,NP0219304
-212,Basbariya Gaunpalika,Sarlahi,Basbariya,Gaunpalika,2,2,524219,205.0,NP0219,20513.0,524 2 19 4 001,NP0219401
-213,Bishnu Gaunpalika,Sarlahi,Bishnu,Gaunpalika,2,2,524219,205.0,NP0219,20518.0,524 2 19 4 008,NP0219408
-214,Bramhapuri Gaunpalika,Sarlahi,Bramhapuri,Gaunpalika,2,2,524219,205.0,NP0219,20509.0,524 2 19 4 007,NP0219407
-215,Chakraghatta Gaunpalika,Sarlahi,Chakraghatta,Gaunpalika,2,2,524219,205.0,NP0219,20512.0,524 2 19 4 004,NP0219404
-216,Chandranagar Gaunpalika,Sarlahi,Chandranagar,Gaunpalika,2,2,524219,205.0,NP0219,20510.0,524 2 19 4 002,NP0219402
-217,Dhankaul Gaunpalika,Sarlahi,Dhankaul,Gaunpalika,2,2,524219,205.0,NP0219,20514.0,524 2 19 4 003,NP0219403
-218,Godaita Nagarpalika,Sarlahi,Godaita,Nagarpalika,2,2,524219,205.0,NP0219,20517.0,524 2 19 3 008,NP0219308
-219,Haripur Nagarpalika,Sarlahi,Haripur,Nagarpalika,2,2,524219,205.0,NP0219,20505.0,524 2 19 3 005,NP0219305
-220,Haripurwa Nagarpalika,Sarlahi,Haripurwa,Nagarpalika,2,2,524219,205.0,NP0219,20507.0,524 2 19 3 010,NP0219310
-221,Hariwan Nagarpalika,Sarlahi,Hariwan,Nagarpalika,2,2,524219,205.0,NP0219,20502.0,524 2 19 3 002,NP0219302
-222,Ishworpur Nagarpalika,Sarlahi,Ishworpur,Nagarpalika,2,2,524219,205.0,NP0219,20506.0,524 2 19 3 006,NP0219306
-223,Kabilasi Nagarpalika,Sarlahi,Kabilasi,Nagarpalika,2,2,524219,205.0,NP0219,20511.0,524 2 19 3 007,NP0219307
-224,Kaudena Gaunpalika,Sarlahi,Kaudena,Gaunpalika,2,2,524219,205.0,NP0219,20519.0,524 2 19 4 006,NP0219406
-225,Lalbandi Nagarpalika,Sarlahi,Lalbandi,Nagarpalika,2,2,524219,205.0,NP0219,20501.0,524 2 19 3 003,NP0219303
-226,Malangawa Nagarpalika,Sarlahi,Malangawa,Nagarpalika,2,2,524219,205.0,NP0219,20520.0,524 2 19 3 009,NP0219309
-227,Parsa Gaunpalika,Sarlahi,Parsa,Gaunpalika,2,2,524219,205.0,NP0219,20508.0,524 2 19 4 009,NP0219409
-228,Ramnagar Gaunpalika,Sarlahi,Ramnagar,Gaunpalika,2,2,524219,205.0,NP0219,20515.0,524 2 19 4 005,NP0219405
-229,Dudhouli Nagarpalika,Sindhuli,Dudhouli,Nagarpalika,3,Bagmati,524320,311.0,NP0320,31101.0,524 3 20 3 002,NP0320302
-230,Ghanglekh Gaunpalika,Sindhuli,Ghanglekh,Gaunpalika,3,Bagmati,524320,311.0,NP0320,31107.0,524 3 20 4 003,NP0320403
-231,Golanjor Gaunpalika,Sindhuli,Golanjor,Gaunpalika,3,Bagmati,524320,311.0,NP0320,31104.0,524 3 20 4 005,NP0320405
-232,Hariharpurgadhi Gaunpalika,Sindhuli,Hariharpurgadhi,Gaunpalika,3,Bagmati,524320,311.0,NP0320,31109.0,524 3 20 4 001,NP0320401
-233,Kamalamai Nagarpalika,Sindhuli,Kamalamai,Nagarpalika,3,Bagmati,524320,311.0,NP0320,31105.0,524 3 20 3 001,NP0320301
-234,Marin Gaunpalika,Sindhuli,Marin,Gaunpalika,3,Bagmati,524320,311.0,NP0320,31108.0,524 3 20 4 002,NP0320402
-235,Phikkal Gaunpalika,Sindhuli,Phikkal,Gaunpalika,3,Bagmati,524320,311.0,NP0320,31102.0,524 3 20 4 007,NP0320407
-236,Sunkoshi Gaunpalika,Sindhuli,Sunkoshi,Gaunpalika,3,Bagmati,524320,311.0,NP0320,31106.0,524 3 20 4 004,NP0320404
-237,Tinpatan Gaunpalika,Sindhuli,Tinpatan,Gaunpalika,3,Bagmati,524320,311.0,NP0320,31103.0,524 3 20 4 006,NP0320406
-238,Doramba Gaunpalika,Ramechhap,Doramba,Gaunpalika,3,Bagmati,524321,310.0,NP0321,31007.0,524 3 21 4 002,NP0321402
-239,Gokulganga Gaunpalika,Ramechhap,Gokulganga,Gaunpalika,3,Bagmati,524321,310.0,NP0321,31002.0,524 3 21 4 003,NP0321403
-240,Khadadevi Gaunpalika,Ramechhap,Khadadevi,Gaunpalika,3,Bagmati,524321,310.0,NP0321,31006.0,524 3 21 4 005,NP0321405
-241,Likhu Tamakoshi Gaunpalika,Ramechhap,Likhu Tamakoshi,Gaunpalika,3,Bagmati,524321,310.0,NP0321,31003.0,524 3 21 4 006,NP0321406
-242,Manthali Nagarpalika,Ramechhap,Manthali,Nagarpalika,3,Bagmati,524321,310.0,NP0321,31005.0,524 3 21 3 001,NP0321301
-243,Ramechhap Nagarpalika,Ramechhap,Ramechhap,Nagarpalika,3,Bagmati,524321,310.0,NP0321,31004.0,524 3 21 3 002,NP0321302
-244,Sunapati Gaunpalika,Ramechhap,Sunapati,Gaunpalika,3,Bagmati,524321,310.0,NP0321,31008.0,524 3 21 4 001,NP0321401
-245,Umakunda Gaunpalika,Ramechhap,Umakunda,Gaunpalika,3,Bagmati,524321,310.0,NP0321,31001.0,524 3 21 4 004,NP0321404
-246,Baiteshwor Gaunpalika,Dolakha,Baiteshwor,Gaunpalika,3,Bagmati,524322,301.0,NP0322,30104.0,524 3 22 4 004,NP0322404
-247,Bhimeshwor Nagarpalika,Dolakha,Bhimeshwor,Nagarpalika,3,Bagmati,524322,301.0,NP0322,30109.0,524 3 22 3 001,NP0322301
-248,Bigu Gaunpalika,Dolakha,Bigu,Gaunpalika,3,Bagmati,524322,301.0,NP0322,30102.0,524 3 22 4 001,NP0322401
-249,Gaurishankar Gaunpalika,Dolakha,Gaurishankar,Gaunpalika,3,Bagmati,524322,301.0,NP0322,30101.0,524 3 22 4 002,NP0322402
-250,Jiri Nagarpalika,Dolakha,Jiri,Nagarpalika,3,Bagmati,524322,301.0,NP0322,30105.0,524 3 22 3 002,NP0322302
-251,Kalinchok Gaunpalika,Dolakha,Kalinchok,Gaunpalika,3,Bagmati,524322,301.0,NP0322,30103.0,524 3 22 4 003,NP0322403
-252,Melung Gaunpalika,Dolakha,Melung,Gaunpalika,3,Bagmati,524322,301.0,NP0322,30107.0,524 3 22 4 006,NP0322406
-253,Sailung Gaunpalika,Dolakha,Sailung,Gaunpalika,3,Bagmati,524322,301.0,NP0322,30108.0,524 3 22 4 005,NP0322405
-254,Tamakoshi Gaunpalika,Dolakha,Tamakoshi,Gaunpalika,3,Bagmati,524322,301.0,NP0322,30106.0,524 3 22 4 007,NP0322407
-255,Balefi Gaunpalika,Sindhupalchok,Balefi,Gaunpalika,3,Bagmati,524323,302.0,NP0323,30208.0,524 3 23 4 006,NP0323406
-256,Barhabise Nagarpalika,Sindhupalchok,Barhabise,Nagarpalika,3,Bagmati,524323,302.0,NP0323,30209.0,524 3 23 3 003,NP0323303
-257,Bhotekoshi Gaunpalika,Sindhupalchok,Bhotekoshi,Gaunpalika,3,Bagmati,524323,302.0,NP0323,30201.0,524 3 23 4 004,NP0323404
-258,Chautara SangachokGadhi Nagarpalika,Sindhupalchok,Chautara SangachokGadhi,Nagarpalika,3,Bagmati,524323,302.0,NP0323,30207.0,524 3 23 3 002,NP0323302
-259,Helambu Gaunpalika,Sindhupalchok,Helambu,Gaunpalika,3,Bagmati,524323,302.0,NP0323,30204.0,524 3 23 4 001,NP0323401
-260,Indrawati Gaunpalika,Sindhupalchok,Indrawati,Gaunpalika,3,Bagmati,524323,302.0,NP0323,30206.0,524 3 23 4 005,NP0323405
-261,Jugal Gaunpalika,Sindhupalchok,Jugal,Gaunpalika,3,Bagmati,524323,302.0,NP0323,30202.0,524 3 23 4 003,NP0323403
-262,Lisangkhu Pakhar Gaunpalika,Sindhupalchok,Lisangkhu Pakhar,Gaunpalika,3,Bagmati,524323,302.0,NP0323,30211.0,524 3 23 4 009,NP0323409
-263,Melamchi Nagarpalika,Sindhupalchok,Melamchi,Nagarpalika,3,Bagmati,524323,302.0,NP0323,30205.0,524 3 23 3 001,NP0323301
-264,Panchpokhari Thangpal Gaunpalika,Sindhupalchok,Panchpokhari Thangpal,Gaunpalika,3,Bagmati,524323,302.0,NP0323,30203.0,524 3 23 4 002,NP0323402
-265,Sunkoshi Gaunpalika,Sindhupalchok,Sunkoshi,Gaunpalika,3,Bagmati,524323,302.0,NP0323,30212.0,524 3 23 4 007,NP0323407
-266,Tripurasundari Gaunpalika,Sindhupalchok,Tripurasundari,Gaunpalika,3,Bagmati,524323,302.0,NP0323,30210.0,524 3 23 4 008,NP0323408
-267,Banepa Nagarpalika,Kabhrepalanchok,Banepa,Nagarpalika,3,Bagmati,524324,309.0,NP0324,30904.0,524 3 24 3 002,NP0324302
-268,Bethanchowk Gaunpalika,Kabhrepalanchok,Bethanchowk,Gaunpalika,3,Bagmati,524324,309.0,NP0324,30910.0,524 3 24 4 003,NP0324403
-269,Bhumlu Gaunpalika,Kabhrepalanchok,Bhumlu,Gaunpalika,3,Bagmati,524324,309.0,NP0324,30902.0,524 3 24 4 001,NP0324401
-270,Chaurideurali Gaunpalika,Kabhrepalanchok,Chaurideurali,Gaunpalika,3,Bagmati,524324,309.0,NP0324,30901.0,524 3 24 4 002,NP0324402
-271,Dhulikhel Nagarpalika,Kabhrepalanchok,Dhulikhel,Nagarpalika,3,Bagmati,524324,309.0,NP0324,30905.0,524 3 24 3 003,NP0324303
-272,Khanikhola Gaunpalika,Kabhrepalanchok,Khanikhola,Gaunpalika,3,Bagmati,524324,309.0,NP0324,30913.0,524 3 24 4 006,NP0324406
-273,Mahabharat Gaunpalika,Kabhrepalanchok,Mahabharat,Gaunpalika,3,Bagmati,524324,309.0,NP0324,30912.0,524 3 24 4 007,NP0324407
-274,Mandandeupur Nagarpalika,Kabhrepalanchok,Mandandeupur,Nagarpalika,3,Bagmati,524324,309.0,NP0324,30903.0,524 3 24 3 001,NP0324301
-275,Namobuddha Nagarpalika,Kabhrepalanchok,Namobuddha,Nagarpalika,3,Bagmati,524324,309.0,NP0324,30908.0,524 3 24 3 006,NP0324306
-276,Panauti Nagarpalika,Kabhrepalanchok,Panauti,Nagarpalika,3,Bagmati,524324,309.0,NP0324,30909.0,524 3 24 3 005,NP0324305
-277,Panchkhal Nagarpalika,Kabhrepalanchok,Panchkhal,Nagarpalika,3,Bagmati,524324,309.0,NP0324,30906.0,524 3 24 3 004,NP0324304
-278,Roshi Gaunpalika,Kabhrepalanchok,Roshi,Gaunpalika,3,Bagmati,524324,309.0,NP0324,30911.0,524 3 24 4 004,NP0324404
-279,Temal Gaunpalika,Kabhrepalanchok,Temal,Gaunpalika,3,Bagmati,524324,309.0,NP0324,30907.0,524 3 24 4 005,NP0324405
-280,Bagmati Gaunpalika,Lalitpur,Bagmati,Gaunpalika,3,Bagmati,524325,308.0,NP0325,30806.0,524 3 25 4 001,NP0325401
-281,Godawari Nagarpalika,Lalitpur,Godawari,Nagarpalika,3,Bagmati,524325,308.0,NP0325,30803.0,524 3 25 3 001,NP0325301
-282,Konjyosom Gaunpalika,Lalitpur,Konjyosom,Gaunpalika,3,Bagmati,524325,308.0,NP0325,30804.0,524 3 25 4 002,NP0325402
-283,Lalitpur Mahanagarpalika,Lalitpur,Lalitpur,Mahanagarpalika,3,Bagmati,524325,308.0,NP0325,30802.0,524 3 25 1 001,NP0325101
-284,Mahalaxmi Nagarpalika,Lalitpur,Mahalaxmi,Nagarpalika,3,Bagmati,524325,308.0,NP0325,30801.0,524 3 25 3 002,NP0325302
-285,Mahankal Gaunpalika,Lalitpur,Mahankal,Gaunpalika,3,Bagmati,524325,308.0,NP0325,30805.0,524 3 25 4 003,NP0325403
-286,Bhaktapur Nagarpalika,Bhaktapur,Bhaktapur,Nagarpalika,3,Bagmati,524326,307.0,NP0326,30702.0,524 3 26 3 003,NP0326303
-287,Changunarayan Nagarpalika,Bhaktapur,Changunarayan,Nagarpalika,3,Bagmati,524326,307.0,NP0326,30701.0,524 3 26 3 002,NP0326302
-288,Madhyapur Thimi Nagarpalika,Bhaktapur,Madhyapur Thimi,Nagarpalika,3,Bagmati,524326,307.0,NP0326,30703.0,524 3 26 3 001,NP0326301
-289,Suryabinayak Nagarpalika,Bhaktapur,Suryabinayak,Nagarpalika,3,Bagmati,524326,307.0,NP0326,30704.0,524 3 26 3 004,NP0326304
-290,Budhanilakantha Nagarpalika,Kathmandu,Budhanilakantha,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30604.0,524 3 27 3 003,NP0327303
-291,Chandragiri Nagarpalika,Kathmandu,Chandragiri,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30610.0,524 3 27 3 008,NP0327308
-292,Dakshinkali Nagarpalika,Kathmandu,Dakshinkali,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30611.0,524 3 27 3 010,NP0327310
-293,Gokarneshwor Nagarpalika,Kathmandu,Gokarneshwor,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30603.0,524 3 27 3 004,NP0327304
-294,Kageshwori Manahora Nagarpalika,Kathmandu,Kageshwori Manahora,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30602.0,524 3 27 3 006,NP0327306
-295,Kathmandu Mahanagarpalika,Kathmandu,Kathmandu,Mahanagarpalika,3,Bagmati,524327,306.0,NP0327,30608.0,524 3 27 1 001,NP0327101
-296,Kirtipur Nagarpalika,Kathmandu,Kirtipur,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30609.0,524 3 27 3 009,NP0327309
-297,Nagarjun Nagarpalika,Kathmandu,Nagarjun,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30607.0,524 3 27 3 005,NP0327305
-298,Shankharapur Nagarpalika,Kathmandu,Shankharapur,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30601.0,524 3 27 3 007,NP0327307
-299,Tarakeshwor Nagarpalika,Kathmandu,Tarakeshwor,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30606.0,524 3 27 3 001,NP0327301
-300,Tokha Nagarpalika,Kathmandu,Tokha,Nagarpalika,3,Bagmati,524327,306.0,NP0327,30605.0,524 3 27 3 002,NP0327302
-301,Belkotgadhi Nagarpalika,Nuwakot,Belkotgadhi,Nagarpalika,3,Bagmati,524328,305.0,NP0328,30508.0,524 3 28 3 002,NP0328302
-302,Bidur Nagarpalika,Nuwakot,Bidur,Nagarpalika,3,Bagmati,524328,305.0,NP0328,30504.0,524 3 28 3 001,NP0328301
-303,Dupcheshwar Gaunpalika,Nuwakot,Dupcheshwar,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30501.0,524 3 28 4 008,NP0328408
-304,Kakani Gaunpalika,Nuwakot,Kakani,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30512.0,524 3 28 4 009,NP0328409
-305,Kispang Gaunpalika,Nuwakot,Kispang,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30505.0,524 3 28 4 002,NP0328402
-306,Likhu Gaunpalika,Nuwakot,Likhu,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30509.0,524 3 28 4 006,NP0328406
-307,Myagang Gaunpalika,Nuwakot,Myagang,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30506.0,524 3 28 4 001,NP0328401
-308,Panchakanya Gaunpalika,Nuwakot,Panchakanya,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30510.0,524 3 28 4 007,NP0328407
-309,Shivapuri Gaunpalika,Nuwakot,Shivapuri,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30511.0,524 3 28 4 010,NP0328410
-310,Suryagadhi Gaunpalika,Nuwakot,Suryagadhi,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30503.0,524 3 28 4 004,NP0328404
-311,Tadi Gaunpalika,Nuwakot,Tadi,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30502.0,524 3 28 4 005,NP0328405
-312,Tarkeshwar Gaunpalika,Nuwakot,Tarkeshwar,Gaunpalika,3,Bagmati,524328,305.0,NP0328,30507.0,524 3 28 4 003,NP0328403
+159,Arnama Gaunpalika,Siraha,Arnama,Gaunpalika,2,2,524216,202,NP0216,20209,524 2 16 4 003,NP0216403
+160,Aurahi Gaunpalika,Siraha,Aurahi,Gaunpalika,2,2,524216,202,NP0216,20216,524 2 16 4 004,NP0216404
+161,Bariyarpatti Gaunpalika,Siraha,Bariyarpatti,Gaunpalika,2,2,524216,202,NP0216,20215,524 2 16 4 005,NP0216405
+162,Bhagawanpur Gaunpalika,Siraha,Bhagawanpur,Gaunpalika,2,2,524216,202,NP0216,20213,524 2 16 4 009,NP0216409
+163,Bishnupur Gaunpalika,Siraha,Bishnupur,Gaunpalika,2,2,524216,202,NP0216,20208,524 2 16 4 002,NP0216402
+164,Dhangadhimai Nagarpalika,Siraha,Dhangadhimai,Nagarpalika,2,2,524216,202,NP0216,20202,524 2 16 3 004,NP0216304
+165,Golbazar Nagarpalika,Siraha,Golbazar,Nagarpalika,2,2,524216,202,NP0216,20203,524 2 16 3 003,NP0216303
+166,Kalyanpur Nagarpalika,Siraha,Kalyanpur,Nagarpalika,2,2,524216,202,NP0216,20206,524 2 16 3 006,NP0216306
+167,Karjanha Nagarpalika,Siraha,Karjanha,Nagarpalika,2,2,524216,202,NP0216,20205,524 2 16 3 001,NP0216301
+168,Lahan Nagarpalika,Siraha,Lahan,Nagarpalika,2,2,524216,202,NP0216,20201,524 2 16 3 005,NP0216305
+169,Laxmipur Patari Gaunpalika,Siraha,Laxmipur Patari,Gaunpalika,2,2,524216,202,NP0216,20211,524 2 16 4 006,NP0216406
+170,Mirchaiya Nagarpalika,Siraha,Mirchaiya,Nagarpalika,2,2,524216,202,NP0216,20204,524 2 16 3 002,NP0216302
+171,Naraha Gaunpalika,Siraha,Naraha,Gaunpalika,2,2,524216,202,NP0216,20207,524 2 16 4 001,NP0216401
+172,Nawarajpur Gaunpalika,Siraha,Nawarajpur,Gaunpalika,2,2,524216,202,NP0216,20214,524 2 16 4 007,NP0216407
+173,Sakhuwanankarkatti Gaunpalika,Siraha,Sakhuwanankarkatti,Gaunpalika,2,2,524216,202,NP0216,20212,524 2 16 4 008,NP0216408
+174,Siraha Nagarpalika,Siraha,Siraha,Nagarpalika,2,2,524216,202,NP0216,20217,524 2 16 3 008,NP0216308
+175,Sukhipur Nagarpalika,Siraha,Sukhipur,Nagarpalika,2,2,524216,202,NP0216,20210,524 2 16 3 007,NP0216307
+176,Aaurahi Gaunpalika,Dhanusha,Aaurahi,Gaunpalika,2,2,524217,203,NP0217,20314,524 2 17 4 003,NP0217403
+177,Bateshwor Gaunpalika,Dhanusha,Bateshwor,Gaunpalika,2,2,524217,203,NP0217,20304,524 2 17 4 001,NP0217401
+178,Bideha Nagarpalika,Dhanusha,Bideha,Nagarpalika,2,2,524217,203,NP0217,20313,524 2 17 3 010,NP0217310
+179,Chhireshwornath Nagarpalika,Dhanusha,Chhireshwornath,Nagarpalika,2,2,524217,203,NP0217,20305,524 2 17 3 003,NP0217303
+180,Dhanauji Gaunpalika,Dhanusha,Dhanauji,Gaunpalika,2,2,524217,203,NP0217,20316,524 2 17 4 004,NP0217404
+181,Dhanusadham Nagarpalika,Dhanusha,Dhanusadham,Nagarpalika,2,2,524217,203,NP0217,20302,524 2 17 3 004,NP0217304
+182,Ganeshman Charnath Nagarpalika,Dhanusha,Ganeshman Charnath,Nagarpalika,2,2,524217,203,NP0217,20301,524 2 17 3 002,NP0217302
+183,Hansapur Nagarpalika,Dhanusha,Hansapur,Nagarpalika,2,2,524217,203,NP0217,20308,524 2 17 3 007,NP0217307
+184,Janaknandani Gaunpalika,Dhanusha,Janaknandani,Gaunpalika,2,2,524217,203,NP0217,20312,524 2 17 4 006,NP0217406
+185,Janakpur Upamahanagarpalika,Dhanusha,Janakpur,Upamahanagarpalika,2,2,524217,203,NP0217,20315,524 2 17 2 001,NP0217201
+186,Kamala Nagarpalika,Dhanusha,Kamala,Nagarpalika,2,2,524217,203,NP0217,20311,524 2 17 3 011,NP0217311
+187,Lakshminiya Gaunpalika,Dhanusha,Lakshminiya,Gaunpalika,2,2,524217,203,NP0217,20306,524 2 17 4 002,NP0217402
+188,Mithila Nagarpalika,Dhanusha,Mithila,Nagarpalika,2,2,524217,203,NP0217,20303,524 2 17 3 001,NP0217301
+189,Mithila Bihari Nagarpalika,Dhanusha,Mithila Bihari,Nagarpalika,2,2,524217,203,NP0217,20307,524 2 17 3 005,NP0217305
+190,Mukhiyapatti Musarmiya Gaunpalika,Dhanusha,Mukhiyapatti Musarmiya,Gaunpalika,2,2,524217,203,NP0217,20318,524 2 17 4 005,NP0217405
+191,Nagarain Nagarpalika,Dhanusha,Nagarain,Nagarpalika,2,2,524217,203,NP0217,20317,524 2 17 3 009,NP0217309
+192,Sabaila Nagarpalika,Dhanusha,Sabaila,Nagarpalika,2,2,524217,203,NP0217,20309,524 2 17 3 006,NP0217306
+193,Sahidnagar Nagarpalika,Dhanusha,Sahidnagar,Nagarpalika,2,2,524217,203,NP0217,20310,524 2 17 3 008,NP0217308
+194,Aurahi Nagarpalika,Mahottari,Aurahi,Nagarpalika,2,2,524218,204,NP0218,20404,524 2 18 3 003,NP0218303
+195,Balwa Nagarpalika,Mahottari,Balwa,Nagarpalika,2,2,524218,204,NP0218,20407,524 2 18 3 007,NP0218307
+196,Bardibas Nagarpalika,Mahottari,Bardibas,Nagarpalika,2,2,524218,204,NP0218,20401,524 2 18 3 001,NP0218301
+197,Bhangaha Nagarpalika,Mahottari,Bhangaha,Nagarpalika,2,2,524218,204,NP0218,20405,524 2 18 3 004,NP0218304
+198,Ekdanra Gaunpalika,Mahottari,Ekdanra,Gaunpalika,2,2,524218,204,NP0218,20411,524 2 18 4 003,NP0218403
+199,Gaushala Nagarpalika,Mahottari,Gaushala,Nagarpalika,2,2,524218,204,NP0218,20402,524 2 18 3 002,NP0218302
+200,Jaleswor Nagarpalika,Mahottari,Jaleswor,Nagarpalika,2,2,524218,204,NP0218,20415,524 2 18 3 009,NP0218309
+201,Loharpatti Nagarpalika,Mahottari,Loharpatti,Nagarpalika,2,2,524218,204,NP0218,20406,524 2 18 3 008,NP0218308
+202,Mahottari Gaunpalika,Mahottari,Mahottari,Gaunpalika,2,2,524218,204,NP0218,20412,524 2 18 4 004,NP0218404
+203,Manra Siswa Nagarpalika,Mahottari,Manra Siswa,Nagarpalika,2,2,524218,204,NP0218,20410,524 2 18 3 006,NP0218306
+204,Matihani Nagarpalika,Mahottari,Matihani,Nagarpalika,2,2,524218,204,NP0218,20414,524 2 18 3 010,NP0218310
+205,Pipra Gaunpalika,Mahottari,Pipra,Gaunpalika,2,2,524218,204,NP0218,20413,524 2 18 4 005,NP0218405
+206,Ramgopalpur Nagarpalika,Mahottari,Ramgopalpur,Nagarpalika,2,2,524218,204,NP0218,20408,524 2 18 3 005,NP0218305
+207,Samsi Gaunpalika,Mahottari,Samsi,Gaunpalika,2,2,524218,204,NP0218,20409,524 2 18 4 002,NP0218402
+208,Sonama Gaunpalika,Mahottari,Sonama,Gaunpalika,2,2,524218,204,NP0218,20403,524 2 18 4 001,NP0218401
+209,Bagmati Nagarpalika,Sarlahi,Bagmati,Nagarpalika,2,2,524219,205,NP0219,20503,524 2 19 3 001,NP0219301
+210,Balara Nagarpalika,Sarlahi,Balara,Nagarpalika,2,2,524219,205,NP0219,20516,524 2 19 3 011,NP0219311
+211,Barahathawa Nagarpalika,Sarlahi,Barahathawa,Nagarpalika,2,2,524219,205,NP0219,20504,524 2 19 3 004,NP0219304
+212,Basbariya Gaunpalika,Sarlahi,Basbariya,Gaunpalika,2,2,524219,205,NP0219,20513,524 2 19 4 001,NP0219401
+213,Bishnu Gaunpalika,Sarlahi,Bishnu,Gaunpalika,2,2,524219,205,NP0219,20518,524 2 19 4 008,NP0219408
+214,Bramhapuri Gaunpalika,Sarlahi,Bramhapuri,Gaunpalika,2,2,524219,205,NP0219,20509,524 2 19 4 007,NP0219407
+215,Chakraghatta Gaunpalika,Sarlahi,Chakraghatta,Gaunpalika,2,2,524219,205,NP0219,20512,524 2 19 4 004,NP0219404
+216,Chandranagar Gaunpalika,Sarlahi,Chandranagar,Gaunpalika,2,2,524219,205,NP0219,20510,524 2 19 4 002,NP0219402
+217,Dhankaul Gaunpalika,Sarlahi,Dhankaul,Gaunpalika,2,2,524219,205,NP0219,20514,524 2 19 4 003,NP0219403
+218,Godaita Nagarpalika,Sarlahi,Godaita,Nagarpalika,2,2,524219,205,NP0219,20517,524 2 19 3 008,NP0219308
+219,Haripur Nagarpalika,Sarlahi,Haripur,Nagarpalika,2,2,524219,205,NP0219,20505,524 2 19 3 005,NP0219305
+220,Haripurwa Nagarpalika,Sarlahi,Haripurwa,Nagarpalika,2,2,524219,205,NP0219,20507,524 2 19 3 010,NP0219310
+221,Hariwan Nagarpalika,Sarlahi,Hariwan,Nagarpalika,2,2,524219,205,NP0219,20502,524 2 19 3 002,NP0219302
+222,Ishworpur Nagarpalika,Sarlahi,Ishworpur,Nagarpalika,2,2,524219,205,NP0219,20506,524 2 19 3 006,NP0219306
+223,Kabilasi Nagarpalika,Sarlahi,Kabilasi,Nagarpalika,2,2,524219,205,NP0219,20511,524 2 19 3 007,NP0219307
+224,Kaudena Gaunpalika,Sarlahi,Kaudena,Gaunpalika,2,2,524219,205,NP0219,20519,524 2 19 4 006,NP0219406
+225,Lalbandi Nagarpalika,Sarlahi,Lalbandi,Nagarpalika,2,2,524219,205,NP0219,20501,524 2 19 3 003,NP0219303
+226,Malangawa Nagarpalika,Sarlahi,Malangawa,Nagarpalika,2,2,524219,205,NP0219,20520,524 2 19 3 009,NP0219309
+227,Parsa Gaunpalika,Sarlahi,Parsa,Gaunpalika,2,2,524219,205,NP0219,20508,524 2 19 4 009,NP0219409
+228,Ramnagar Gaunpalika,Sarlahi,Ramnagar,Gaunpalika,2,2,524219,205,NP0219,20515,524 2 19 4 005,NP0219405
+229,Dudhouli Nagarpalika,Sindhuli,Dudhouli,Nagarpalika,3,Bagmati,524320,311,NP0320,31101,524 3 20 3 002,NP0320302
+230,Ghanglekh Gaunpalika,Sindhuli,Ghanglekh,Gaunpalika,3,Bagmati,524320,311,NP0320,31107,524 3 20 4 003,NP0320403
+231,Golanjor Gaunpalika,Sindhuli,Golanjor,Gaunpalika,3,Bagmati,524320,311,NP0320,31104,524 3 20 4 005,NP0320405
+232,Hariharpurgadhi Gaunpalika,Sindhuli,Hariharpurgadhi,Gaunpalika,3,Bagmati,524320,311,NP0320,31109,524 3 20 4 001,NP0320401
+233,Kamalamai Nagarpalika,Sindhuli,Kamalamai,Nagarpalika,3,Bagmati,524320,311,NP0320,31105,524 3 20 3 001,NP0320301
+234,Marin Gaunpalika,Sindhuli,Marin,Gaunpalika,3,Bagmati,524320,311,NP0320,31108,524 3 20 4 002,NP0320402
+235,Phikkal Gaunpalika,Sindhuli,Phikkal,Gaunpalika,3,Bagmati,524320,311,NP0320,31102,524 3 20 4 007,NP0320407
+236,Sunkoshi Gaunpalika,Sindhuli,Sunkoshi,Gaunpalika,3,Bagmati,524320,311,NP0320,31106,524 3 20 4 004,NP0320404
+237,Tinpatan Gaunpalika,Sindhuli,Tinpatan,Gaunpalika,3,Bagmati,524320,311,NP0320,31103,524 3 20 4 006,NP0320406
+238,Doramba Gaunpalika,Ramechhap,Doramba,Gaunpalika,3,Bagmati,524321,310,NP0321,31007,524 3 21 4 002,NP0321402
+239,Gokulganga Gaunpalika,Ramechhap,Gokulganga,Gaunpalika,3,Bagmati,524321,310,NP0321,31002,524 3 21 4 003,NP0321403
+240,Khadadevi Gaunpalika,Ramechhap,Khadadevi,Gaunpalika,3,Bagmati,524321,310,NP0321,31006,524 3 21 4 005,NP0321405
+241,Likhu Tamakoshi Gaunpalika,Ramechhap,Likhu Tamakoshi,Gaunpalika,3,Bagmati,524321,310,NP0321,31003,524 3 21 4 006,NP0321406
+242,Manthali Nagarpalika,Ramechhap,Manthali,Nagarpalika,3,Bagmati,524321,310,NP0321,31005,524 3 21 3 001,NP0321301
+243,Ramechhap Nagarpalika,Ramechhap,Ramechhap,Nagarpalika,3,Bagmati,524321,310,NP0321,31004,524 3 21 3 002,NP0321302
+244,Sunapati Gaunpalika,Ramechhap,Sunapati,Gaunpalika,3,Bagmati,524321,310,NP0321,31008,524 3 21 4 001,NP0321401
+245,Umakunda Gaunpalika,Ramechhap,Umakunda,Gaunpalika,3,Bagmati,524321,310,NP0321,31001,524 3 21 4 004,NP0321404
+246,Baiteshwor Gaunpalika,Dolakha,Baiteshwor,Gaunpalika,3,Bagmati,524322,301,NP0322,30104,524 3 22 4 004,NP0322404
+247,Bhimeshwor Nagarpalika,Dolakha,Bhimeshwor,Nagarpalika,3,Bagmati,524322,301,NP0322,30109,524 3 22 3 001,NP0322301
+248,Bigu Gaunpalika,Dolakha,Bigu,Gaunpalika,3,Bagmati,524322,301,NP0322,30102,524 3 22 4 001,NP0322401
+249,Gaurishankar Gaunpalika,Dolakha,Gaurishankar,Gaunpalika,3,Bagmati,524322,301,NP0322,30101,524 3 22 4 002,NP0322402
+250,Jiri Nagarpalika,Dolakha,Jiri,Nagarpalika,3,Bagmati,524322,301,NP0322,30105,524 3 22 3 002,NP0322302
+251,Kalinchok Gaunpalika,Dolakha,Kalinchok,Gaunpalika,3,Bagmati,524322,301,NP0322,30103,524 3 22 4 003,NP0322403
+252,Melung Gaunpalika,Dolakha,Melung,Gaunpalika,3,Bagmati,524322,301,NP0322,30107,524 3 22 4 006,NP0322406
+253,Sailung Gaunpalika,Dolakha,Sailung,Gaunpalika,3,Bagmati,524322,301,NP0322,30108,524 3 22 4 005,NP0322405
+254,Tamakoshi Gaunpalika,Dolakha,Tamakoshi,Gaunpalika,3,Bagmati,524322,301,NP0322,30106,524 3 22 4 007,NP0322407
+255,Balefi Gaunpalika,Sindhupalchok,Balefi,Gaunpalika,3,Bagmati,524323,302,NP0323,30208,524 3 23 4 006,NP0323406
+256,Barhabise Nagarpalika,Sindhupalchok,Barhabise,Nagarpalika,3,Bagmati,524323,302,NP0323,30209,524 3 23 3 003,NP0323303
+257,Bhotekoshi Gaunpalika,Sindhupalchok,Bhotekoshi,Gaunpalika,3,Bagmati,524323,302,NP0323,30201,524 3 23 4 004,NP0323404
+258,Chautara SangachokGadhi Nagarpalika,Sindhupalchok,Chautara SangachokGadhi,Nagarpalika,3,Bagmati,524323,302,NP0323,30207,524 3 23 3 002,NP0323302
+259,Helambu Gaunpalika,Sindhupalchok,Helambu,Gaunpalika,3,Bagmati,524323,302,NP0323,30204,524 3 23 4 001,NP0323401
+260,Indrawati Gaunpalika,Sindhupalchok,Indrawati,Gaunpalika,3,Bagmati,524323,302,NP0323,30206,524 3 23 4 005,NP0323405
+261,Jugal Gaunpalika,Sindhupalchok,Jugal,Gaunpalika,3,Bagmati,524323,302,NP0323,30202,524 3 23 4 003,NP0323403
+262,Lisangkhu Pakhar Gaunpalika,Sindhupalchok,Lisangkhu Pakhar,Gaunpalika,3,Bagmati,524323,302,NP0323,30211,524 3 23 4 009,NP0323409
+263,Melamchi Nagarpalika,Sindhupalchok,Melamchi,Nagarpalika,3,Bagmati,524323,302,NP0323,30205,524 3 23 3 001,NP0323301
+264,Panchpokhari Thangpal Gaunpalika,Sindhupalchok,Panchpokhari Thangpal,Gaunpalika,3,Bagmati,524323,302,NP0323,30203,524 3 23 4 002,NP0323402
+265,Sunkoshi Gaunpalika,Sindhupalchok,Sunkoshi,Gaunpalika,3,Bagmati,524323,302,NP0323,30212,524 3 23 4 007,NP0323407
+266,Tripurasundari Gaunpalika,Sindhupalchok,Tripurasundari,Gaunpalika,3,Bagmati,524323,302,NP0323,30210,524 3 23 4 008,NP0323408
+267,Banepa Nagarpalika,Kabhrepalanchok,Banepa,Nagarpalika,3,Bagmati,524324,309,NP0324,30904,524 3 24 3 002,NP0324302
+268,Bethanchowk Gaunpalika,Kabhrepalanchok,Bethanchowk,Gaunpalika,3,Bagmati,524324,309,NP0324,30910,524 3 24 4 003,NP0324403
+269,Bhumlu Gaunpalika,Kabhrepalanchok,Bhumlu,Gaunpalika,3,Bagmati,524324,309,NP0324,30902,524 3 24 4 001,NP0324401
+270,Chaurideurali Gaunpalika,Kabhrepalanchok,Chaurideurali,Gaunpalika,3,Bagmati,524324,309,NP0324,30901,524 3 24 4 002,NP0324402
+271,Dhulikhel Nagarpalika,Kabhrepalanchok,Dhulikhel,Nagarpalika,3,Bagmati,524324,309,NP0324,30905,524 3 24 3 003,NP0324303
+272,Khanikhola Gaunpalika,Kabhrepalanchok,Khanikhola,Gaunpalika,3,Bagmati,524324,309,NP0324,30913,524 3 24 4 006,NP0324406
+273,Mahabharat Gaunpalika,Kabhrepalanchok,Mahabharat,Gaunpalika,3,Bagmati,524324,309,NP0324,30912,524 3 24 4 007,NP0324407
+274,Mandandeupur Nagarpalika,Kabhrepalanchok,Mandandeupur,Nagarpalika,3,Bagmati,524324,309,NP0324,30903,524 3 24 3 001,NP0324301
+275,Namobuddha Nagarpalika,Kabhrepalanchok,Namobuddha,Nagarpalika,3,Bagmati,524324,309,NP0324,30908,524 3 24 3 006,NP0324306
+276,Panauti Nagarpalika,Kabhrepalanchok,Panauti,Nagarpalika,3,Bagmati,524324,309,NP0324,30909,524 3 24 3 005,NP0324305
+277,Panchkhal Nagarpalika,Kabhrepalanchok,Panchkhal,Nagarpalika,3,Bagmati,524324,309,NP0324,30906,524 3 24 3 004,NP0324304
+278,Roshi Gaunpalika,Kabhrepalanchok,Roshi,Gaunpalika,3,Bagmati,524324,309,NP0324,30911,524 3 24 4 004,NP0324404
+279,Temal Gaunpalika,Kabhrepalanchok,Temal,Gaunpalika,3,Bagmati,524324,309,NP0324,30907,524 3 24 4 005,NP0324405
+280,Bagmati Gaunpalika,Lalitpur,Bagmati,Gaunpalika,3,Bagmati,524325,308,NP0325,30806,524 3 25 4 001,NP0325401
+281,Godawari Nagarpalika,Lalitpur,Godawari,Nagarpalika,3,Bagmati,524325,308,NP0325,30803,524 3 25 3 001,NP0325301
+282,Konjyosom Gaunpalika,Lalitpur,Konjyosom,Gaunpalika,3,Bagmati,524325,308,NP0325,30804,524 3 25 4 002,NP0325402
+283,Lalitpur Mahanagarpalika,Lalitpur,Lalitpur,Mahanagarpalika,3,Bagmati,524325,308,NP0325,30802,524 3 25 1 001,NP0325101
+284,Mahalaxmi Nagarpalika,Lalitpur,Mahalaxmi,Nagarpalika,3,Bagmati,524325,308,NP0325,30801,524 3 25 3 002,NP0325302
+285,Mahankal Gaunpalika,Lalitpur,Mahankal,Gaunpalika,3,Bagmati,524325,308,NP0325,30805,524 3 25 4 003,NP0325403
+286,Bhaktapur Nagarpalika,Bhaktapur,Bhaktapur,Nagarpalika,3,Bagmati,524326,307,NP0326,30702,524 3 26 3 003,NP0326303
+287,Changunarayan Nagarpalika,Bhaktapur,Changunarayan,Nagarpalika,3,Bagmati,524326,307,NP0326,30701,524 3 26 3 002,NP0326302
+288,Madhyapur Thimi Nagarpalika,Bhaktapur,Madhyapur Thimi,Nagarpalika,3,Bagmati,524326,307,NP0326,30703,524 3 26 3 001,NP0326301
+289,Suryabinayak Nagarpalika,Bhaktapur,Suryabinayak,Nagarpalika,3,Bagmati,524326,307,NP0326,30704,524 3 26 3 004,NP0326304
+290,Budhanilakantha Nagarpalika,Kathmandu,Budhanilakantha,Nagarpalika,3,Bagmati,524327,306,NP0327,30604,524 3 27 3 003,NP0327303
+291,Chandragiri Nagarpalika,Kathmandu,Chandragiri,Nagarpalika,3,Bagmati,524327,306,NP0327,30610,524 3 27 3 008,NP0327308
+292,Dakshinkali Nagarpalika,Kathmandu,Dakshinkali,Nagarpalika,3,Bagmati,524327,306,NP0327,30611,524 3 27 3 010,NP0327310
+293,Gokarneshwor Nagarpalika,Kathmandu,Gokarneshwor,Nagarpalika,3,Bagmati,524327,306,NP0327,30603,524 3 27 3 004,NP0327304
+294,Kageshwori Manahora Nagarpalika,Kathmandu,Kageshwori Manahora,Nagarpalika,3,Bagmati,524327,306,NP0327,30602,524 3 27 3 006,NP0327306
+295,Kathmandu Mahanagarpalika,Kathmandu,Kathmandu,Mahanagarpalika,3,Bagmati,524327,306,NP0327,30608,524 3 27 1 001,NP0327101
+296,Kirtipur Nagarpalika,Kathmandu,Kirtipur,Nagarpalika,3,Bagmati,524327,306,NP0327,30609,524 3 27 3 009,NP0327309
+297,Nagarjun Nagarpalika,Kathmandu,Nagarjun,Nagarpalika,3,Bagmati,524327,306,NP0327,30607,524 3 27 3 005,NP0327305
+298,Shankharapur Nagarpalika,Kathmandu,Shankharapur,Nagarpalika,3,Bagmati,524327,306,NP0327,30601,524 3 27 3 007,NP0327307
+299,Tarakeshwor Nagarpalika,Kathmandu,Tarakeshwor,Nagarpalika,3,Bagmati,524327,306,NP0327,30606,524 3 27 3 001,NP0327301
+300,Tokha Nagarpalika,Kathmandu,Tokha,Nagarpalika,3,Bagmati,524327,306,NP0327,30605,524 3 27 3 002,NP0327302
+301,Belkotgadhi Nagarpalika,Nuwakot,Belkotgadhi,Nagarpalika,3,Bagmati,524328,305,NP0328,30508,524 3 28 3 002,NP0328302
+302,Bidur Nagarpalika,Nuwakot,Bidur,Nagarpalika,3,Bagmati,524328,305,NP0328,30504,524 3 28 3 001,NP0328301
+303,Dupcheshwar Gaunpalika,Nuwakot,Dupcheshwar,Gaunpalika,3,Bagmati,524328,305,NP0328,30501,524 3 28 4 008,NP0328408
+304,Kakani Gaunpalika,Nuwakot,Kakani,Gaunpalika,3,Bagmati,524328,305,NP0328,30512,524 3 28 4 009,NP0328409
+305,Kispang Gaunpalika,Nuwakot,Kispang,Gaunpalika,3,Bagmati,524328,305,NP0328,30505,524 3 28 4 002,NP0328402
+306,Likhu Gaunpalika,Nuwakot,Likhu,Gaunpalika,3,Bagmati,524328,305,NP0328,30509,524 3 28 4 006,NP0328406
+307,Myagang Gaunpalika,Nuwakot,Myagang,Gaunpalika,3,Bagmati,524328,305,NP0328,30506,524 3 28 4 001,NP0328401
+308,Panchakanya Gaunpalika,Nuwakot,Panchakanya,Gaunpalika,3,Bagmati,524328,305,NP0328,30510,524 3 28 4 007,NP0328407
+309,Shivapuri Gaunpalika,Nuwakot,Shivapuri,Gaunpalika,3,Bagmati,524328,305,NP0328,30511,524 3 28 4 010,NP0328410
+310,Suryagadhi Gaunpalika,Nuwakot,Suryagadhi,Gaunpalika,3,Bagmati,524328,305,NP0328,30503,524 3 28 4 004,NP0328404
+311,Tadi Gaunpalika,Nuwakot,Tadi,Gaunpalika,3,Bagmati,524328,305,NP0328,30502,524 3 28 4 005,NP0328405
+312,Tarkeshwar Gaunpalika,Nuwakot,Tarkeshwar,Gaunpalika,3,Bagmati,524328,305,NP0328,30507,524 3 28 4 003,NP0328403
 313,Shivapuri Watershed and Wildlife Reserve,Nuwakot,Shivapuri Watershed and Wildlife Reserve,Watershed and Wildlife Reserve,3,Bagmati,524328,,NP0328,,524 3 28 5 996,NP0328596
 314,Langtang National Park,Nuwakot,Langtang National Park,National Park,3,Bagmati,524328,,NP0328,,524 3 28 5 997,NP0328597
-315,Gosaikunda Gaunpalika,Rasuwa,Gosaikunda,Gaunpalika,3,Bagmati,524329,303.0,NP0329,30301.0,524 3 29 4 002,NP0329402
-316,Kalika Gaunpalika,Rasuwa,Kalika,Gaunpalika,3,Bagmati,524329,303.0,NP0329,30304.0,524 3 29 4 004,NP0329404
-317,Naukunda Gaunpalika,Rasuwa,Naukunda,Gaunpalika,3,Bagmati,524329,303.0,NP0329,30305.0,524 3 29 4 005,NP0329405
-318,Aamachodingmo Gaunpalika,Rasuwa,Aamachodingmo,Gaunpalika,3,Bagmati,524329,303.0,NP0329,30302.0,524 3 29 4 001,NP0329401
-319,Uttargaya Gaunpalika,Rasuwa,Uttargaya,Gaunpalika,3,Bagmati,524329,303.0,NP0329,30303.0,524 3 29 4 003,NP0329403
-320,Benighat Rorang Gaunpalika,Dhading,Benighat Rorang,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30409.0,524 3 30 4 008,NP0330408
-321,Dhunibesi Nagarpalika,Dhading,Dhunibesi,Nagarpalika,3,Bagmati,524330,304.0,NP0330,30413.0,524 3 30 3 002,NP0330302
-322,Gajuri Gaunpalika,Dhading,Gajuri,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30410.0,524 3 30 4 009,NP0330409
-323,Galchi Gaunpalika,Dhading,Galchi,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30411.0,524 3 30 4 010,NP0330410
-324,Gangajamuna Gaunpalika,Dhading,Gangajamuna,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30403.0,524 3 30 4 002,NP0330402
-325,Jwalamukhi Gaunpalika,Dhading,Jwalamukhi,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30407.0,524 3 30 4 006,NP0330406
-326,Khaniyabash Gaunpalika,Dhading,Khaniyabash,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30402.0,524 3 30 4 003,NP0330403
-327,Netrawati Dabjong Gaunpalika,Dhading,Netrawati Dabjong,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30405.0,524 3 30 4 005,NP0330405
-328,Nilakantha Nagarpalika,Dhading,Nilakantha,Nagarpalika,3,Bagmati,524330,304.0,NP0330,30406.0,524 3 30 3 001,NP0330301
-329,Rubi Valley Gaunpalika,Dhading,Rubi Valley,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30401.0,524 3 30 4 001,NP0330401
-330,Siddhalek Gaunpalika,Dhading,Siddhalek,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30408.0,524 3 30 4 007,NP0330407
-331,Thakre Gaunpalika,Dhading,Thakre,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30412.0,524 3 30 4 011,NP0330411
-332,Tripura Sundari Gaunpalika,Dhading,Tripura Sundari,Gaunpalika,3,Bagmati,524330,304.0,NP0330,30404.0,524 3 30 4 004,NP0330404
-333,Bagmati Gaunpalika,Makawanpur,Bagmati,Gaunpalika,3,Bagmati,524331,312.0,NP0331,31210.0,524 3 31 4 008,NP0331408
-334,Bakaiya Gaunpalika,Makawanpur,Bakaiya,Gaunpalika,3,Bagmati,524331,312.0,NP0331,31209.0,524 3 31 4 007,NP0331407
-335,Bhimphedi Gaunpalika,Makawanpur,Bhimphedi,Gaunpalika,3,Bagmati,524331,312.0,NP0331,31207.0,524 3 31 4 004,NP0331404
-336,Hetauda Upamahanagarpalika,Makawanpur,Hetauda,Upamahanagarpalika,3,Bagmati,524331,312.0,NP0331,31206.0,524 3 31 2 001,NP0331201
-337,Indrasarowar Gaunpalika,Makawanpur,Indrasarowar,Gaunpalika,3,Bagmati,524331,312.0,NP0331,31201.0,524 3 31 4 005,NP0331405
-338,Kailash Gaunpalika,Makawanpur,Kailash,Gaunpalika,3,Bagmati,524331,312.0,NP0331,31203.0,524 3 31 4 003,NP0331403
-339,Makawanpurgadhi Gaunpalika,Makawanpur,Makawanpurgadhi,Gaunpalika,3,Bagmati,524331,312.0,NP0331,31208.0,524 3 31 4 006,NP0331406
-340,Manahari Gaunpalika,Makawanpur,Manahari,Gaunpalika,3,Bagmati,524331,312.0,NP0331,31205.0,524 3 31 4 001,NP0331401
-341,Raksirang Gaunpalika,Makawanpur,Raksirang,Gaunpalika,3,Bagmati,524331,312.0,NP0331,31204.0,524 3 31 4 002,NP0331402
-342,Thaha Nagarpalika,Makawanpur,Thaha,Nagarpalika,3,Bagmati,524331,312.0,NP0331,31202.0,524 3 31 3 001,NP0331301
+315,Gosaikunda Gaunpalika,Rasuwa,Gosaikunda,Gaunpalika,3,Bagmati,524329,303,NP0329,30301,524 3 29 4 002,NP0329402
+316,Kalika Gaunpalika,Rasuwa,Kalika,Gaunpalika,3,Bagmati,524329,303,NP0329,30304,524 3 29 4 004,NP0329404
+317,Naukunda Gaunpalika,Rasuwa,Naukunda,Gaunpalika,3,Bagmati,524329,303,NP0329,30305,524 3 29 4 005,NP0329405
+318,Aamachodingmo Gaunpalika,Rasuwa,Aamachodingmo,Gaunpalika,3,Bagmati,524329,303,NP0329,30302,524 3 29 4 001,NP0329401
+319,Uttargaya Gaunpalika,Rasuwa,Uttargaya,Gaunpalika,3,Bagmati,524329,303,NP0329,30303,524 3 29 4 003,NP0329403
+320,Benighat Rorang Gaunpalika,Dhading,Benighat Rorang,Gaunpalika,3,Bagmati,524330,304,NP0330,30409,524 3 30 4 008,NP0330408
+321,Dhunibesi Nagarpalika,Dhading,Dhunibesi,Nagarpalika,3,Bagmati,524330,304,NP0330,30413,524 3 30 3 002,NP0330302
+322,Gajuri Gaunpalika,Dhading,Gajuri,Gaunpalika,3,Bagmati,524330,304,NP0330,30410,524 3 30 4 009,NP0330409
+323,Galchi Gaunpalika,Dhading,Galchi,Gaunpalika,3,Bagmati,524330,304,NP0330,30411,524 3 30 4 010,NP0330410
+324,Gangajamuna Gaunpalika,Dhading,Gangajamuna,Gaunpalika,3,Bagmati,524330,304,NP0330,30403,524 3 30 4 002,NP0330402
+325,Jwalamukhi Gaunpalika,Dhading,Jwalamukhi,Gaunpalika,3,Bagmati,524330,304,NP0330,30407,524 3 30 4 006,NP0330406
+326,Khaniyabash Gaunpalika,Dhading,Khaniyabash,Gaunpalika,3,Bagmati,524330,304,NP0330,30402,524 3 30 4 003,NP0330403
+327,Netrawati Dabjong Gaunpalika,Dhading,Netrawati Dabjong,Gaunpalika,3,Bagmati,524330,304,NP0330,30405,524 3 30 4 005,NP0330405
+328,Nilakantha Nagarpalika,Dhading,Nilakantha,Nagarpalika,3,Bagmati,524330,304,NP0330,30406,524 3 30 3 001,NP0330301
+329,Rubi Valley Gaunpalika,Dhading,Rubi Valley,Gaunpalika,3,Bagmati,524330,304,NP0330,30401,524 3 30 4 001,NP0330401
+330,Siddhalek Gaunpalika,Dhading,Siddhalek,Gaunpalika,3,Bagmati,524330,304,NP0330,30408,524 3 30 4 007,NP0330407
+331,Thakre Gaunpalika,Dhading,Thakre,Gaunpalika,3,Bagmati,524330,304,NP0330,30412,524 3 30 4 011,NP0330411
+332,Tripura Sundari Gaunpalika,Dhading,Tripura Sundari,Gaunpalika,3,Bagmati,524330,304,NP0330,30404,524 3 30 4 004,NP0330404
+333,Bagmati Gaunpalika,Makawanpur,Bagmati,Gaunpalika,3,Bagmati,524331,312,NP0331,31210,524 3 31 4 008,NP0331408
+334,Bakaiya Gaunpalika,Makawanpur,Bakaiya,Gaunpalika,3,Bagmati,524331,312,NP0331,31209,524 3 31 4 007,NP0331407
+335,Bhimphedi Gaunpalika,Makawanpur,Bhimphedi,Gaunpalika,3,Bagmati,524331,312,NP0331,31207,524 3 31 4 004,NP0331404
+336,Hetauda Upamahanagarpalika,Makawanpur,Hetauda,Upamahanagarpalika,3,Bagmati,524331,312,NP0331,31206,524 3 31 2 001,NP0331201
+337,Indrasarowar Gaunpalika,Makawanpur,Indrasarowar,Gaunpalika,3,Bagmati,524331,312,NP0331,31201,524 3 31 4 005,NP0331405
+338,Kailash Gaunpalika,Makawanpur,Kailash,Gaunpalika,3,Bagmati,524331,312,NP0331,31203,524 3 31 4 003,NP0331403
+339,Makawanpurgadhi Gaunpalika,Makawanpur,Makawanpurgadhi,Gaunpalika,3,Bagmati,524331,312,NP0331,31208,524 3 31 4 006,NP0331406
+340,Manahari Gaunpalika,Makawanpur,Manahari,Gaunpalika,3,Bagmati,524331,312,NP0331,31205,524 3 31 4 001,NP0331401
+341,Raksirang Gaunpalika,Makawanpur,Raksirang,Gaunpalika,3,Bagmati,524331,312,NP0331,31204,524 3 31 4 002,NP0331402
+342,Thaha Nagarpalika,Makawanpur,Thaha,Nagarpalika,3,Bagmati,524331,312,NP0331,31202,524 3 31 3 001,NP0331301
 343,Parsa Wildlife Reserve,Makawanpur,Parsa Wildlife Reserve,Wildlife Reserve,3,Bagmati,524331,,NP0331,,524 3 31 5 995,NP0331595
 344,Chitawan National Park,Makawanpur,Chitawan National Park,National Park,3,Bagmati,524331,,NP0331,,524 3 31 5 997,NP0331597
-345,Baudhimai Nagarpalika,Rautahat,Baudhimai,Nagarpalika,2,2,524232,206.0,NP0232,20611.0,524 2 32 3 010,NP0232310
-346,Brindaban Nagarpalika,Rautahat,Brindaban,Nagarpalika,2,2,524232,206.0,NP0232,20605.0,524 2 32 3 005,NP0232305
-347,Chandrapur Nagarpalika,Rautahat,Chandrapur,Nagarpalika,2,2,524232,206.0,NP0232,20601.0,524 2 32 3 002,NP0232302
-348,Dewahhi Gonahi Nagarpalika,Rautahat,Dewahhi Gonahi,Nagarpalika,2,2,524232,206.0,NP0232,20609.0,524 2 32 3 007,NP0232307
-349,Durga Bhagwati Gaunpalika,Rautahat,Durga Bhagwati,Gaunpalika,2,2,524232,206.0,NP0232,20615.0,524 2 32 4 002,NP0232402
-350,Gadhimai Nagarpalika,Rautahat,Gadhimai,Nagarpalika,2,2,524232,206.0,NP0232,20606.0,524 2 32 3 009,NP0232309
-351,Garuda Nagarpalika,Rautahat,Garuda,Nagarpalika,2,2,524232,206.0,NP0232,20608.0,524 2 32 3 008,NP0232308
-352,Gaur Nagarpalika,Rautahat,Gaur,Nagarpalika,2,2,524232,206.0,NP0232,20617.0,524 2 32 3 015,NP0232315
-353,Gujara Nagarpalika,Rautahat,Gujara,Nagarpalika,2,2,524232,206.0,NP0232,20602.0,524 2 32 3 001,NP0232301
-354,Ishanath Nagarpalika,Rautahat,Ishanath,Nagarpalika,2,2,524232,206.0,NP0232,20618.0,524 2 32 3 013,NP0232313
-355,Katahariya Nagarpalika,Rautahat,Katahariya,Nagarpalika,2,2,524232,206.0,NP0232,20604.0,524 2 32 3 004,NP0232304
-356,Madhav Narayan Nagarpalika,Rautahat,Madhav Narayan,Nagarpalika,2,2,524232,206.0,NP0232,20607.0,524 2 32 3 011,NP0232311
-357,Maulapur Nagarpalika,Rautahat,Maulapur,Nagarpalika,2,2,524232,206.0,NP0232,20610.0,524 2 32 3 006,NP0232306
-358,Paroha Nagarpalika,Rautahat,Paroha,Nagarpalika,2,2,524232,206.0,NP0232,20612.0,524 2 32 3 012,NP0232312
-359,Phatuwa Bijayapur Nagarpalika,Rautahat,Phatuwa Bijayapur,Nagarpalika,2,2,524232,206.0,NP0232,20603.0,524 2 32 3 003,NP0232303
-360,Rajdevi Nagarpalika,Rautahat,Rajdevi,Nagarpalika,2,2,524232,206.0,NP0232,20616.0,524 2 32 3 016,NP0232316
-361,Rajpur Nagarpalika,Rautahat,Rajpur,Nagarpalika,2,2,524232,206.0,NP0232,20613.0,524 2 32 3 014,NP0232314
-362,Yemunamai Gaunpalika,Rautahat,Yemunamai,Gaunpalika,2,2,524232,206.0,NP0232,20614.0,524 2 32 4 001,NP0232401
-363,Adarshkotwal Gaunpalika,Bara,Adarshkotwal,Gaunpalika,2,2,524233,207.0,NP0233,20711.0,524 2 33 4 009,NP0233409
-364,Baragadhi Gaunpalika,Bara,Baragadhi,Gaunpalika,2,2,524233,207.0,NP0233,20710.0,524 2 33 4 006,NP0233406
-365,Bishrampur Gaunpalika,Bara,Bishrampur,Gaunpalika,2,2,524233,207.0,NP0233,20706.0,524 2 33 4 004,NP0233404
-366,Devtal Gaunpalika,Bara,Devtal,Gaunpalika,2,2,524233,207.0,NP0233,20715.0,524 2 33 4 007,NP0233407
-367,Jitpur Simara Upamahanagarpalika,Bara,Jitpur Simara,Upamahanagarpalika,2,2,524233,207.0,NP0233,20703.0,524 2 33 2 001,NP0233201
-368,Kalaiya Upamahanagarpalika,Bara,Kalaiya,Upamahanagarpalika,2,2,524233,207.0,NP0233,20708.0,524 2 33 2 002,NP0233202
-369,Karaiyamai Gaunpalika,Bara,Karaiyamai,Gaunpalika,2,2,524233,207.0,NP0233,20709.0,524 2 33 4 003,NP0233403
-370,Kolhabi Nagarpalika,Bara,Kolhabi,Nagarpalika,2,2,524233,207.0,NP0233,20702.0,524 2 33 3 002,NP0233302
-371,Mahagadhimai Nagarpalika,Bara,Mahagadhimai,Nagarpalika,2,2,524233,207.0,NP0233,20714.0,524 2 33 3 003,NP0233303
-372,Nijgadh Nagarpalika,Bara,Nijgadh,Nagarpalika,2,2,524233,207.0,NP0233,20701.0,524 2 33 3 001,NP0233301
-373,Pacharauta Nagarpalika,Bara,Pacharauta,Nagarpalika,2,2,524233,207.0,NP0233,20713.0,524 2 33 3 004,NP0233304
-374,Parwanipur Gaunpalika,Bara,Parwanipur,Gaunpalika,2,2,524233,207.0,NP0233,20704.0,524 2 33 4 001,NP0233401
-375,Pheta Gaunpalika,Bara,Pheta,Gaunpalika,2,2,524233,207.0,NP0233,20707.0,524 2 33 4 005,NP0233405
-376,Prasauni Gaunpalika,Bara,Prasauni,Gaunpalika,2,2,524233,207.0,NP0233,20705.0,524 2 33 4 002,NP0233402
-377,Simraungadh Nagarpalika,Bara,Simraungadh,Nagarpalika,2,2,524233,207.0,NP0233,20712.0,524 2 33 3 005,NP0233305
-378,Suwarna Gaunpalika,Bara,Suwarna,Gaunpalika,2,2,524233,207.0,NP0233,20716.0,524 2 33 4 008,NP0233408
+345,Baudhimai Nagarpalika,Rautahat,Baudhimai,Nagarpalika,2,2,524232,206,NP0232,20611,524 2 32 3 010,NP0232310
+346,Brindaban Nagarpalika,Rautahat,Brindaban,Nagarpalika,2,2,524232,206,NP0232,20605,524 2 32 3 005,NP0232305
+347,Chandrapur Nagarpalika,Rautahat,Chandrapur,Nagarpalika,2,2,524232,206,NP0232,20601,524 2 32 3 002,NP0232302
+348,Dewahhi Gonahi Nagarpalika,Rautahat,Dewahhi Gonahi,Nagarpalika,2,2,524232,206,NP0232,20609,524 2 32 3 007,NP0232307
+349,Durga Bhagwati Gaunpalika,Rautahat,Durga Bhagwati,Gaunpalika,2,2,524232,206,NP0232,20615,524 2 32 4 002,NP0232402
+350,Gadhimai Nagarpalika,Rautahat,Gadhimai,Nagarpalika,2,2,524232,206,NP0232,20606,524 2 32 3 009,NP0232309
+351,Garuda Nagarpalika,Rautahat,Garuda,Nagarpalika,2,2,524232,206,NP0232,20608,524 2 32 3 008,NP0232308
+352,Gaur Nagarpalika,Rautahat,Gaur,Nagarpalika,2,2,524232,206,NP0232,20617,524 2 32 3 015,NP0232315
+353,Gujara Nagarpalika,Rautahat,Gujara,Nagarpalika,2,2,524232,206,NP0232,20602,524 2 32 3 001,NP0232301
+354,Ishanath Nagarpalika,Rautahat,Ishanath,Nagarpalika,2,2,524232,206,NP0232,20618,524 2 32 3 013,NP0232313
+355,Katahariya Nagarpalika,Rautahat,Katahariya,Nagarpalika,2,2,524232,206,NP0232,20604,524 2 32 3 004,NP0232304
+356,Madhav Narayan Nagarpalika,Rautahat,Madhav Narayan,Nagarpalika,2,2,524232,206,NP0232,20607,524 2 32 3 011,NP0232311
+357,Maulapur Nagarpalika,Rautahat,Maulapur,Nagarpalika,2,2,524232,206,NP0232,20610,524 2 32 3 006,NP0232306
+358,Paroha Nagarpalika,Rautahat,Paroha,Nagarpalika,2,2,524232,206,NP0232,20612,524 2 32 3 012,NP0232312
+359,Phatuwa Bijayapur Nagarpalika,Rautahat,Phatuwa Bijayapur,Nagarpalika,2,2,524232,206,NP0232,20603,524 2 32 3 003,NP0232303
+360,Rajdevi Nagarpalika,Rautahat,Rajdevi,Nagarpalika,2,2,524232,206,NP0232,20616,524 2 32 3 016,NP0232316
+361,Rajpur Nagarpalika,Rautahat,Rajpur,Nagarpalika,2,2,524232,206,NP0232,20613,524 2 32 3 014,NP0232314
+362,Yemunamai Gaunpalika,Rautahat,Yemunamai,Gaunpalika,2,2,524232,206,NP0232,20614,524 2 32 4 001,NP0232401
+363,Adarshkotwal Gaunpalika,Bara,Adarshkotwal,Gaunpalika,2,2,524233,207,NP0233,20711,524 2 33 4 009,NP0233409
+364,Baragadhi Gaunpalika,Bara,Baragadhi,Gaunpalika,2,2,524233,207,NP0233,20710,524 2 33 4 006,NP0233406
+365,Bishrampur Gaunpalika,Bara,Bishrampur,Gaunpalika,2,2,524233,207,NP0233,20706,524 2 33 4 004,NP0233404
+366,Devtal Gaunpalika,Bara,Devtal,Gaunpalika,2,2,524233,207,NP0233,20715,524 2 33 4 007,NP0233407
+367,Jitpur Simara Upamahanagarpalika,Bara,Jitpur Simara,Upamahanagarpalika,2,2,524233,207,NP0233,20703,524 2 33 2 001,NP0233201
+368,Kalaiya Upamahanagarpalika,Bara,Kalaiya,Upamahanagarpalika,2,2,524233,207,NP0233,20708,524 2 33 2 002,NP0233202
+369,Karaiyamai Gaunpalika,Bara,Karaiyamai,Gaunpalika,2,2,524233,207,NP0233,20709,524 2 33 4 003,NP0233403
+370,Kolhabi Nagarpalika,Bara,Kolhabi,Nagarpalika,2,2,524233,207,NP0233,20702,524 2 33 3 002,NP0233302
+371,Mahagadhimai Nagarpalika,Bara,Mahagadhimai,Nagarpalika,2,2,524233,207,NP0233,20714,524 2 33 3 003,NP0233303
+372,Nijgadh Nagarpalika,Bara,Nijgadh,Nagarpalika,2,2,524233,207,NP0233,20701,524 2 33 3 001,NP0233301
+373,Pacharauta Nagarpalika,Bara,Pacharauta,Nagarpalika,2,2,524233,207,NP0233,20713,524 2 33 3 004,NP0233304
+374,Parwanipur Gaunpalika,Bara,Parwanipur,Gaunpalika,2,2,524233,207,NP0233,20704,524 2 33 4 001,NP0233401
+375,Pheta Gaunpalika,Bara,Pheta,Gaunpalika,2,2,524233,207,NP0233,20707,524 2 33 4 005,NP0233405
+376,Prasauni Gaunpalika,Bara,Prasauni,Gaunpalika,2,2,524233,207,NP0233,20705,524 2 33 4 002,NP0233402
+377,Simraungadh Nagarpalika,Bara,Simraungadh,Nagarpalika,2,2,524233,207,NP0233,20712,524 2 33 3 005,NP0233305
+378,Suwarna Gaunpalika,Bara,Suwarna,Gaunpalika,2,2,524233,207,NP0233,20716,524 2 33 4 008,NP0233408
 379,Parsa Wildlife Reserve,Bara,Parsa Wildlife Reserve,Wildlife Reserve,2,2,524233,,NP0233,,524 2 33 5 995,NP0233595
-380,Bahudaramai Nagarpalika,Parsa,Bahudaramai,Nagarpalika,2,2,524234,208.0,NP0234,20808.0,524 2 34 3 002,NP0234302
-381,Bindabasini Gaunpalika,Parsa,Bindabasini,Gaunpalika,2,2,524234,208.0,NP0234,20814.0,524 2 34 4 010,NP0234410
-382,Birgunj Mahanagarpalika,Parsa,Birgunj,Mahanagarpalika,2,2,524234,208.0,NP0234,20807.0,524 2 34 1 001,NP0234101
-383,Chhipaharmai Gaunpalika,Parsa,Chhipaharmai,Gaunpalika,2,2,524234,208.0,NP0234,20812.0,524 2 34 4 007,NP0234407
-384,Dhobini Gaunpalika,Parsa,Dhobini,Gaunpalika,2,2,524234,208.0,NP0234,20811.0,524 2 34 4 006,NP0234406
-385,Jagarnathpur Gaunpalika,Parsa,Jagarnathpur,Gaunpalika,2,2,524234,208.0,NP0234,20803.0,524 2 34 4 005,NP0234405
-386,Jirabhawani Gaunpalika,Parsa,Jirabhawani,Gaunpalika,2,2,524234,208.0,NP0234,20802.0,524 2 34 4 002,NP0234402
-387,Kalikamai Gaunpalika,Parsa,Kalikamai,Gaunpalika,2,2,524234,208.0,NP0234,20810.0,524 2 34 4 008,NP0234408
-388,Pakahamainpur Gaunpalika,Parsa,Pakahamainpur,Gaunpalika,2,2,524234,208.0,NP0234,20813.0,524 2 34 4 009,NP0234409
-389,Parsagadhi Nagarpalika,Parsa,Parsagadhi,Nagarpalika,2,2,524234,208.0,NP0234,20806.0,524 2 34 3 003,NP0234303
-390,Paterwasugauli Gaunpalika,Parsa,Paterwasugauli,Gaunpalika,2,2,524234,208.0,NP0234,20804.0,524 2 34 4 003,NP0234403
-391,Pokhariya Nagarpalika,Parsa,Pokhariya,Nagarpalika,2,2,524234,208.0,NP0234,20809.0,524 2 34 3 001,NP0234301
-392,SakhuwaPrasauni Gaunpalika,Parsa,SakhuwaPrasauni,Gaunpalika,2,2,524234,208.0,NP0234,20805.0,524 2 34 4 004,NP0234404
-393,Thori Gaunpalika,Parsa,Thori,Gaunpalika,2,2,524234,208.0,NP0234,20801.0,524 2 34 4 001,NP0234401
-394,Bharatpur Mahanagarpalika,Chitawan,Bharatpur,Mahanagarpalika,3,Bagmati,524335,313.0,NP0335,31304.0,524 3 35 1 001,NP0335101
-395,Ichchhyakamana Gaunpalika,Chitawan,Ichchhyakamana,Gaunpalika,3,Bagmati,524335,313.0,NP0335,31303.0,524 3 35 4 001,NP0335401
-396,Kalika Nagarpalika,Chitawan,Kalika,Nagarpalika,3,Bagmati,524335,313.0,NP0335,31302.0,524 3 35 3 001,NP0335301
-397,Khairahani Nagarpalika,Chitawan,Khairahani,Nagarpalika,3,Bagmati,524335,313.0,NP0335,31306.0,524 3 35 3 003,NP0335303
-398,Madi Nagarpalika,Chitawan,Madi,Nagarpalika,3,Bagmati,524335,313.0,NP0335,31307.0,524 3 35 3 005,NP0335305
-399,Rapti Nagarpalika,Chitawan,Rapti,Nagarpalika,3,Bagmati,524335,313.0,NP0335,31301.0,524 3 35 3 004,NP0335304
-400,Ratnanagar Nagarpalika,Chitawan,Ratnanagar,Nagarpalika,3,Bagmati,524335,313.0,NP0335,31305.0,524 3 35 3 002,NP0335302
+380,Bahudaramai Nagarpalika,Parsa,Bahudaramai,Nagarpalika,2,2,524234,208,NP0234,20808,524 2 34 3 002,NP0234302
+381,Bindabasini Gaunpalika,Parsa,Bindabasini,Gaunpalika,2,2,524234,208,NP0234,20814,524 2 34 4 010,NP0234410
+382,Birgunj Mahanagarpalika,Parsa,Birgunj,Mahanagarpalika,2,2,524234,208,NP0234,20807,524 2 34 1 001,NP0234101
+383,Chhipaharmai Gaunpalika,Parsa,Chhipaharmai,Gaunpalika,2,2,524234,208,NP0234,20812,524 2 34 4 007,NP0234407
+384,Dhobini Gaunpalika,Parsa,Dhobini,Gaunpalika,2,2,524234,208,NP0234,20811,524 2 34 4 006,NP0234406
+385,Jagarnathpur Gaunpalika,Parsa,Jagarnathpur,Gaunpalika,2,2,524234,208,NP0234,20803,524 2 34 4 005,NP0234405
+386,Jirabhawani Gaunpalika,Parsa,Jirabhawani,Gaunpalika,2,2,524234,208,NP0234,20802,524 2 34 4 002,NP0234402
+387,Kalikamai Gaunpalika,Parsa,Kalikamai,Gaunpalika,2,2,524234,208,NP0234,20810,524 2 34 4 008,NP0234408
+388,Pakahamainpur Gaunpalika,Parsa,Pakahamainpur,Gaunpalika,2,2,524234,208,NP0234,20813,524 2 34 4 009,NP0234409
+389,Parsagadhi Nagarpalika,Parsa,Parsagadhi,Nagarpalika,2,2,524234,208,NP0234,20806,524 2 34 3 003,NP0234303
+390,Paterwasugauli Gaunpalika,Parsa,Paterwasugauli,Gaunpalika,2,2,524234,208,NP0234,20804,524 2 34 4 003,NP0234403
+391,Pokhariya Nagarpalika,Parsa,Pokhariya,Nagarpalika,2,2,524234,208,NP0234,20809,524 2 34 3 001,NP0234301
+392,SakhuwaPrasauni Gaunpalika,Parsa,SakhuwaPrasauni,Gaunpalika,2,2,524234,208,NP0234,20805,524 2 34 4 004,NP0234404
+393,Thori Gaunpalika,Parsa,Thori,Gaunpalika,2,2,524234,208,NP0234,20801,524 2 34 4 001,NP0234401
+394,Bharatpur Mahanagarpalika,Chitawan,Bharatpur,Mahanagarpalika,3,Bagmati,524335,313,NP0335,31304,524 3 35 1 001,NP0335101
+395,Ichchhyakamana Gaunpalika,Chitawan,Ichchhyakamana,Gaunpalika,3,Bagmati,524335,313,NP0335,31303,524 3 35 4 001,NP0335401
+396,Kalika Nagarpalika,Chitawan,Kalika,Nagarpalika,3,Bagmati,524335,313,NP0335,31302,524 3 35 3 001,NP0335301
+397,Khairahani Nagarpalika,Chitawan,Khairahani,Nagarpalika,3,Bagmati,524335,313,NP0335,31306,524 3 35 3 003,NP0335303
+398,Madi Nagarpalika,Chitawan,Madi,Nagarpalika,3,Bagmati,524335,313,NP0335,31307,524 3 35 3 005,NP0335305
+399,Rapti Nagarpalika,Chitawan,Rapti,Nagarpalika,3,Bagmati,524335,313,NP0335,31301,524 3 35 3 004,NP0335304
+400,Ratnanagar Nagarpalika,Chitawan,Ratnanagar,Nagarpalika,3,Bagmati,524335,313,NP0335,31305,524 3 35 3 002,NP0335302
 401,Chitawan National Park,Chitawan,Chitawan National Park,National Park,3,Bagmati,524335,,NP0335,,524 3 35 5 997,NP0335597
-402,Aarughat Gaunpalika,Gorkha,Aarughat,Gaunpalika,4,Gandaki,524436,401.0,NP0436,40105.0,524 4 36 4 006,NP0436406
-403,Ajirkot Gaunpalika,Gorkha,Ajirkot,Gaunpalika,4,Gandaki,524436,401.0,NP0436,40102.0,524 4 36 4 002,NP0436402
-404,Bhimsen Thapa Gaunpalika,Gorkha,Bhimsen Thapa,Gaunpalika,4,Gandaki,524436,401.0,NP0436,40106.0,524 4 36 4 007,NP0436407
-405,Chum Nubri Gaunpalika,Gorkha,Chum Nubri,Gaunpalika,4,Gandaki,524436,401.0,NP0436,40101.0,524 4 36 4 001,NP0436401
-406,Dharche Gaunpalika,Gorkha,Dharche,Gaunpalika,4,Gandaki,524436,401.0,NP0436,40104.0,524 4 36 4 004,NP0436404
-407,Gandaki Gaunpalika,Gorkha,Gandaki,Gaunpalika,4,Gandaki,524436,401.0,NP0436,40111.0,524 4 36 4 009,NP0436409
-408,Gorkha Nagarpalika,Gorkha,Gorkha,Nagarpalika,4,Gandaki,524436,401.0,NP0436,40109.0,524 4 36 3 002,NP0436302
-409,Palungtar Nagarpalika,Gorkha,Palungtar,Nagarpalika,4,Gandaki,524436,401.0,NP0436,40108.0,524 4 36 3 001,NP0436301
-410,Sahid Lakhan Gaunpalika,Gorkha,Sahid Lakhan,Gaunpalika,4,Gandaki,524436,401.0,NP0436,40110.0,524 4 36 4 008,NP0436408
-411,Siranchok Gaunpalika,Gorkha,Siranchok,Gaunpalika,4,Gandaki,524436,401.0,NP0436,40107.0,524 4 36 4 005,NP0436405
-412,Barpak Sulikot Gaunpalika,Gorkha,Barpak Sulikot,Gaunpalika,4,Gandaki,524436,401.0,NP0436,40103.0,524 4 36 4 003,NP0436403
-413,Besishahar Nagarpalika,Lamjung,Besishahar,Nagarpalika,4,Gandaki,524437,406.0,NP0437,40605.0,524 4 37 3 002,NP0437302
-414,Dordi Gaunpalika,Lamjung,Dordi,Gaunpalika,4,Gandaki,524437,406.0,NP0437,40601.0,524 4 37 4 003,NP0437403
-415,Dudhpokhari Gaunpalika,Lamjung,Dudhpokhari,Gaunpalika,4,Gandaki,524437,406.0,NP0437,40608.0,524 4 37 4 004,NP0437404
-416,Kwholasothar Gaunpalika,Lamjung,Kwholasothar,Gaunpalika,4,Gandaki,524437,406.0,NP0437,40603.0,524 4 37 4 001,NP0437401
-417,MadhyaNepal Nagarpalika,Lamjung,MadhyaNepal,Nagarpalika,4,Gandaki,524437,406.0,NP0437,40604.0,524 4 37 3 001,NP0437301
-418,Marsyangdi Gaunpalika,Lamjung,Marsyangdi,Gaunpalika,4,Gandaki,524437,406.0,NP0437,40602.0,524 4 37 4 002,NP0437402
-419,Rainas Nagarpalika,Lamjung,Rainas,Nagarpalika,4,Gandaki,524437,406.0,NP0437,40607.0,524 4 37 3 004,NP0437304
-420,Sundarbazar Nagarpalika,Lamjung,Sundarbazar,Nagarpalika,4,Gandaki,524437,406.0,NP0437,40606.0,524 4 37 3 003,NP0437303
-421,Anbukhaireni Gaunpalika,Tanahu,Anbukhaireni,Gaunpalika,4,Gandaki,524440,407.0,NP0440,40710.0,524 4 40 4 005,NP0440405
-422,Bandipur Gaunpalika,Tanahu,Bandipur,Gaunpalika,4,Gandaki,524440,407.0,NP0440,40709.0,524 4 40 4 004,NP0440404
-423,Bhanu Nagarpalika,Tanahu,Bhanu,Nagarpalika,4,Gandaki,524440,407.0,NP0440,40701.0,524 4 40 3 003,NP0440303
-424,Bhimad Nagarpalika,Tanahu,Bhimad,Nagarpalika,4,Gandaki,524440,407.0,NP0440,40705.0,524 4 40 3 004,NP0440304
-425,Byas Nagarpalika,Tanahu,Byas,Nagarpalika,4,Gandaki,524440,407.0,NP0440,40702.0,524 4 40 3 002,NP0440302
-426,Devghat Gaunpalika,Tanahu,Devghat,Gaunpalika,4,Gandaki,524440,407.0,NP0440,40708.0,524 4 40 4 006,NP0440406
-427,Ghiring Gaunpalika,Tanahu,Ghiring,Gaunpalika,4,Gandaki,524440,407.0,NP0440,40706.0,524 4 40 4 002,NP0440402
-428,Myagde Gaunpalika,Tanahu,Myagde,Gaunpalika,4,Gandaki,524440,407.0,NP0440,40703.0,524 4 40 4 001,NP0440401
-429,Rhishing Gaunpalika,Tanahu,Rhishing,Gaunpalika,4,Gandaki,524440,407.0,NP0440,40707.0,524 4 40 4 003,NP0440403
-430,Shuklagandaki Nagarpalika,Tanahu,Shuklagandaki,Nagarpalika,4,Gandaki,524440,407.0,NP0440,40704.0,524 4 40 3 001,NP0440301
-431,Aandhikhola Gaunpalika,Syangja,Aandhikhola,Gaunpalika,4,Gandaki,524441,409.0,NP0441,40903.0,524 4 41 4 001,NP0441401
-432,Arjunchaupari Gaunpalika,Syangja,Arjunchaupari,Gaunpalika,4,Gandaki,524441,409.0,NP0441,40904.0,524 4 41 4 003,NP0441403
-433,Bhirkot Nagarpalika,Syangja,Bhirkot,Nagarpalika,4,Gandaki,524441,409.0,NP0441,40905.0,524 4 41 3 002,NP0441302
-434,Biruwa Gaunpalika,Syangja,Biruwa,Gaunpalika,4,Gandaki,524441,409.0,NP0441,40906.0,524 4 41 4 004,NP0441404
-435,Chapakot Nagarpalika,Syangja,Chapakot,Nagarpalika,4,Gandaki,524441,409.0,NP0441,40908.0,524 4 41 3 005,NP0441305
-436,Galyang Nagarpalika,Syangja,Galyang,Nagarpalika,4,Gandaki,524441,409.0,NP0441,40910.0,524 4 41 3 003,NP0441303
-437,Harinas Gaunpalika,Syangja,Harinas,Gaunpalika,4,Gandaki,524441,409.0,NP0441,40907.0,524 4 41 4 005,NP0441405
-438,Kaligandagi Gaunpalika,Syangja,Kaligandagi,Gaunpalika,4,Gandaki,524441,409.0,NP0441,40911.0,524 4 41 4 006,NP0441406
-439,Phedikhola Gaunpalika,Syangja,Phedikhola,Gaunpalika,4,Gandaki,524441,409.0,NP0441,40902.0,524 4 41 4 002,NP0441402
-440,Putalibazar Nagarpalika,Syangja,Putalibazar,Nagarpalika,4,Gandaki,524441,409.0,NP0441,40901.0,524 4 41 3 001,NP0441301
-441,Waling Nagarpalika,Syangja,Waling,Nagarpalika,4,Gandaki,524441,409.0,NP0441,40909.0,524 4 41 3 004,NP0441304
-442,Annapurna Gaunpalika,Kaski,Annapurna,Gaunpalika,4,Gandaki,524439,405.0,NP0439,40503.0,524 4 39 4 001,NP0439401
-443,Machhapuchchhre Gaunpalika,Kaski,Machhapuchchhre,Gaunpalika,4,Gandaki,524439,405.0,NP0439,40502.0,524 4 39 4 002,NP0439402
-444,Madi Gaunpalika,Kaski,Madi,Gaunpalika,4,Gandaki,524439,405.0,NP0439,40501.0,524 4 39 4 003,NP0439403
-445,Pokhara Lekhnath Mahanagarpalika,Kaski,Pokhara Lekhnath,Mahanagarpalika,4,Gandaki,524439,405.0,NP0439,40504.0,524 4 39 1 001,NP0439101
-446,Rupa Gaunpalika,Kaski,Rupa,Gaunpalika,4,Gandaki,524439,405.0,NP0439,40505.0,524 4 39 4 004,NP0439404
-447,Chame Gaunpalika,Manang,Chame,Gaunpalika,4,Gandaki,524438,402.0,NP0438,40203.0,524 4 38 4 003,NP0438403
-448,Narpa Bhumi Gaunpalika,Manang,Narpa Bhumi,Gaunpalika,4,Gandaki,524438,402.0,NP0438,40201.0,524 4 38 4 002,NP0438402
-449,Nasho Gaunpalika,Manang,Nasho,Gaunpalika,4,Gandaki,524438,402.0,NP0438,40204.0,524 4 38 4 004,NP0438404
-450,Manang Nshiang Gaunpalika,Manang,Manang Nshiang,Gaunpalika,4,Gandaki,524438,402.0,NP0438,40202.0,524 4 38 4 001,NP0438401
-451,Waragun Muktikshetra Gaunpalika,Mustang,Waragun Muktikshetra,Gaunpalika,4,Gandaki,524445,403.0,NP0445,40303.0,524 4 45 4 003,NP0445403
-452,Lo-Ghekar Damodarkunda Gaunpalika,Mustang,Lo-Ghekar Damodarkunda,Gaunpalika,4,Gandaki,524445,403.0,NP0445,40301.0,524 4 45 4 002,NP0445402
-453,Gharapjhong Gaunpalika,Mustang,Gharapjhong,Gaunpalika,4,Gandaki,524445,403.0,NP0445,40302.0,524 4 45 4 004,NP0445404
-454,Lomanthang Gaunpalika,Mustang,Lomanthang,Gaunpalika,4,Gandaki,524445,403.0,NP0445,40304.0,524 4 45 4 001,NP0445401
-455,Thasang Gaunpalika,Mustang,Thasang,Gaunpalika,4,Gandaki,524445,403.0,NP0445,40305.0,524 4 45 4 005,NP0445405
-456,Annapurna Gaunpalika,Myagdi,Annapurna,Gaunpalika,4,Gandaki,524444,404.0,NP0444,40401.0,524 4 44 4 003,NP0444403
-457,Beni Nagarpalika,Myagdi,Beni,Nagarpalika,4,Gandaki,524444,404.0,NP0444,40406.0,524 4 44 3 001,NP0444301
-458,Dhaulagiri Gaunpalika,Myagdi,Dhaulagiri,Gaunpalika,4,Gandaki,524444,404.0,NP0444,40403.0,524 4 44 4 001,NP0444401
-459,Malika Gaunpalika,Myagdi,Malika,Gaunpalika,4,Gandaki,524444,404.0,NP0444,40404.0,524 4 44 4 004,NP0444404
-460,Mangala Gaunpalika,Myagdi,Mangala,Gaunpalika,4,Gandaki,524444,404.0,NP0444,40405.0,524 4 44 4 005,NP0444405
-461,Raghuganga Gaunpalika,Myagdi,Raghuganga,Gaunpalika,4,Gandaki,524444,404.0,NP0444,40402.0,524 4 44 4 002,NP0444402
+402,Aarughat Gaunpalika,Gorkha,Aarughat,Gaunpalika,4,Gandaki,524436,401,NP0436,40105,524 4 36 4 006,NP0436406
+403,Ajirkot Gaunpalika,Gorkha,Ajirkot,Gaunpalika,4,Gandaki,524436,401,NP0436,40102,524 4 36 4 002,NP0436402
+404,Bhimsen Thapa Gaunpalika,Gorkha,Bhimsen Thapa,Gaunpalika,4,Gandaki,524436,401,NP0436,40106,524 4 36 4 007,NP0436407
+405,Chum Nubri Gaunpalika,Gorkha,Chum Nubri,Gaunpalika,4,Gandaki,524436,401,NP0436,40101,524 4 36 4 001,NP0436401
+406,Dharche Gaunpalika,Gorkha,Dharche,Gaunpalika,4,Gandaki,524436,401,NP0436,40104,524 4 36 4 004,NP0436404
+407,Gandaki Gaunpalika,Gorkha,Gandaki,Gaunpalika,4,Gandaki,524436,401,NP0436,40111,524 4 36 4 009,NP0436409
+408,Gorkha Nagarpalika,Gorkha,Gorkha,Nagarpalika,4,Gandaki,524436,401,NP0436,40109,524 4 36 3 002,NP0436302
+409,Palungtar Nagarpalika,Gorkha,Palungtar,Nagarpalika,4,Gandaki,524436,401,NP0436,40108,524 4 36 3 001,NP0436301
+410,Sahid Lakhan Gaunpalika,Gorkha,Sahid Lakhan,Gaunpalika,4,Gandaki,524436,401,NP0436,40110,524 4 36 4 008,NP0436408
+411,Siranchok Gaunpalika,Gorkha,Siranchok,Gaunpalika,4,Gandaki,524436,401,NP0436,40107,524 4 36 4 005,NP0436405
+412,Barpak Sulikot Gaunpalika,Gorkha,Barpak Sulikot,Gaunpalika,4,Gandaki,524436,401,NP0436,40103,524 4 36 4 003,NP0436403
+413,Besishahar Nagarpalika,Lamjung,Besishahar,Nagarpalika,4,Gandaki,524437,406,NP0437,40605,524 4 37 3 002,NP0437302
+414,Dordi Gaunpalika,Lamjung,Dordi,Gaunpalika,4,Gandaki,524437,406,NP0437,40601,524 4 37 4 003,NP0437403
+415,Dudhpokhari Gaunpalika,Lamjung,Dudhpokhari,Gaunpalika,4,Gandaki,524437,406,NP0437,40608,524 4 37 4 004,NP0437404
+416,Kwholasothar Gaunpalika,Lamjung,Kwholasothar,Gaunpalika,4,Gandaki,524437,406,NP0437,40603,524 4 37 4 001,NP0437401
+417,MadhyaNepal Nagarpalika,Lamjung,MadhyaNepal,Nagarpalika,4,Gandaki,524437,406,NP0437,40604,524 4 37 3 001,NP0437301
+418,Marsyangdi Gaunpalika,Lamjung,Marsyangdi,Gaunpalika,4,Gandaki,524437,406,NP0437,40602,524 4 37 4 002,NP0437402
+419,Rainas Nagarpalika,Lamjung,Rainas,Nagarpalika,4,Gandaki,524437,406,NP0437,40607,524 4 37 3 004,NP0437304
+420,Sundarbazar Nagarpalika,Lamjung,Sundarbazar,Nagarpalika,4,Gandaki,524437,406,NP0437,40606,524 4 37 3 003,NP0437303
+421,Anbukhaireni Gaunpalika,Tanahu,Anbukhaireni,Gaunpalika,4,Gandaki,524440,407,NP0440,40710,524 4 40 4 005,NP0440405
+422,Bandipur Gaunpalika,Tanahu,Bandipur,Gaunpalika,4,Gandaki,524440,407,NP0440,40709,524 4 40 4 004,NP0440404
+423,Bhanu Nagarpalika,Tanahu,Bhanu,Nagarpalika,4,Gandaki,524440,407,NP0440,40701,524 4 40 3 003,NP0440303
+424,Bhimad Nagarpalika,Tanahu,Bhimad,Nagarpalika,4,Gandaki,524440,407,NP0440,40705,524 4 40 3 004,NP0440304
+425,Byas Nagarpalika,Tanahu,Byas,Nagarpalika,4,Gandaki,524440,407,NP0440,40702,524 4 40 3 002,NP0440302
+426,Devghat Gaunpalika,Tanahu,Devghat,Gaunpalika,4,Gandaki,524440,407,NP0440,40708,524 4 40 4 006,NP0440406
+427,Ghiring Gaunpalika,Tanahu,Ghiring,Gaunpalika,4,Gandaki,524440,407,NP0440,40706,524 4 40 4 002,NP0440402
+428,Myagde Gaunpalika,Tanahu,Myagde,Gaunpalika,4,Gandaki,524440,407,NP0440,40703,524 4 40 4 001,NP0440401
+429,Rhishing Gaunpalika,Tanahu,Rhishing,Gaunpalika,4,Gandaki,524440,407,NP0440,40707,524 4 40 4 003,NP0440403
+430,Shuklagandaki Nagarpalika,Tanahu,Shuklagandaki,Nagarpalika,4,Gandaki,524440,407,NP0440,40704,524 4 40 3 001,NP0440301
+431,Aandhikhola Gaunpalika,Syangja,Aandhikhola,Gaunpalika,4,Gandaki,524441,409,NP0441,40903,524 4 41 4 001,NP0441401
+432,Arjunchaupari Gaunpalika,Syangja,Arjunchaupari,Gaunpalika,4,Gandaki,524441,409,NP0441,40904,524 4 41 4 003,NP0441403
+433,Bhirkot Nagarpalika,Syangja,Bhirkot,Nagarpalika,4,Gandaki,524441,409,NP0441,40905,524 4 41 3 002,NP0441302
+434,Biruwa Gaunpalika,Syangja,Biruwa,Gaunpalika,4,Gandaki,524441,409,NP0441,40906,524 4 41 4 004,NP0441404
+435,Chapakot Nagarpalika,Syangja,Chapakot,Nagarpalika,4,Gandaki,524441,409,NP0441,40908,524 4 41 3 005,NP0441305
+436,Galyang Nagarpalika,Syangja,Galyang,Nagarpalika,4,Gandaki,524441,409,NP0441,40910,524 4 41 3 003,NP0441303
+437,Harinas Gaunpalika,Syangja,Harinas,Gaunpalika,4,Gandaki,524441,409,NP0441,40907,524 4 41 4 005,NP0441405
+438,Kaligandagi Gaunpalika,Syangja,Kaligandagi,Gaunpalika,4,Gandaki,524441,409,NP0441,40911,524 4 41 4 006,NP0441406
+439,Phedikhola Gaunpalika,Syangja,Phedikhola,Gaunpalika,4,Gandaki,524441,409,NP0441,40902,524 4 41 4 002,NP0441402
+440,Putalibazar Nagarpalika,Syangja,Putalibazar,Nagarpalika,4,Gandaki,524441,409,NP0441,40901,524 4 41 3 001,NP0441301
+441,Waling Nagarpalika,Syangja,Waling,Nagarpalika,4,Gandaki,524441,409,NP0441,40909,524 4 41 3 004,NP0441304
+442,Annapurna Gaunpalika,Kaski,Annapurna,Gaunpalika,4,Gandaki,524439,405,NP0439,40503,524 4 39 4 001,NP0439401
+443,Machhapuchchhre Gaunpalika,Kaski,Machhapuchchhre,Gaunpalika,4,Gandaki,524439,405,NP0439,40502,524 4 39 4 002,NP0439402
+444,Madi Gaunpalika,Kaski,Madi,Gaunpalika,4,Gandaki,524439,405,NP0439,40501,524 4 39 4 003,NP0439403
+445,Pokhara Lekhnath Mahanagarpalika,Kaski,Pokhara Lekhnath,Mahanagarpalika,4,Gandaki,524439,405,NP0439,40504,524 4 39 1 001,NP0439101
+446,Rupa Gaunpalika,Kaski,Rupa,Gaunpalika,4,Gandaki,524439,405,NP0439,40505,524 4 39 4 004,NP0439404
+447,Chame Gaunpalika,Manang,Chame,Gaunpalika,4,Gandaki,524438,402,NP0438,40203,524 4 38 4 003,NP0438403
+448,Narpa Bhumi Gaunpalika,Manang,Narpa Bhumi,Gaunpalika,4,Gandaki,524438,402,NP0438,40201,524 4 38 4 002,NP0438402
+449,Nasho Gaunpalika,Manang,Nasho,Gaunpalika,4,Gandaki,524438,402,NP0438,40204,524 4 38 4 004,NP0438404
+450,Manang Nshiang Gaunpalika,Manang,Manang Nshiang,Gaunpalika,4,Gandaki,524438,402,NP0438,40202,524 4 38 4 001,NP0438401
+451,Waragun Muktikshetra Gaunpalika,Mustang,Waragun Muktikshetra,Gaunpalika,4,Gandaki,524445,403,NP0445,40303,524 4 45 4 003,NP0445403
+452,Lo-Ghekar Damodarkunda Gaunpalika,Mustang,Lo-Ghekar Damodarkunda,Gaunpalika,4,Gandaki,524445,403,NP0445,40301,524 4 45 4 002,NP0445402
+453,Gharapjhong Gaunpalika,Mustang,Gharapjhong,Gaunpalika,4,Gandaki,524445,403,NP0445,40302,524 4 45 4 004,NP0445404
+454,Lomanthang Gaunpalika,Mustang,Lomanthang,Gaunpalika,4,Gandaki,524445,403,NP0445,40304,524 4 45 4 001,NP0445401
+455,Thasang Gaunpalika,Mustang,Thasang,Gaunpalika,4,Gandaki,524445,403,NP0445,40305,524 4 45 4 005,NP0445405
+456,Annapurna Gaunpalika,Myagdi,Annapurna,Gaunpalika,4,Gandaki,524444,404,NP0444,40401,524 4 44 4 003,NP0444403
+457,Beni Nagarpalika,Myagdi,Beni,Nagarpalika,4,Gandaki,524444,404,NP0444,40406,524 4 44 3 001,NP0444301
+458,Dhaulagiri Gaunpalika,Myagdi,Dhaulagiri,Gaunpalika,4,Gandaki,524444,404,NP0444,40403,524 4 44 4 001,NP0444401
+459,Malika Gaunpalika,Myagdi,Malika,Gaunpalika,4,Gandaki,524444,404,NP0444,40404,524 4 44 4 004,NP0444404
+460,Mangala Gaunpalika,Myagdi,Mangala,Gaunpalika,4,Gandaki,524444,404,NP0444,40405,524 4 44 4 005,NP0444405
+461,Raghuganga Gaunpalika,Myagdi,Raghuganga,Gaunpalika,4,Gandaki,524444,404,NP0444,40402,524 4 44 4 002,NP0444402
 462,Dhorpatan Hunting Reserve,Myagdi,Dhorpatan Hunting Reserve,Hunting Reserve,4,Gandaki,524444,,NP0444,,524 4 44 5 998,NP0444598
-463,Bihadi Gaunpalika,Parbat,Bihadi,Gaunpalika,4,Gandaki,524442,410.0,NP0442,41006.0,524 4 42 4 003,NP0442403
-464,Jaljala Gaunpalika,Parbat,Jaljala,Gaunpalika,4,Gandaki,524442,410.0,NP0442,41002.0,524 4 42 4 001,NP0442401
-465,Kushma Nagarpalika,Parbat,Kushma,Nagarpalika,4,Gandaki,524442,410.0,NP0442,41003.0,524 4 42 3 001,NP0442301
-466,Mahashila Gaunpalika,Parbat,Mahashila,Gaunpalika,4,Gandaki,524442,410.0,NP0442,41005.0,524 4 42 4 004,NP0442404
-467,Modi Gaunpalika,Parbat,Modi,Gaunpalika,4,Gandaki,524442,410.0,NP0442,41001.0,524 4 42 4 002,NP0442402
-468,Painyu Gaunpalika,Parbat,Painyu,Gaunpalika,4,Gandaki,524442,410.0,NP0442,41007.0,524 4 42 4 005,NP0442405
-469,Phalebas Nagarpalika,Parbat,Phalebas,Nagarpalika,4,Gandaki,524442,410.0,NP0442,41004.0,524 4 42 3 002,NP0442302
-470,Badigad Gaunpalika,Baglung,Badigad,Gaunpalika,4,Gandaki,524443,411.0,NP0443,41107.0,524 4 43 4 003,NP0443403
-471,Baglung Nagarpalika,Baglung,Baglung,Nagarpalika,4,Gandaki,524443,411.0,NP0443,41101.0,524 4 43 3 003,NP0443303
-472,Bareng Gaunpalika,Baglung,Bareng,Gaunpalika,4,Gandaki,524443,411.0,NP0443,41109.0,524 4 43 4 006,NP0443406
-473,Dhorpatan Nagarpalika,Baglung,Dhorpatan,Nagarpalika,4,Gandaki,524443,411.0,NP0443,41105.0,524 4 43 3 001,NP0443301
-474,Galkot Nagarpalika,Baglung,Galkot,Nagarpalika,4,Gandaki,524443,411.0,NP0443,41108.0,524 4 43 3 002,NP0443302
-475,Jaimini Nagarpalika,Baglung,Jaimini,Nagarpalika,4,Gandaki,524443,411.0,NP0443,41110.0,524 4 43 3 004,NP0443304
-476,Kanthekhola Gaunpalika,Baglung,Kanthekhola,Gaunpalika,4,Gandaki,524443,411.0,NP0443,41102.0,524 4 43 4 005,NP0443405
-477,Nisikhola Gaunpalika,Baglung,Nisikhola,Gaunpalika,4,Gandaki,524443,411.0,NP0443,41106.0,524 4 43 4 001,NP0443401
-478,Taman Khola Gaunpalika,Baglung,Taman Khola,Gaunpalika,4,Gandaki,524443,411.0,NP0443,41104.0,524 4 43 4 002,NP0443402
-479,Tara Khola Gaunpalika,Baglung,Tara Khola,Gaunpalika,4,Gandaki,524443,411.0,NP0443,41103.0,524 4 43 4 004,NP0443404
+463,Bihadi Gaunpalika,Parbat,Bihadi,Gaunpalika,4,Gandaki,524442,410,NP0442,41006,524 4 42 4 003,NP0442403
+464,Jaljala Gaunpalika,Parbat,Jaljala,Gaunpalika,4,Gandaki,524442,410,NP0442,41002,524 4 42 4 001,NP0442401
+465,Kushma Nagarpalika,Parbat,Kushma,Nagarpalika,4,Gandaki,524442,410,NP0442,41003,524 4 42 3 001,NP0442301
+466,Mahashila Gaunpalika,Parbat,Mahashila,Gaunpalika,4,Gandaki,524442,410,NP0442,41005,524 4 42 4 004,NP0442404
+467,Modi Gaunpalika,Parbat,Modi,Gaunpalika,4,Gandaki,524442,410,NP0442,41001,524 4 42 4 002,NP0442402
+468,Painyu Gaunpalika,Parbat,Painyu,Gaunpalika,4,Gandaki,524442,410,NP0442,41007,524 4 42 4 005,NP0442405
+469,Phalebas Nagarpalika,Parbat,Phalebas,Nagarpalika,4,Gandaki,524442,410,NP0442,41004,524 4 42 3 002,NP0442302
+470,Badigad Gaunpalika,Baglung,Badigad,Gaunpalika,4,Gandaki,524443,411,NP0443,41107,524 4 43 4 003,NP0443403
+471,Baglung Nagarpalika,Baglung,Baglung,Nagarpalika,4,Gandaki,524443,411,NP0443,41101,524 4 43 3 003,NP0443303
+472,Bareng Gaunpalika,Baglung,Bareng,Gaunpalika,4,Gandaki,524443,411,NP0443,41109,524 4 43 4 006,NP0443406
+473,Dhorpatan Nagarpalika,Baglung,Dhorpatan,Nagarpalika,4,Gandaki,524443,411,NP0443,41105,524 4 43 3 001,NP0443301
+474,Galkot Nagarpalika,Baglung,Galkot,Nagarpalika,4,Gandaki,524443,411,NP0443,41108,524 4 43 3 002,NP0443302
+475,Jaimini Nagarpalika,Baglung,Jaimini,Nagarpalika,4,Gandaki,524443,411,NP0443,41110,524 4 43 3 004,NP0443304
+476,Kanthekhola Gaunpalika,Baglung,Kanthekhola,Gaunpalika,4,Gandaki,524443,411,NP0443,41102,524 4 43 4 005,NP0443405
+477,Nisikhola Gaunpalika,Baglung,Nisikhola,Gaunpalika,4,Gandaki,524443,411,NP0443,41106,524 4 43 4 001,NP0443401
+478,Taman Khola Gaunpalika,Baglung,Taman Khola,Gaunpalika,4,Gandaki,524443,411,NP0443,41104,524 4 43 4 002,NP0443402
+479,Tara Khola Gaunpalika,Baglung,Tara Khola,Gaunpalika,4,Gandaki,524443,411,NP0443,41103,524 4 43 4 004,NP0443404
 480,Dhorpatan Hunting Reserve,Baglung,Dhorpatan Hunting Reserve,Hunting Reserve,4,Gandaki,524443,,NP0443,,524 4 43 5 998,NP0443598
-481,Chandrakot Gaunpalika,Gulmi,Chandrakot,Gaunpalika,5,5,524551,504.0,NP0551,50403.0,524 5 51 4 006,NP0551406
-482,Chatrakot Gaunpalika,Gulmi,Chatrakot,Gaunpalika,5,5,524551,504.0,NP0551,50411.0,524 5 51 4 007,NP0551407
-483,Dhurkot Gaunpalika,Gulmi,Dhurkot,Gaunpalika,5,5,524551,504.0,NP0551,50408.0,524 5 51 4 003,NP0551403
-484,Gulmidarbar Gaunpalika,Gulmi,Gulmidarbar,Gaunpalika,5,5,524551,504.0,NP0551,50410.0,524 5 51 4 005,NP0551405
-485,Isma Gaunpalika,Gulmi,Isma,Gaunpalika,5,5,524551,504.0,NP0551,50405.0,524 5 51 4 004,NP0551404
-486,Kaligandaki Gaunpalika,Gulmi,Kaligandaki,Gaunpalika,5,5,524551,504.0,NP0551,50401.0,524 5 51 4 010,NP0551410
-487,Madane Gaunpalika,Gulmi,Madane,Gaunpalika,5,5,524551,504.0,NP0551,50407.0,524 5 51 4 001,NP0551401
-488,Malika Gaunpalika,Gulmi,Malika,Gaunpalika,5,5,524551,504.0,NP0551,50406.0,524 5 51 4 002,NP0551402
-489,Musikot Nagarpalika,Gulmi,Musikot,Nagarpalika,5,5,524551,504.0,NP0551,50404.0,524 5 51 3 001,NP0551301
-490,Resunga Nagarpalika,Gulmi,Resunga,Nagarpalika,5,5,524551,504.0,NP0551,50409.0,524 5 51 3 002,NP0551302
-491,Ruru Gaunpalika,Gulmi,Ruru,Gaunpalika,5,5,524551,504.0,NP0551,50412.0,524 5 51 4 008,NP0551408
-492,Satyawati Gaunpalika,Gulmi,Satyawati,Gaunpalika,5,5,524551,504.0,NP0551,50402.0,524 5 51 4 009,NP0551409
-493,Bagnaskali Gaunpalika,Palpa,Bagnaskali,Gaunpalika,5,5,524546,506.0,NP0546,50604.0,524 5 46 4 005,NP0546405
-494,Mathagadhi Gaunpalika,Palpa,Mathagadhi,Gaunpalika,5,5,524546,506.0,NP0546,50609.0,524 5 46 4 004,NP0546404
-495,Nisdi Gaunpalika,Palpa,Nisdi,Gaunpalika,5,5,524546,506.0,NP0546,50610.0,524 5 46 4 008,NP0546408
-496,Purbakhola Gaunpalika,Palpa,Purbakhola,Gaunpalika,5,5,524546,506.0,NP0546,50602.0,524 5 46 4 006,NP0546406
-497,Rainadevi Chhahara Gaunpalika,Palpa,Rainadevi Chhahara,Gaunpalika,5,5,524546,506.0,NP0546,50607.0,524 5 46 4 001,NP0546401
-498,Rambha Gaunpalika,Palpa,Rambha,Gaunpalika,5,5,524546,506.0,NP0546,50603.0,524 5 46 4 007,NP0546407
-499,Rampur Nagarpalika,Palpa,Rampur,Nagarpalika,5,5,524546,506.0,NP0546,50601.0,524 5 46 3 002,NP0546302
-500,Ribdikot Gaunpalika,Palpa,Ribdikot,Gaunpalika,5,5,524546,506.0,NP0546,50606.0,524 5 46 4 003,NP0546403
-501,Tansen Nagarpalika,Palpa,Tansen,Nagarpalika,5,5,524546,506.0,NP0546,50605.0,524 5 46 3 001,NP0546301
-502,Tinau Gaunpalika,Palpa,Tinau,Gaunpalika,5,5,524546,506.0,NP0546,50608.0,524 5 46 4 002,NP0546402
-503,Bardaghat Nagarpalika,Nawalparasi_W,Bardaghat,Nagarpalika,5,5,524547,507.0,NP0547,50701.0,524 5 47 3 002,NP0547302
-504,Palhi Nandan Gaunpalika,Nawalparasi_W,Palhi Nandan,Gaunpalika,5,5,524547,507.0,NP0547,50704.0,524 5 47 4 001,NP0547401
-505,Pratappur Gaunpalika,Nawalparasi_W,Pratappur,Gaunpalika,5,5,524547,507.0,NP0547,50706.0,524 5 47 4 003,NP0547403
-506,Ramgram Nagarpalika,Nawalparasi_W,Ramgram,Nagarpalika,5,5,524547,507.0,NP0547,50703.0,524 5 47 3 003,NP0547303
-507,Sarawal Gaunpalika,Nawalparasi_W,Sarawal,Gaunpalika,5,5,524547,507.0,NP0547,50705.0,524 5 47 4 002,NP0547402
-508,Sunwal Nagarpalika,Nawalparasi_W,Sunwal,Nagarpalika,5,5,524547,507.0,NP0547,50702.0,524 5 47 3 001,NP0547301
-509,Susta Gaunpalika,Nawalparasi_W,Susta,Gaunpalika,5,5,524547,507.0,NP0547,50707.0,524 5 47 4 004,NP0547404
-510,Butwal Upamahanagarpalika,Rupandehi,Butwal,Upamahanagarpalika,5,5,524548,508.0,NP0548,50802.0,524 5 48 2 001,NP0548201
-511,Devdaha Nagarpalika,Rupandehi,Devdaha,Nagarpalika,5,5,524548,508.0,NP0548,50801.0,524 5 48 3 002,NP0548302
-512,Gaidahawa Gaunpalika,Rupandehi,Gaidahawa,Gaunpalika,5,5,524548,508.0,NP0548,50805.0,524 5 48 4 003,NP0548403
-513,Kanchan Gaunpalika,Rupandehi,Kanchan,Gaunpalika,5,5,524548,508.0,NP0548,50804.0,524 5 48 4 001,NP0548401
-514,Kotahimai Gaunpalika,Rupandehi,Kotahimai,Gaunpalika,5,5,524548,508.0,NP0548,50814.0,524 5 48 4 008,NP0548408
-515,Lumbini Sanskritik Nagarpalika,Rupandehi,Lumbini Sanskritik,Nagarpalika,5,5,524548,508.0,NP0548,50813.0,524 5 48 3 004,NP0548304
-516,Marchawari Gaunpalika,Rupandehi,Marchawari,Gaunpalika,5,5,524548,508.0,NP0548,50816.0,524 5 48 4 010,NP0548410
-517,Mayadevi Gaunpalika,Rupandehi,Mayadevi,Gaunpalika,5,5,524548,508.0,NP0548,50812.0,524 5 48 4 005,NP0548405
-518,Omsatiya Gaunpalika,Rupandehi,Omsatiya,Gaunpalika,5,5,524548,508.0,NP0548,50809.0,524 5 48 4 006,NP0548406
-519,Rohini Gaunpalika,Rupandehi,Rohini,Gaunpalika,5,5,524548,508.0,NP0548,50810.0,524 5 48 4 007,NP0548407
-520,Sainamaina Nagarpalika,Rupandehi,Sainamaina,Nagarpalika,5,5,524548,508.0,NP0548,50803.0,524 5 48 3 001,NP0548301
-521,Sammarimai Gaunpalika,Rupandehi,Sammarimai,Gaunpalika,5,5,524548,508.0,NP0548,50815.0,524 5 48 4 009,NP0548409
-522,Siddharthanagar Nagarpalika,Rupandehi,Siddharthanagar,Nagarpalika,5,5,524548,508.0,NP0548,50811.0,524 5 48 3 005,NP0548305
-523,Siyari Gaunpalika,Rupandehi,Siyari,Gaunpalika,5,5,524548,508.0,NP0548,50807.0,524 5 48 4 004,NP0548404
-524,Sudhdhodhan Gaunpalika,Rupandehi,Sudhdhodhan,Gaunpalika,5,5,524548,508.0,NP0548,50806.0,524 5 48 4 002,NP0548402
-525,Tillotama Nagarpalika,Rupandehi,Tillotama,Nagarpalika,5,5,524548,508.0,NP0548,50808.0,524 5 48 3 003,NP0548303
+481,Chandrakot Gaunpalika,Gulmi,Chandrakot,Gaunpalika,5,5,524551,504,NP0551,50403,524 5 51 4 006,NP0551406
+482,Chatrakot Gaunpalika,Gulmi,Chatrakot,Gaunpalika,5,5,524551,504,NP0551,50411,524 5 51 4 007,NP0551407
+483,Dhurkot Gaunpalika,Gulmi,Dhurkot,Gaunpalika,5,5,524551,504,NP0551,50408,524 5 51 4 003,NP0551403
+484,Gulmidarbar Gaunpalika,Gulmi,Gulmidarbar,Gaunpalika,5,5,524551,504,NP0551,50410,524 5 51 4 005,NP0551405
+485,Isma Gaunpalika,Gulmi,Isma,Gaunpalika,5,5,524551,504,NP0551,50405,524 5 51 4 004,NP0551404
+486,Kaligandaki Gaunpalika,Gulmi,Kaligandaki,Gaunpalika,5,5,524551,504,NP0551,50401,524 5 51 4 010,NP0551410
+487,Madane Gaunpalika,Gulmi,Madane,Gaunpalika,5,5,524551,504,NP0551,50407,524 5 51 4 001,NP0551401
+488,Malika Gaunpalika,Gulmi,Malika,Gaunpalika,5,5,524551,504,NP0551,50406,524 5 51 4 002,NP0551402
+489,Musikot Nagarpalika,Gulmi,Musikot,Nagarpalika,5,5,524551,504,NP0551,50404,524 5 51 3 001,NP0551301
+490,Resunga Nagarpalika,Gulmi,Resunga,Nagarpalika,5,5,524551,504,NP0551,50409,524 5 51 3 002,NP0551302
+491,Ruru Gaunpalika,Gulmi,Ruru,Gaunpalika,5,5,524551,504,NP0551,50412,524 5 51 4 008,NP0551408
+492,Satyawati Gaunpalika,Gulmi,Satyawati,Gaunpalika,5,5,524551,504,NP0551,50402,524 5 51 4 009,NP0551409
+493,Bagnaskali Gaunpalika,Palpa,Bagnaskali,Gaunpalika,5,5,524546,506,NP0546,50604,524 5 46 4 005,NP0546405
+494,Mathagadhi Gaunpalika,Palpa,Mathagadhi,Gaunpalika,5,5,524546,506,NP0546,50609,524 5 46 4 004,NP0546404
+495,Nisdi Gaunpalika,Palpa,Nisdi,Gaunpalika,5,5,524546,506,NP0546,50610,524 5 46 4 008,NP0546408
+496,Purbakhola Gaunpalika,Palpa,Purbakhola,Gaunpalika,5,5,524546,506,NP0546,50602,524 5 46 4 006,NP0546406
+497,Rainadevi Chhahara Gaunpalika,Palpa,Rainadevi Chhahara,Gaunpalika,5,5,524546,506,NP0546,50607,524 5 46 4 001,NP0546401
+498,Rambha Gaunpalika,Palpa,Rambha,Gaunpalika,5,5,524546,506,NP0546,50603,524 5 46 4 007,NP0546407
+499,Rampur Nagarpalika,Palpa,Rampur,Nagarpalika,5,5,524546,506,NP0546,50601,524 5 46 3 002,NP0546302
+500,Ribdikot Gaunpalika,Palpa,Ribdikot,Gaunpalika,5,5,524546,506,NP0546,50606,524 5 46 4 003,NP0546403
+501,Tansen Nagarpalika,Palpa,Tansen,Nagarpalika,5,5,524546,506,NP0546,50605,524 5 46 3 001,NP0546301
+502,Tinau Gaunpalika,Palpa,Tinau,Gaunpalika,5,5,524546,506,NP0546,50608,524 5 46 4 002,NP0546402
+503,Bardaghat Nagarpalika,Nawalparasi_W,Bardaghat,Nagarpalika,5,5,524547,507,NP0547,50701,524 5 47 3 002,NP0547302
+504,Palhi Nandan Gaunpalika,Nawalparasi_W,Palhi Nandan,Gaunpalika,5,5,524547,507,NP0547,50704,524 5 47 4 001,NP0547401
+505,Pratappur Gaunpalika,Nawalparasi_W,Pratappur,Gaunpalika,5,5,524547,507,NP0547,50706,524 5 47 4 003,NP0547403
+506,Ramgram Nagarpalika,Nawalparasi_W,Ramgram,Nagarpalika,5,5,524547,507,NP0547,50703,524 5 47 3 003,NP0547303
+507,Sarawal Gaunpalika,Nawalparasi_W,Sarawal,Gaunpalika,5,5,524547,507,NP0547,50705,524 5 47 4 002,NP0547402
+508,Sunwal Nagarpalika,Nawalparasi_W,Sunwal,Nagarpalika,5,5,524547,507,NP0547,50702,524 5 47 3 001,NP0547301
+509,Susta Gaunpalika,Nawalparasi_W,Susta,Gaunpalika,5,5,524547,507,NP0547,50707,524 5 47 4 004,NP0547404
+510,Butwal Upamahanagarpalika,Rupandehi,Butwal,Upamahanagarpalika,5,5,524548,508,NP0548,50802,524 5 48 2 001,NP0548201
+511,Devdaha Nagarpalika,Rupandehi,Devdaha,Nagarpalika,5,5,524548,508,NP0548,50801,524 5 48 3 002,NP0548302
+512,Gaidahawa Gaunpalika,Rupandehi,Gaidahawa,Gaunpalika,5,5,524548,508,NP0548,50805,524 5 48 4 003,NP0548403
+513,Kanchan Gaunpalika,Rupandehi,Kanchan,Gaunpalika,5,5,524548,508,NP0548,50804,524 5 48 4 001,NP0548401
+514,Kotahimai Gaunpalika,Rupandehi,Kotahimai,Gaunpalika,5,5,524548,508,NP0548,50814,524 5 48 4 008,NP0548408
+515,Lumbini Sanskritik Nagarpalika,Rupandehi,Lumbini Sanskritik,Nagarpalika,5,5,524548,508,NP0548,50813,524 5 48 3 004,NP0548304
+516,Marchawari Gaunpalika,Rupandehi,Marchawari,Gaunpalika,5,5,524548,508,NP0548,50816,524 5 48 4 010,NP0548410
+517,Mayadevi Gaunpalika,Rupandehi,Mayadevi,Gaunpalika,5,5,524548,508,NP0548,50812,524 5 48 4 005,NP0548405
+518,Omsatiya Gaunpalika,Rupandehi,Omsatiya,Gaunpalika,5,5,524548,508,NP0548,50809,524 5 48 4 006,NP0548406
+519,Rohini Gaunpalika,Rupandehi,Rohini,Gaunpalika,5,5,524548,508,NP0548,50810,524 5 48 4 007,NP0548407
+520,Sainamaina Nagarpalika,Rupandehi,Sainamaina,Nagarpalika,5,5,524548,508,NP0548,50803,524 5 48 3 001,NP0548301
+521,Sammarimai Gaunpalika,Rupandehi,Sammarimai,Gaunpalika,5,5,524548,508,NP0548,50815,524 5 48 4 009,NP0548409
+522,Siddharthanagar Nagarpalika,Rupandehi,Siddharthanagar,Nagarpalika,5,5,524548,508,NP0548,50811,524 5 48 3 005,NP0548305
+523,Siyari Gaunpalika,Rupandehi,Siyari,Gaunpalika,5,5,524548,508,NP0548,50807,524 5 48 4 004,NP0548404
+524,Sudhdhodhan Gaunpalika,Rupandehi,Sudhdhodhan,Gaunpalika,5,5,524548,508,NP0548,50806,524 5 48 4 002,NP0548402
+525,Tillotama Nagarpalika,Rupandehi,Tillotama,Nagarpalika,5,5,524548,508,NP0548,50808,524 5 48 3 003,NP0548303
 526,Lumbini Sanskritik Development Area,Rupandehi,Lumbini Sanskritik Development Area,Development Area,5,5,524548,,NP0548,,524 5 48 5 999,NP0548599
-527,Banganga Nagarpalika,Kapilbastu,Banganga,Nagarpalika,5,5,524549,509.0,NP0549,50901.0,524 5 49 3 003,NP0549303
-528,Bijayanagar Gaunpalika,Kapilbastu,Bijayanagar,Gaunpalika,5,5,524549,509.0,NP0549,50904.0,524 5 49 4 001,NP0549401
-529,Buddhabhumi Nagarpalika,Kapilbastu,Buddhabhumi,Nagarpalika,5,5,524549,509.0,NP0549,50902.0,524 5 49 3 002,NP0549302
-530,Kapilbastu Nagarpalika,Kapilbastu,Kapilbastu,Nagarpalika,5,5,524549,509.0,NP0549,50907.0,524 5 49 3 006,NP0549306
-531,Krishnanagar Nagarpalika,Kapilbastu,Krishnanagar,Nagarpalika,5,5,524549,509.0,NP0549,50905.0,524 5 49 3 004,NP0549304
-532,Maharajgunj Nagarpalika,Kapilbastu,Maharajgunj,Nagarpalika,5,5,524549,509.0,NP0549,50906.0,524 5 49 3 005,NP0549305
-533,Mayadevi Gaunpalika,Kapilbastu,Mayadevi,Gaunpalika,5,5,524549,509.0,NP0549,50909.0,524 5 49 4 003,NP0549403
-534,Shivaraj Nagarpalika,Kapilbastu,Shivaraj,Nagarpalika,5,5,524549,509.0,NP0549,50903.0,524 5 49 3 001,NP0549301
-535,Suddhodhan Gaunpalika,Kapilbastu,Suddhodhan,Gaunpalika,5,5,524549,509.0,NP0549,50910.0,524 5 49 4 004,NP0549404
-536,Yashodhara Gaunpalika,Kapilbastu,Yashodhara,Gaunpalika,5,5,524549,509.0,NP0549,50908.0,524 5 49 4 002,NP0549402
-537,Bhumekasthan Nagarpalika,Arghakhanchi,Bhumekasthan,Nagarpalika,5,5,524550,505.0,NP0550,50503.0,524 5 50 3 001,NP0550301
-538,Chhatradev Gaunpalika,Arghakhanchi,Chhatradev,Gaunpalika,5,5,524550,505.0,NP0550,50501.0,524 5 50 4 002,NP0550402
-539,Malarani Gaunpalika,Arghakhanchi,Malarani,Gaunpalika,5,5,524550,505.0,NP0550,50502.0,524 5 50 4 001,NP0550401
-540,Panini Gaunpalika,Arghakhanchi,Panini,Gaunpalika,5,5,524550,505.0,NP0550,50505.0,524 5 50 4 003,NP0550403
-541,Sandhikharka Nagarpalika,Arghakhanchi,Sandhikharka,Nagarpalika,5,5,524550,505.0,NP0550,50504.0,524 5 50 3 002,NP0550302
-542,Sitganga Nagarpalika,Arghakhanchi,Sitganga,Nagarpalika,5,5,524550,505.0,NP0550,50506.0,524 5 50 3 003,NP0550303
-543,Ayirabati Gaunpalika,Pyuthan,Ayirabati,Gaunpalika,5,5,524555,503.0,NP0555,50308.0,524 5 55 4 007,NP0555407
-544,Gaumukhi Gaunpalika,Pyuthan,Gaumukhi,Gaunpalika,5,5,524555,503.0,NP0555,50301.0,524 5 55 4 002,NP0555402
-545,Jhimruk Gaunpalika,Pyuthan,Jhimruk,Gaunpalika,5,5,524555,503.0,NP0555,50303.0,524 5 55 4 003,NP0555403
-546,Mallarani Gaunpalika,Pyuthan,Mallarani,Gaunpalika,5,5,524555,503.0,NP0555,50307.0,524 5 55 4 005,NP0555405
-547,Mandavi Gaunpalika,Pyuthan,Mandavi,Gaunpalika,5,5,524555,503.0,NP0555,50306.0,524 5 55 4 004,NP0555404
-548,Naubahini Gaunpalika,Pyuthan,Naubahini,Gaunpalika,5,5,524555,503.0,NP0555,50302.0,524 5 55 4 001,NP0555401
-549,Pyuthan Nagarpalika,Pyuthan,Pyuthan,Nagarpalika,5,5,524555,503.0,NP0555,50304.0,524 5 55 3 002,NP0555302
-550,Sarumarani Gaunpalika,Pyuthan,Sarumarani,Gaunpalika,5,5,524555,503.0,NP0555,50309.0,524 5 55 4 006,NP0555406
-551,Sworgadwary Nagarpalika,Pyuthan,Sworgadwary,Nagarpalika,5,5,524555,503.0,NP0555,50305.0,524 5 55 3 001,NP0555301
-552,Pariwartan Gaunpalika,Rolpa,Pariwartan,Gaunpalika,5,5,524554,502.0,NP0554,50203.0,524 5 54 4 002,NP0554402
-553,Lungri Gaunpalika,Rolpa,Lungri,Gaunpalika,5,5,524554,502.0,NP0554,50210.0,524 5 54 4 008,NP0554408
-554,Madi Gaunpalika,Rolpa,Madi,Gaunpalika,5,5,524554,502.0,NP0554,50205.0,524 5 54 4 004,NP0554404
-556,Runtigadi Gaunpalika,Rolpa,Runtigadi,Gaunpalika,5,5,524554,502.0,NP0554,50208.0,524 5 54 4 009,NP0554409
-557,Sukidaha Gaunpalika,Rolpa,Sukidaha,Gaunpalika,5,5,524554,502.0,NP0554,50204.0,524 5 54 4 001,NP0554401
-558,Sunchhahari Gaunpalika,Rolpa,Sunchhahari,Gaunpalika,5,5,524554,502.0,NP0554,50201.0,524 5 54 4 005,NP0554405
-559,Suwarnabati Gaunpalika,Rolpa,Suwarnabati,Gaunpalika,5,5,524554,502.0,NP0554,50209.0,524 5 54 4 007,NP0554407
-560,Thawang Gaunpalika,Rolpa,Thawang,Gaunpalika,5,5,524554,502.0,NP0554,50202.0,524 5 54 4 003,NP0554403
-561,Tribeni Gaunpalika,Rolpa,Tribeni,Gaunpalika,5,5,524554,502.0,NP0554,50206.0,524 5 54 4 006,NP0554406
-562,Aathbiskot Nagarpalika,Rukum_W,Aathbiskot,Nagarpalika,6,Karnali,524652,608.0,NP0652,60801.0,524 6 52 3 001,NP0652301
-563,Banfikot Gaunpalika,Rukum_W,Banfikot,Gaunpalika,6,Karnali,524652,608.0,NP0652,60803.0,524 6 52 4 002,NP0652402
-564,Chaurjahari Nagarpalika,Rukum_W,Chaurjahari,Nagarpalika,6,Karnali,524652,608.0,NP0652,60806.0,524 6 52 3 002,NP0652302
-566,Sani Bheri Gaunpalika,Rukum_W,Sani Bheri,Gaunpalika,6,Karnali,524652,608.0,NP0652,60802.0,524 6 52 4 001,NP0652401
-567,Tribeni Gaunpalika,Rukum_W,Tribeni,Gaunpalika,6,Karnali,524652,608.0,NP0652,60805.0,524 6 52 4 003,NP0652403
-568,Bagchaur Nagarpalika,Salyan,Bagchaur,Nagarpalika,6,Karnali,524653,609.0,NP0653,60905.0,524 6 53 3 002,NP0653302
-569,Bangad Kupinde Nagarpalika,Salyan,Bangad Kupinde,Nagarpalika,6,Karnali,524653,609.0,NP0653,60903.0,524 6 53 3 001,NP0653301
-570,Chhatreshwori Gaunpalika,Salyan,Chhatreshwori,Gaunpalika,6,Karnali,524653,609.0,NP0653,60906.0,524 6 53 4 005,NP0653405
-571,Darma Gaunpalika,Salyan,Darma,Gaunpalika,6,Karnali,524653,609.0,NP0653,60901.0,524 6 53 4 002,NP0653402
-572,Siddha Kumakha Gaunpalika,Salyan,Siddha Kumakha,Gaunpalika,6,Karnali,524653,609.0,NP0653,60904.0,524 6 53 4 003,NP0653403
-573,Kalimati Gaunpalika,Salyan,Kalimati,Gaunpalika,6,Karnali,524653,609.0,NP0653,60908.0,524 6 53 4 004,NP0653404
-574,Kapurkot Gaunpalika,Salyan,Kapurkot,Gaunpalika,6,Karnali,524653,609.0,NP0653,60910.0,524 6 53 4 007,NP0653407
-575,Kumakha Gaunpalika,Salyan,Kumakha,Gaunpalika,6,Karnali,524653,609.0,NP0653,60902.0,524 6 53 4 001,NP0653401
-576,Sharada Nagarpalika,Salyan,Sharada,Nagarpalika,6,Karnali,524653,609.0,NP0653,60907.0,524 6 53 3 003,NP0653303
-577,Tribeni Gaunpalika,Salyan,Tribeni,Gaunpalika,6,Karnali,524653,609.0,NP0653,60909.0,524 6 53 4 006,NP0653406
-578,Babai Gaunpalika,Dang,Babai,Gaunpalika,5,5,524556,510.0,NP0556,51005.0,524 5 56 4 001,NP0556401
-579,Banglachuli Gaunpalika,Dang,Banglachuli,Gaunpalika,5,5,524556,510.0,NP0556,51001.0,524 5 56 4 005,NP0556405
-580,Dangisharan Gaunpalika,Dang,Dangisharan,Gaunpalika,5,5,524556,510.0,NP0556,51006.0,524 5 56 4 002,NP0556402
-581,Gadhawa Gaunpalika,Dang,Gadhawa,Gaunpalika,5,5,524556,510.0,NP0556,51009.0,524 5 56 4 006,NP0556406
-582,Ghorahi Upamahanagarpalika,Dang,Ghorahi,Upamahanagarpalika,5,5,524556,510.0,NP0556,51002.0,524 5 56 2 002,NP0556202
-583,Lamahi Nagarpalika,Dang,Lamahi,Nagarpalika,5,5,524556,510.0,NP0556,51007.0,524 5 56 3 001,NP0556301
-584,Rajpur Gaunpalika,Dang,Rajpur,Gaunpalika,5,5,524556,510.0,NP0556,51010.0,524 5 56 4 004,NP0556404
-585,Rapti Gaunpalika,Dang,Rapti,Gaunpalika,5,5,524556,510.0,NP0556,51008.0,524 5 56 4 007,NP0556407
-586,Shantinagar Gaunpalika,Dang,Shantinagar,Gaunpalika,5,5,524556,510.0,NP0556,51004.0,524 5 56 4 003,NP0556403
-587,Tulsipur Upamahanagarpalika,Dang,Tulsipur,Upamahanagarpalika,5,5,524556,510.0,NP0556,51003.0,524 5 56 2 001,NP0556201
-588,Baijanath Gaunpalika,Banke,Baijanath,Gaunpalika,5,5,524557,511.0,NP0557,51103.0,524 5 57 4 002,NP0557402
-589,Duduwa Gaunpalika,Banke,Duduwa,Gaunpalika,5,5,524557,511.0,NP0557,51107.0,524 5 57 4 004,NP0557404
-590,Janki Gaunpalika,Banke,Janki,Gaunpalika,5,5,524557,511.0,NP0557,51105.0,524 5 57 4 003,NP0557403
-591,Khajura Gaunpalika,Banke,Khajura,Gaunpalika,5,5,524557,511.0,NP0557,51104.0,524 5 57 4 001,NP0557401
-592,Kohalpur Nagarpalika,Banke,Kohalpur,Nagarpalika,5,5,524557,511.0,NP0557,51102.0,524 5 57 3 001,NP0557301
-593,Narainapur Gaunpalika,Banke,Narainapur,Gaunpalika,5,5,524557,511.0,NP0557,51108.0,524 5 57 4 006,NP0557406
-594,Nepalgunj Upamahanagarpalika,Banke,Nepalgunj,Upamahanagarpalika,5,5,524557,511.0,NP0557,51106.0,524 5 57 2 001,NP0557201
-595,Rapti Sonari Gaunpalika,Banke,Rapti Sonari,Gaunpalika,5,5,524557,511.0,NP0557,51101.0,524 5 57 4 005,NP0557405
-596,Badhaiyatal Gaunpalika,Bardiya,Badhaiyatal,Gaunpalika,5,5,524558,512.0,NP0558,51208.0,524 5 58 4 002,NP0558402
-597,Bansagadhi Nagarpalika,Bardiya,Bansagadhi,Nagarpalika,5,5,524558,512.0,NP0558,51201.0,524 5 58 3 006,NP0558306
-598,Barbardiya Nagarpalika,Bardiya,Barbardiya,Nagarpalika,5,5,524558,512.0,NP0558,51202.0,524 5 58 3 005,NP0558305
-599,Geruwa Gaunpalika,Bardiya,Geruwa,Gaunpalika,5,5,524558,512.0,NP0558,51204.0,524 5 58 4 001,NP0558401
-600,Gulariya Nagarpalika,Bardiya,Gulariya,Nagarpalika,5,5,524558,512.0,NP0558,51207.0,524 5 58 3 004,NP0558304
-601,Madhuwan Nagarpalika,Bardiya,Madhuwan,Nagarpalika,5,5,524558,512.0,NP0558,51206.0,524 5 58 3 002,NP0558302
-602,Rajapur Nagarpalika,Bardiya,Rajapur,Nagarpalika,5,5,524558,512.0,NP0558,51205.0,524 5 58 3 001,NP0558301
-603,Thakurbaba Nagarpalika,Bardiya,Thakurbaba,Nagarpalika,5,5,524558,512.0,NP0558,51203.0,524 5 58 3 003,NP0558303
+527,Banganga Nagarpalika,Kapilbastu,Banganga,Nagarpalika,5,5,524549,509,NP0549,50901,524 5 49 3 003,NP0549303
+528,Bijayanagar Gaunpalika,Kapilbastu,Bijayanagar,Gaunpalika,5,5,524549,509,NP0549,50904,524 5 49 4 001,NP0549401
+529,Buddhabhumi Nagarpalika,Kapilbastu,Buddhabhumi,Nagarpalika,5,5,524549,509,NP0549,50902,524 5 49 3 002,NP0549302
+530,Kapilbastu Nagarpalika,Kapilbastu,Kapilbastu,Nagarpalika,5,5,524549,509,NP0549,50907,524 5 49 3 006,NP0549306
+531,Krishnanagar Nagarpalika,Kapilbastu,Krishnanagar,Nagarpalika,5,5,524549,509,NP0549,50905,524 5 49 3 004,NP0549304
+532,Maharajgunj Nagarpalika,Kapilbastu,Maharajgunj,Nagarpalika,5,5,524549,509,NP0549,50906,524 5 49 3 005,NP0549305
+533,Mayadevi Gaunpalika,Kapilbastu,Mayadevi,Gaunpalika,5,5,524549,509,NP0549,50909,524 5 49 4 003,NP0549403
+534,Shivaraj Nagarpalika,Kapilbastu,Shivaraj,Nagarpalika,5,5,524549,509,NP0549,50903,524 5 49 3 001,NP0549301
+535,Suddhodhan Gaunpalika,Kapilbastu,Suddhodhan,Gaunpalika,5,5,524549,509,NP0549,50910,524 5 49 4 004,NP0549404
+536,Yashodhara Gaunpalika,Kapilbastu,Yashodhara,Gaunpalika,5,5,524549,509,NP0549,50908,524 5 49 4 002,NP0549402
+537,Bhumekasthan Nagarpalika,Arghakhanchi,Bhumekasthan,Nagarpalika,5,5,524550,505,NP0550,50503,524 5 50 3 001,NP0550301
+538,Chhatradev Gaunpalika,Arghakhanchi,Chhatradev,Gaunpalika,5,5,524550,505,NP0550,50501,524 5 50 4 002,NP0550402
+539,Malarani Gaunpalika,Arghakhanchi,Malarani,Gaunpalika,5,5,524550,505,NP0550,50502,524 5 50 4 001,NP0550401
+540,Panini Gaunpalika,Arghakhanchi,Panini,Gaunpalika,5,5,524550,505,NP0550,50505,524 5 50 4 003,NP0550403
+541,Sandhikharka Nagarpalika,Arghakhanchi,Sandhikharka,Nagarpalika,5,5,524550,505,NP0550,50504,524 5 50 3 002,NP0550302
+542,Sitganga Nagarpalika,Arghakhanchi,Sitganga,Nagarpalika,5,5,524550,505,NP0550,50506,524 5 50 3 003,NP0550303
+543,Ayirabati Gaunpalika,Pyuthan,Ayirabati,Gaunpalika,5,5,524555,503,NP0555,50308,524 5 55 4 007,NP0555407
+544,Gaumukhi Gaunpalika,Pyuthan,Gaumukhi,Gaunpalika,5,5,524555,503,NP0555,50301,524 5 55 4 002,NP0555402
+545,Jhimruk Gaunpalika,Pyuthan,Jhimruk,Gaunpalika,5,5,524555,503,NP0555,50303,524 5 55 4 003,NP0555403
+546,Mallarani Gaunpalika,Pyuthan,Mallarani,Gaunpalika,5,5,524555,503,NP0555,50307,524 5 55 4 005,NP0555405
+547,Mandavi Gaunpalika,Pyuthan,Mandavi,Gaunpalika,5,5,524555,503,NP0555,50306,524 5 55 4 004,NP0555404
+548,Naubahini Gaunpalika,Pyuthan,Naubahini,Gaunpalika,5,5,524555,503,NP0555,50302,524 5 55 4 001,NP0555401
+549,Pyuthan Nagarpalika,Pyuthan,Pyuthan,Nagarpalika,5,5,524555,503,NP0555,50304,524 5 55 3 002,NP0555302
+550,Sarumarani Gaunpalika,Pyuthan,Sarumarani,Gaunpalika,5,5,524555,503,NP0555,50309,524 5 55 4 006,NP0555406
+551,Sworgadwary Nagarpalika,Pyuthan,Sworgadwary,Nagarpalika,5,5,524555,503,NP0555,50305,524 5 55 3 001,NP0555301
+552,Pariwartan Gaunpalika,Rolpa,Pariwartan,Gaunpalika,5,5,524554,502,NP0554,50203,524 5 54 4 002,NP0554402
+553,Lungri Gaunpalika,Rolpa,Lungri,Gaunpalika,5,5,524554,502,NP0554,50210,524 5 54 4 008,NP0554408
+554,Madi Gaunpalika,Rolpa,Madi,Gaunpalika,5,5,524554,502,NP0554,50205,524 5 54 4 004,NP0554404
+556,Runtigadi Gaunpalika,Rolpa,Runtigadi,Gaunpalika,5,5,524554,502,NP0554,50208,524 5 54 4 009,NP0554409
+557,Sukidaha Gaunpalika,Rolpa,Sukidaha,Gaunpalika,5,5,524554,502,NP0554,50204,524 5 54 4 001,NP0554401
+558,Sunchhahari Gaunpalika,Rolpa,Sunchhahari,Gaunpalika,5,5,524554,502,NP0554,50201,524 5 54 4 005,NP0554405
+559,Suwarnabati Gaunpalika,Rolpa,Suwarnabati,Gaunpalika,5,5,524554,502,NP0554,50209,524 5 54 4 007,NP0554407
+560,Thawang Gaunpalika,Rolpa,Thawang,Gaunpalika,5,5,524554,502,NP0554,50202,524 5 54 4 003,NP0554403
+561,Tribeni Gaunpalika,Rolpa,Tribeni,Gaunpalika,5,5,524554,502,NP0554,50206,524 5 54 4 006,NP0554406
+562,Aathbiskot Nagarpalika,Rukum_W,Aathbiskot,Nagarpalika,6,Karnali,524652,608,NP0652,60801,524 6 52 3 001,NP0652301
+563,Banfikot Gaunpalika,Rukum_W,Banfikot,Gaunpalika,6,Karnali,524652,608,NP0652,60803,524 6 52 4 002,NP0652402
+564,Chaurjahari Nagarpalika,Rukum_W,Chaurjahari,Nagarpalika,6,Karnali,524652,608,NP0652,60806,524 6 52 3 002,NP0652302
+566,Sani Bheri Gaunpalika,Rukum_W,Sani Bheri,Gaunpalika,6,Karnali,524652,608,NP0652,60802,524 6 52 4 001,NP0652401
+567,Tribeni Gaunpalika,Rukum_W,Tribeni,Gaunpalika,6,Karnali,524652,608,NP0652,60805,524 6 52 4 003,NP0652403
+568,Bagchaur Nagarpalika,Salyan,Bagchaur,Nagarpalika,6,Karnali,524653,609,NP0653,60905,524 6 53 3 002,NP0653302
+569,Bangad Kupinde Nagarpalika,Salyan,Bangad Kupinde,Nagarpalika,6,Karnali,524653,609,NP0653,60903,524 6 53 3 001,NP0653301
+570,Chhatreshwori Gaunpalika,Salyan,Chhatreshwori,Gaunpalika,6,Karnali,524653,609,NP0653,60906,524 6 53 4 005,NP0653405
+571,Darma Gaunpalika,Salyan,Darma,Gaunpalika,6,Karnali,524653,609,NP0653,60901,524 6 53 4 002,NP0653402
+572,Siddha Kumakha Gaunpalika,Salyan,Siddha Kumakha,Gaunpalika,6,Karnali,524653,609,NP0653,60904,524 6 53 4 003,NP0653403
+573,Kalimati Gaunpalika,Salyan,Kalimati,Gaunpalika,6,Karnali,524653,609,NP0653,60908,524 6 53 4 004,NP0653404
+574,Kapurkot Gaunpalika,Salyan,Kapurkot,Gaunpalika,6,Karnali,524653,609,NP0653,60910,524 6 53 4 007,NP0653407
+575,Kumakha Gaunpalika,Salyan,Kumakha,Gaunpalika,6,Karnali,524653,609,NP0653,60902,524 6 53 4 001,NP0653401
+576,Sharada Nagarpalika,Salyan,Sharada,Nagarpalika,6,Karnali,524653,609,NP0653,60907,524 6 53 3 003,NP0653303
+577,Tribeni Gaunpalika,Salyan,Tribeni,Gaunpalika,6,Karnali,524653,609,NP0653,60909,524 6 53 4 006,NP0653406
+578,Babai Gaunpalika,Dang,Babai,Gaunpalika,5,5,524556,510,NP0556,51005,524 5 56 4 001,NP0556401
+579,Banglachuli Gaunpalika,Dang,Banglachuli,Gaunpalika,5,5,524556,510,NP0556,51001,524 5 56 4 005,NP0556405
+580,Dangisharan Gaunpalika,Dang,Dangisharan,Gaunpalika,5,5,524556,510,NP0556,51006,524 5 56 4 002,NP0556402
+581,Gadhawa Gaunpalika,Dang,Gadhawa,Gaunpalika,5,5,524556,510,NP0556,51009,524 5 56 4 006,NP0556406
+582,Ghorahi Upamahanagarpalika,Dang,Ghorahi,Upamahanagarpalika,5,5,524556,510,NP0556,51002,524 5 56 2 002,NP0556202
+583,Lamahi Nagarpalika,Dang,Lamahi,Nagarpalika,5,5,524556,510,NP0556,51007,524 5 56 3 001,NP0556301
+584,Rajpur Gaunpalika,Dang,Rajpur,Gaunpalika,5,5,524556,510,NP0556,51010,524 5 56 4 004,NP0556404
+585,Rapti Gaunpalika,Dang,Rapti,Gaunpalika,5,5,524556,510,NP0556,51008,524 5 56 4 007,NP0556407
+586,Shantinagar Gaunpalika,Dang,Shantinagar,Gaunpalika,5,5,524556,510,NP0556,51004,524 5 56 4 003,NP0556403
+587,Tulsipur Upamahanagarpalika,Dang,Tulsipur,Upamahanagarpalika,5,5,524556,510,NP0556,51003,524 5 56 2 001,NP0556201
+588,Baijanath Gaunpalika,Banke,Baijanath,Gaunpalika,5,5,524557,511,NP0557,51103,524 5 57 4 002,NP0557402
+589,Duduwa Gaunpalika,Banke,Duduwa,Gaunpalika,5,5,524557,511,NP0557,51107,524 5 57 4 004,NP0557404
+590,Janki Gaunpalika,Banke,Janki,Gaunpalika,5,5,524557,511,NP0557,51105,524 5 57 4 003,NP0557403
+591,Khajura Gaunpalika,Banke,Khajura,Gaunpalika,5,5,524557,511,NP0557,51104,524 5 57 4 001,NP0557401
+592,Kohalpur Nagarpalika,Banke,Kohalpur,Nagarpalika,5,5,524557,511,NP0557,51102,524 5 57 3 001,NP0557301
+593,Narainapur Gaunpalika,Banke,Narainapur,Gaunpalika,5,5,524557,511,NP0557,51108,524 5 57 4 006,NP0557406
+594,Nepalgunj Upamahanagarpalika,Banke,Nepalgunj,Upamahanagarpalika,5,5,524557,511,NP0557,51106,524 5 57 2 001,NP0557201
+595,Rapti Sonari Gaunpalika,Banke,Rapti Sonari,Gaunpalika,5,5,524557,511,NP0557,51101,524 5 57 4 005,NP0557405
+596,Badhaiyatal Gaunpalika,Bardiya,Badhaiyatal,Gaunpalika,5,5,524558,512,NP0558,51208,524 5 58 4 002,NP0558402
+597,Bansagadhi Nagarpalika,Bardiya,Bansagadhi,Nagarpalika,5,5,524558,512,NP0558,51201,524 5 58 3 006,NP0558306
+598,Barbardiya Nagarpalika,Bardiya,Barbardiya,Nagarpalika,5,5,524558,512,NP0558,51202,524 5 58 3 005,NP0558305
+599,Geruwa Gaunpalika,Bardiya,Geruwa,Gaunpalika,5,5,524558,512,NP0558,51204,524 5 58 4 001,NP0558401
+600,Gulariya Nagarpalika,Bardiya,Gulariya,Nagarpalika,5,5,524558,512,NP0558,51207,524 5 58 3 004,NP0558304
+601,Madhuwan Nagarpalika,Bardiya,Madhuwan,Nagarpalika,5,5,524558,512,NP0558,51206,524 5 58 3 002,NP0558302
+602,Rajapur Nagarpalika,Bardiya,Rajapur,Nagarpalika,5,5,524558,512,NP0558,51205,524 5 58 3 001,NP0558301
+603,Thakurbaba Nagarpalika,Bardiya,Thakurbaba,Nagarpalika,5,5,524558,512,NP0558,51203,524 5 58 3 003,NP0558303
 604,Bardiya National Park,Bardiya,Bardiya National Park,National Park,5,5,524558,,NP0558,,524 5 58 5 997,NP0558597
-605,Barahtal Gaunpalika,Surkhet,Barahtal,Gaunpalika,6,Karnali,524659,610.0,NP0659,61007.0,524 6 59 4 002,NP0659402
-606,Bheriganga Nagarpalika,Surkhet,Bheriganga,Nagarpalika,6,Karnali,524659,610.0,NP0659,61005.0,524 6 59 3 002,NP0659302
-607,Birendranagar Nagarpalika,Surkhet,Birendranagar,Nagarpalika,6,Karnali,524659,610.0,NP0659,61006.0,524 6 59 3 003,NP0659303
-608,Chaukune Gaunpalika,Surkhet,Chaukune,Gaunpalika,6,Karnali,524659,610.0,NP0659,61009.0,524 6 59 4 001,NP0659401
-609,Chingad Gaunpalika,Surkhet,Chingad,Gaunpalika,6,Karnali,524659,610.0,NP0659,61002.0,524 6 59 4 003,NP0659403
-610,Gurbhakot Nagarpalika,Surkhet,Gurbhakot,Nagarpalika,6,Karnali,524659,610.0,NP0659,61004.0,524 6 59 3 005,NP0659305
-611,Lekbeshi Nagarpalika,Surkhet,Lekbeshi,Nagarpalika,6,Karnali,524659,610.0,NP0659,61003.0,524 6 59 3 004,NP0659304
-612,Panchpuri Nagarpalika,Surkhet,Panchpuri,Nagarpalika,6,Karnali,524659,610.0,NP0659,61008.0,524 6 59 3 001,NP0659301
-613,Simta Gaunpalika,Surkhet,Simta,Gaunpalika,6,Karnali,524659,610.0,NP0659,61001.0,524 6 59 4 004,NP0659404
-614,Aathabis Nagarpalika,Dailekh,Aathabis,Nagarpalika,6,Karnali,524661,606.0,NP0661,60605.0,524 6 61 3 001,NP0661301
-615,Bhagawatimai Gaunpalika,Dailekh,Bhagawatimai,Gaunpalika,6,Karnali,524661,606.0,NP0661,60609.0,524 6 61 4 007,NP0661407
-616,Bhairabi Gaunpalika,Dailekh,Bhairabi,Gaunpalika,6,Karnali,524661,606.0,NP0661,60603.0,524 6 61 4 002,NP0661402
-617,Chamunda Bindrasaini Nagarpalika,Dailekh,Chamunda Bindrasaini,Nagarpalika,6,Karnali,524661,606.0,NP0661,60606.0,524 6 61 3 002,NP0661302
-618,Dullu Nagarpalika,Dailekh,Dullu,Nagarpalika,6,Karnali,524661,606.0,NP0661,60607.0,524 6 61 3 003,NP0661303
-619,Dungeshwor Gaunpalika,Dailekh,Dungeshwor,Gaunpalika,6,Karnali,524661,606.0,NP0661,60610.0,524 6 61 4 006,NP0661406
-620,Gurans Gaunpalika,Dailekh,Gurans,Gaunpalika,6,Karnali,524661,606.0,NP0661,60611.0,524 6 61 4 005,NP0661405
-621,Mahabu Gaunpalika,Dailekh,Mahabu,Gaunpalika,6,Karnali,524661,606.0,NP0661,60602.0,524 6 61 4 003,NP0661403
-622,Narayan Nagarpalika,Dailekh,Narayan,Nagarpalika,6,Karnali,524661,606.0,NP0661,60608.0,524 6 61 3 004,NP0661304
-623,Naumule Gaunpalika,Dailekh,Naumule,Gaunpalika,6,Karnali,524661,606.0,NP0661,60601.0,524 6 61 4 004,NP0661404
-624,Thantikandh Gaunpalika,Dailekh,Thantikandh,Gaunpalika,6,Karnali,524661,606.0,NP0661,60604.0,524 6 61 4 001,NP0661401
-625,Barekot Gaunpalika,Jajarkot,Barekot,Gaunpalika,6,Karnali,524660,607.0,NP0660,60701.0,524 6 60 4 003,NP0660403
-626,Bheri Nagarpalika,Jajarkot,Bheri,Nagarpalika,6,Karnali,524660,607.0,NP0660,60706.0,524 6 60 3 002,NP0660302
-627,Chhedagad Nagarpalika,Jajarkot,Chhedagad,Nagarpalika,6,Karnali,524660,607.0,NP0660,60704.0,524 6 60 3 001,NP0660301
-628,Junichande Gaunpalika,Jajarkot,Junichande,Gaunpalika,6,Karnali,524660,607.0,NP0660,60703.0,524 6 60 4 001,NP0660401
-629,Kuse Gaunpalika,Jajarkot,Kuse,Gaunpalika,6,Karnali,524660,607.0,NP0660,60702.0,524 6 60 4 002,NP0660402
-630,Shiwalaya Gaunpalika,Jajarkot,Shiwalaya,Gaunpalika,6,Karnali,524660,607.0,NP0660,60705.0,524 6 60 4 004,NP0660404
-631,Nalagad Nagarpalika,Jajarkot,Nalagad,Nagarpalika,6,Karnali,524660,607.0,NP0660,60707.0,524 6 60 3 003,NP0660303
-632,Chharka Tangsong Gaunpalika,Dolpa,Chharka Tangsong,Gaunpalika,6,Karnali,524662,601.0,NP0662,60108.0,524 6 62 4 006,NP0662406
-633,Dolpo Buddha Gaunpalika,Dolpa,Dolpo Buddha,Gaunpalika,6,Karnali,524662,601.0,NP0662,60101.0,524 6 62 4 003,NP0662403
-634,Jagadulla Gaunpalika,Dolpa,Jagadulla,Gaunpalika,6,Karnali,524662,601.0,NP0662,60103.0,524 6 62 4 002,NP0662402
-635,Kaike Gaunpalika,Dolpa,Kaike,Gaunpalika,6,Karnali,524662,601.0,NP0662,60107.0,524 6 62 4 005,NP0662405
-636,Mudkechula Gaunpalika,Dolpa,Mudkechula,Gaunpalika,6,Karnali,524662,601.0,NP0662,60104.0,524 6 62 4 004,NP0662404
-637,Shey Phoksundo Gaunpalika,Dolpa,Shey Phoksundo,Gaunpalika,6,Karnali,524662,601.0,NP0662,60102.0,524 6 62 4 001,NP0662401
-638,Thuli Bheri Nagarpalika,Dolpa,Thuli Bheri,Nagarpalika,6,Karnali,524662,601.0,NP0662,60106.0,524 6 62 3 002,NP0662302
-639,Tripurasundari Nagarpalika,Dolpa,Tripurasundari,Nagarpalika,6,Karnali,524662,601.0,NP0662,60105.0,524 6 62 3 001,NP0662301
-640,Chandannath Nagarpalika,Jumla,Chandannath,Nagarpalika,6,Karnali,524663,604.0,NP0663,60404.0,524 6 63 3 001,NP0663301
-641,Guthichaur Gaunpalika,Jumla,Guthichaur,Gaunpalika,6,Karnali,524663,604.0,NP0663,60405.0,524 6 63 4 007,NP0663407
-642,Hima Gaunpalika,Jumla,Hima,Gaunpalika,6,Karnali,524663,604.0,NP0663,60408.0,524 6 63 4 004,NP0663404
-643,Kanakasundari Gaunpalika,Jumla,Kanakasundari,Gaunpalika,6,Karnali,524663,604.0,NP0663,60402.0,524 6 63 4 001,NP0663401
-644,Patrasi Gaunpalika,Jumla,Patrasi,Gaunpalika,6,Karnali,524663,604.0,NP0663,60401.0,524 6 63 4 003,NP0663403
-645,Sinja Gaunpalika,Jumla,Sinja,Gaunpalika,6,Karnali,524663,604.0,NP0663,60403.0,524 6 63 4 002,NP0663402
-646,Tatopani Gaunpalika,Jumla,Tatopani,Gaunpalika,6,Karnali,524663,604.0,NP0663,60406.0,524 6 63 4 006,NP0663406
-647,Tila Gaunpalika,Jumla,Tila,Gaunpalika,6,Karnali,524663,604.0,NP0663,60407.0,524 6 63 4 005,NP0663405
-648,Kalika Gaunpalika,Kalikot,Kalika,Gaunpalika,6,Karnali,524664,605.0,NP0664,60509.0,524 6 64 4 005,NP0664405
-649,Khandachakra Nagarpalika,Kalikot,Khandachakra,Nagarpalika,6,Karnali,524664,605.0,NP0664,60506.0,524 6 64 3 002,NP0664302
-650,Mahawai Gaunpalika,Kalikot,Mahawai,Gaunpalika,6,Karnali,524664,605.0,NP0664,60508.0,524 6 64 4 006,NP0664406
-651,Naraharinath Gaunpalika,Kalikot,Naraharinath,Gaunpalika,6,Karnali,524664,605.0,NP0664,60505.0,524 6 64 4 001,NP0664401
-652,Pachaljharana Gaunpalika,Kalikot,Pachaljharana,Gaunpalika,6,Karnali,524664,605.0,NP0664,60502.0,524 6 64 4 003,NP0664403
-653,Palata Gaunpalika,Kalikot,Palata,Gaunpalika,6,Karnali,524664,605.0,NP0664,60501.0,524 6 64 4 004,NP0664404
-654,Raskot Nagarpalika,Kalikot,Raskot,Nagarpalika,6,Karnali,524664,605.0,NP0664,60503.0,524 6 64 3 001,NP0664301
-655,Sanni Tribeni Gaunpalika,Kalikot,Sanni Tribeni,Gaunpalika,6,Karnali,524664,605.0,NP0664,60504.0,524 6 64 4 002,NP0664402
-656,Tilagufa Nagarpalika,Kalikot,Tilagufa,Nagarpalika,6,Karnali,524664,605.0,NP0664,60507.0,524 6 64 3 003,NP0664303
-657,Chhayanath Rara Nagarpalika,Mugu,Chhayanath Rara,Nagarpalika,6,Karnali,524665,602.0,NP0665,60202.0,524 6 65 3 001,NP0665301
-658,Khatyad Gaunpalika,Mugu,Khatyad,Gaunpalika,6,Karnali,524665,602.0,NP0665,60204.0,524 6 65 4 001,NP0665401
-659,Mugu mkarmarong Gaunpalika,Mugu,Mugu mkarmarong,Gaunpalika,6,Karnali,524665,602.0,NP0665,60201.0,524 6 65 4 003,NP0665403
-660,Soru Gaunpalika,Mugu,Soru,Gaunpalika,6,Karnali,524665,602.0,NP0665,60203.0,524 6 65 4 002,NP0665402
-661,Adanchuli Gaunpalika,Humla,Adanchuli,Gaunpalika,6,Karnali,524666,603.0,NP0666,60306.0,524 6 66 4 007,NP0666407
-662,Chankheli Gaunpalika,Humla,Chankheli,Gaunpalika,6,Karnali,524666,603.0,NP0666,60301.0,524 6 66 4 005,NP0666405
-663,Kharpunath Gaunpalika,Humla,Kharpunath,Gaunpalika,6,Karnali,524666,603.0,NP0666,60302.0,524 6 66 4 003,NP0666403
-664,Namkha Gaunpalika,Humla,Namkha,Gaunpalika,6,Karnali,524666,603.0,NP0666,60304.0,524 6 66 4 001,NP0666401
-665,Sarkegad Gaunpalika,Humla,Sarkegad,Gaunpalika,6,Karnali,524666,603.0,NP0666,60305.0,524 6 66 4 004,NP0666404
-666,Simkot Gaunpalika,Humla,Simkot,Gaunpalika,6,Karnali,524666,603.0,NP0666,60303.0,524 6 66 4 002,NP0666402
-667,Tanjakot Gaunpalika,Humla,Tanjakot,Gaunpalika,6,Karnali,524666,603.0,NP0666,60307.0,524 6 66 4 006,NP0666406
-668,Badimalika Nagarpalika,Bajura,Badimalika,Nagarpalika,7,Sudurpashchim,524768,701.0,NP0768,70106.0,524 7 68 3 002,NP0768302
-669,Budhiganga Nagarpalika,Bajura,Budhiganga,Nagarpalika,7,Sudurpashchim,524768,701.0,NP0768,70108.0,524 7 68 3 003,NP0768303
-670,Budhinanda Nagarpalika,Bajura,Budhinanda,Nagarpalika,7,Sudurpashchim,524768,701.0,NP0768,70103.0,524 7 68 3 001,NP0768301
-671,Chhededaha Gaunpalika,Bajura,Chhededaha,Gaunpalika,7,Sudurpashchim,524768,701.0,NP0768,70107.0,524 7 68 4 003,NP0768403
-672,Gaumul Gaunpalika,Bajura,Gaumul,Gaunpalika,7,Sudurpashchim,524768,701.0,NP0768,70102.0,524 7 68 4 002,NP0768402
-673,Himali Gaunpalika,Bajura,Himali,Gaunpalika,7,Sudurpashchim,524768,701.0,NP0768,70101.0,524 7 68 4 001,NP0768401
-674,Jagannath Gaunpalika,Bajura,Jagannath,Gaunpalika,7,Sudurpashchim,524768,701.0,NP0768,70105.0,524 7 68 4 004,NP0768404
-675,Swami Kartik Gaunpalika,Bajura,Swami Kartik,Gaunpalika,7,Sudurpashchim,524768,701.0,NP0768,70104.0,524 7 68 4 005,NP0768405
-676,Tribeni Nagarpalika,Bajura,Tribeni,Nagarpalika,7,Sudurpashchim,524768,701.0,NP0768,70109.0,524 7 68 3 004,NP0768304
+605,Barahtal Gaunpalika,Surkhet,Barahtal,Gaunpalika,6,Karnali,524659,610,NP0659,61007,524 6 59 4 002,NP0659402
+606,Bheriganga Nagarpalika,Surkhet,Bheriganga,Nagarpalika,6,Karnali,524659,610,NP0659,61005,524 6 59 3 002,NP0659302
+607,Birendranagar Nagarpalika,Surkhet,Birendranagar,Nagarpalika,6,Karnali,524659,610,NP0659,61006,524 6 59 3 003,NP0659303
+608,Chaukune Gaunpalika,Surkhet,Chaukune,Gaunpalika,6,Karnali,524659,610,NP0659,61009,524 6 59 4 001,NP0659401
+609,Chingad Gaunpalika,Surkhet,Chingad,Gaunpalika,6,Karnali,524659,610,NP0659,61002,524 6 59 4 003,NP0659403
+610,Gurbhakot Nagarpalika,Surkhet,Gurbhakot,Nagarpalika,6,Karnali,524659,610,NP0659,61004,524 6 59 3 005,NP0659305
+611,Lekbeshi Nagarpalika,Surkhet,Lekbeshi,Nagarpalika,6,Karnali,524659,610,NP0659,61003,524 6 59 3 004,NP0659304
+612,Panchpuri Nagarpalika,Surkhet,Panchpuri,Nagarpalika,6,Karnali,524659,610,NP0659,61008,524 6 59 3 001,NP0659301
+613,Simta Gaunpalika,Surkhet,Simta,Gaunpalika,6,Karnali,524659,610,NP0659,61001,524 6 59 4 004,NP0659404
+614,Aathabis Nagarpalika,Dailekh,Aathabis,Nagarpalika,6,Karnali,524661,606,NP0661,60605,524 6 61 3 001,NP0661301
+615,Bhagawatimai Gaunpalika,Dailekh,Bhagawatimai,Gaunpalika,6,Karnali,524661,606,NP0661,60609,524 6 61 4 007,NP0661407
+616,Bhairabi Gaunpalika,Dailekh,Bhairabi,Gaunpalika,6,Karnali,524661,606,NP0661,60603,524 6 61 4 002,NP0661402
+617,Chamunda Bindrasaini Nagarpalika,Dailekh,Chamunda Bindrasaini,Nagarpalika,6,Karnali,524661,606,NP0661,60606,524 6 61 3 002,NP0661302
+618,Dullu Nagarpalika,Dailekh,Dullu,Nagarpalika,6,Karnali,524661,606,NP0661,60607,524 6 61 3 003,NP0661303
+619,Dungeshwor Gaunpalika,Dailekh,Dungeshwor,Gaunpalika,6,Karnali,524661,606,NP0661,60610,524 6 61 4 006,NP0661406
+620,Gurans Gaunpalika,Dailekh,Gurans,Gaunpalika,6,Karnali,524661,606,NP0661,60611,524 6 61 4 005,NP0661405
+621,Mahabu Gaunpalika,Dailekh,Mahabu,Gaunpalika,6,Karnali,524661,606,NP0661,60602,524 6 61 4 003,NP0661403
+622,Narayan Nagarpalika,Dailekh,Narayan,Nagarpalika,6,Karnali,524661,606,NP0661,60608,524 6 61 3 004,NP0661304
+623,Naumule Gaunpalika,Dailekh,Naumule,Gaunpalika,6,Karnali,524661,606,NP0661,60601,524 6 61 4 004,NP0661404
+624,Thantikandh Gaunpalika,Dailekh,Thantikandh,Gaunpalika,6,Karnali,524661,606,NP0661,60604,524 6 61 4 001,NP0661401
+625,Barekot Gaunpalika,Jajarkot,Barekot,Gaunpalika,6,Karnali,524660,607,NP0660,60701,524 6 60 4 003,NP0660403
+626,Bheri Nagarpalika,Jajarkot,Bheri,Nagarpalika,6,Karnali,524660,607,NP0660,60706,524 6 60 3 002,NP0660302
+627,Chhedagad Nagarpalika,Jajarkot,Chhedagad,Nagarpalika,6,Karnali,524660,607,NP0660,60704,524 6 60 3 001,NP0660301
+628,Junichande Gaunpalika,Jajarkot,Junichande,Gaunpalika,6,Karnali,524660,607,NP0660,60703,524 6 60 4 001,NP0660401
+629,Kuse Gaunpalika,Jajarkot,Kuse,Gaunpalika,6,Karnali,524660,607,NP0660,60702,524 6 60 4 002,NP0660402
+630,Shiwalaya Gaunpalika,Jajarkot,Shiwalaya,Gaunpalika,6,Karnali,524660,607,NP0660,60705,524 6 60 4 004,NP0660404
+631,Nalagad Nagarpalika,Jajarkot,Nalagad,Nagarpalika,6,Karnali,524660,607,NP0660,60707,524 6 60 3 003,NP0660303
+632,Chharka Tangsong Gaunpalika,Dolpa,Chharka Tangsong,Gaunpalika,6,Karnali,524662,601,NP0662,60108,524 6 62 4 006,NP0662406
+633,Dolpo Buddha Gaunpalika,Dolpa,Dolpo Buddha,Gaunpalika,6,Karnali,524662,601,NP0662,60101,524 6 62 4 003,NP0662403
+634,Jagadulla Gaunpalika,Dolpa,Jagadulla,Gaunpalika,6,Karnali,524662,601,NP0662,60103,524 6 62 4 002,NP0662402
+635,Kaike Gaunpalika,Dolpa,Kaike,Gaunpalika,6,Karnali,524662,601,NP0662,60107,524 6 62 4 005,NP0662405
+636,Mudkechula Gaunpalika,Dolpa,Mudkechula,Gaunpalika,6,Karnali,524662,601,NP0662,60104,524 6 62 4 004,NP0662404
+637,Shey Phoksundo Gaunpalika,Dolpa,Shey Phoksundo,Gaunpalika,6,Karnali,524662,601,NP0662,60102,524 6 62 4 001,NP0662401
+638,Thuli Bheri Nagarpalika,Dolpa,Thuli Bheri,Nagarpalika,6,Karnali,524662,601,NP0662,60106,524 6 62 3 002,NP0662302
+639,Tripurasundari Nagarpalika,Dolpa,Tripurasundari,Nagarpalika,6,Karnali,524662,601,NP0662,60105,524 6 62 3 001,NP0662301
+640,Chandannath Nagarpalika,Jumla,Chandannath,Nagarpalika,6,Karnali,524663,604,NP0663,60404,524 6 63 3 001,NP0663301
+641,Guthichaur Gaunpalika,Jumla,Guthichaur,Gaunpalika,6,Karnali,524663,604,NP0663,60405,524 6 63 4 007,NP0663407
+642,Hima Gaunpalika,Jumla,Hima,Gaunpalika,6,Karnali,524663,604,NP0663,60408,524 6 63 4 004,NP0663404
+643,Kanakasundari Gaunpalika,Jumla,Kanakasundari,Gaunpalika,6,Karnali,524663,604,NP0663,60402,524 6 63 4 001,NP0663401
+644,Patrasi Gaunpalika,Jumla,Patrasi,Gaunpalika,6,Karnali,524663,604,NP0663,60401,524 6 63 4 003,NP0663403
+645,Sinja Gaunpalika,Jumla,Sinja,Gaunpalika,6,Karnali,524663,604,NP0663,60403,524 6 63 4 002,NP0663402
+646,Tatopani Gaunpalika,Jumla,Tatopani,Gaunpalika,6,Karnali,524663,604,NP0663,60406,524 6 63 4 006,NP0663406
+647,Tila Gaunpalika,Jumla,Tila,Gaunpalika,6,Karnali,524663,604,NP0663,60407,524 6 63 4 005,NP0663405
+648,Kalika Gaunpalika,Kalikot,Kalika,Gaunpalika,6,Karnali,524664,605,NP0664,60509,524 6 64 4 005,NP0664405
+649,Khandachakra Nagarpalika,Kalikot,Khandachakra,Nagarpalika,6,Karnali,524664,605,NP0664,60506,524 6 64 3 002,NP0664302
+650,Mahawai Gaunpalika,Kalikot,Mahawai,Gaunpalika,6,Karnali,524664,605,NP0664,60508,524 6 64 4 006,NP0664406
+651,Naraharinath Gaunpalika,Kalikot,Naraharinath,Gaunpalika,6,Karnali,524664,605,NP0664,60505,524 6 64 4 001,NP0664401
+652,Pachaljharana Gaunpalika,Kalikot,Pachaljharana,Gaunpalika,6,Karnali,524664,605,NP0664,60502,524 6 64 4 003,NP0664403
+653,Palata Gaunpalika,Kalikot,Palata,Gaunpalika,6,Karnali,524664,605,NP0664,60501,524 6 64 4 004,NP0664404
+654,Raskot Nagarpalika,Kalikot,Raskot,Nagarpalika,6,Karnali,524664,605,NP0664,60503,524 6 64 3 001,NP0664301
+655,Sanni Tribeni Gaunpalika,Kalikot,Sanni Tribeni,Gaunpalika,6,Karnali,524664,605,NP0664,60504,524 6 64 4 002,NP0664402
+656,Tilagufa Nagarpalika,Kalikot,Tilagufa,Nagarpalika,6,Karnali,524664,605,NP0664,60507,524 6 64 3 003,NP0664303
+657,Chhayanath Rara Nagarpalika,Mugu,Chhayanath Rara,Nagarpalika,6,Karnali,524665,602,NP0665,60202,524 6 65 3 001,NP0665301
+658,Khatyad Gaunpalika,Mugu,Khatyad,Gaunpalika,6,Karnali,524665,602,NP0665,60204,524 6 65 4 001,NP0665401
+659,Mugu mkarmarong Gaunpalika,Mugu,Mugu mkarmarong,Gaunpalika,6,Karnali,524665,602,NP0665,60201,524 6 65 4 003,NP0665403
+660,Soru Gaunpalika,Mugu,Soru,Gaunpalika,6,Karnali,524665,602,NP0665,60203,524 6 65 4 002,NP0665402
+661,Adanchuli Gaunpalika,Humla,Adanchuli,Gaunpalika,6,Karnali,524666,603,NP0666,60306,524 6 66 4 007,NP0666407
+662,Chankheli Gaunpalika,Humla,Chankheli,Gaunpalika,6,Karnali,524666,603,NP0666,60301,524 6 66 4 005,NP0666405
+663,Kharpunath Gaunpalika,Humla,Kharpunath,Gaunpalika,6,Karnali,524666,603,NP0666,60302,524 6 66 4 003,NP0666403
+664,Namkha Gaunpalika,Humla,Namkha,Gaunpalika,6,Karnali,524666,603,NP0666,60304,524 6 66 4 001,NP0666401
+665,Sarkegad Gaunpalika,Humla,Sarkegad,Gaunpalika,6,Karnali,524666,603,NP0666,60305,524 6 66 4 004,NP0666404
+666,Simkot Gaunpalika,Humla,Simkot,Gaunpalika,6,Karnali,524666,603,NP0666,60303,524 6 66 4 002,NP0666402
+667,Tanjakot Gaunpalika,Humla,Tanjakot,Gaunpalika,6,Karnali,524666,603,NP0666,60307,524 6 66 4 006,NP0666406
+668,Badimalika Nagarpalika,Bajura,Badimalika,Nagarpalika,7,Sudurpashchim,524768,701,NP0768,70106,524 7 68 3 002,NP0768302
+669,Budhiganga Nagarpalika,Bajura,Budhiganga,Nagarpalika,7,Sudurpashchim,524768,701,NP0768,70108,524 7 68 3 003,NP0768303
+670,Budhinanda Nagarpalika,Bajura,Budhinanda,Nagarpalika,7,Sudurpashchim,524768,701,NP0768,70103,524 7 68 3 001,NP0768301
+671,Chhededaha Gaunpalika,Bajura,Chhededaha,Gaunpalika,7,Sudurpashchim,524768,701,NP0768,70107,524 7 68 4 003,NP0768403
+672,Gaumul Gaunpalika,Bajura,Gaumul,Gaunpalika,7,Sudurpashchim,524768,701,NP0768,70102,524 7 68 4 002,NP0768402
+673,Himali Gaunpalika,Bajura,Himali,Gaunpalika,7,Sudurpashchim,524768,701,NP0768,70101,524 7 68 4 001,NP0768401
+674,Jagannath Gaunpalika,Bajura,Jagannath,Gaunpalika,7,Sudurpashchim,524768,701,NP0768,70105,524 7 68 4 004,NP0768404
+675,Swami Kartik Gaunpalika,Bajura,Swami Kartik,Gaunpalika,7,Sudurpashchim,524768,701,NP0768,70104,524 7 68 4 005,NP0768405
+676,Tribeni Nagarpalika,Bajura,Tribeni,Nagarpalika,7,Sudurpashchim,524768,701,NP0768,70109,524 7 68 3 004,NP0768304
 677,Khaptad National Park,Bajura,Khaptad National Park,National Park,7,Sudurpashchim,524768,,NP0768,,524 7 68 5 997,NP0768597
-678,Bithadchir Gaunpalika,Bajhang,Bithadchir,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70210.0,524 7 67 4 004,NP0767404
-679,Bungal Nagarpalika,Bajhang,Bungal,Nagarpalika,7,Sudurpashchim,524767,702.0,NP0767,70202.0,524 7 67 3 001,NP0767301
-680,Chabispathivera Gaunpalika,Bajhang,Chabispathivera,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70207.0,524 7 67 4 007,NP0767407
-681,Durgathali Gaunpalika,Bajhang,Durgathali,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70208.0,524 7 67 4 006,NP0767406
-682,JayaPrithivi Nagarpalika,Bajhang,JayaPrithivi,Nagarpalika,7,Sudurpashchim,524767,702.0,NP0767,70206.0,524 7 67 3 002,NP0767302
-683,Saa Paal Gaunpalika,Bajhang,Saa Paal,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70201.0,524 7 67 4 001,NP0767401
-684,Kedarseu Gaunpalika,Bajhang,Kedarseu,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70209.0,524 7 67 4 005,NP0767405
-685,Khaptadchhanna Gaunpalika,Bajhang,Khaptadchhanna,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70212.0,524 7 67 4 010,NP0767410
-686,Masta Gaunpalika,Bajhang,Masta,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70205.0,524 7 67 4 008,NP0767408
-687,Surma Gaunpalika,Bajhang,Surma,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70203.0,524 7 67 4 002,NP0767402
-688,Talkot Gaunpalika,Bajhang,Talkot,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70204.0,524 7 67 4 003,NP0767403
-689,Thalara Gaunpalika,Bajhang,Thalara,Gaunpalika,7,Sudurpashchim,524767,702.0,NP0767,70211.0,524 7 67 4 009,NP0767409
+678,Bithadchir Gaunpalika,Bajhang,Bithadchir,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70210,524 7 67 4 004,NP0767404
+679,Bungal Nagarpalika,Bajhang,Bungal,Nagarpalika,7,Sudurpashchim,524767,702,NP0767,70202,524 7 67 3 001,NP0767301
+680,Chabispathivera Gaunpalika,Bajhang,Chabispathivera,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70207,524 7 67 4 007,NP0767407
+681,Durgathali Gaunpalika,Bajhang,Durgathali,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70208,524 7 67 4 006,NP0767406
+682,JayaPrithivi Nagarpalika,Bajhang,JayaPrithivi,Nagarpalika,7,Sudurpashchim,524767,702,NP0767,70206,524 7 67 3 002,NP0767302
+683,Saa Paal Gaunpalika,Bajhang,Saa Paal,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70201,524 7 67 4 001,NP0767401
+684,Kedarseu Gaunpalika,Bajhang,Kedarseu,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70209,524 7 67 4 005,NP0767405
+685,Khaptadchhanna Gaunpalika,Bajhang,Khaptadchhanna,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70212,524 7 67 4 010,NP0767410
+686,Masta Gaunpalika,Bajhang,Masta,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70205,524 7 67 4 008,NP0767408
+687,Surma Gaunpalika,Bajhang,Surma,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70203,524 7 67 4 002,NP0767402
+688,Talkot Gaunpalika,Bajhang,Talkot,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70204,524 7 67 4 003,NP0767403
+689,Thalara Gaunpalika,Bajhang,Thalara,Gaunpalika,7,Sudurpashchim,524767,702,NP0767,70211,524 7 67 4 009,NP0767409
 690,Khaptad National Park,Bajhang,Khaptad National Park,National Park,7,Sudurpashchim,524767,,NP0767,,524 7 67 5 997,NP0767597
-691,Bannigadhi Jayagadh Gaunpalika,Achham,Bannigadhi Jayagadh,Gaunpalika,7,Sudurpashchim,524769,707.0,NP0769,70707.0,524 7 69 4 003,NP0769403
-692,Chaurpati Gaunpalika,Achham,Chaurpati,Gaunpalika,7,Sudurpashchim,524769,707.0,NP0769,70705.0,524 7 69 4 001,NP0769401
-693,Dhakari Gaunpalika,Achham,Dhakari,Gaunpalika,7,Sudurpashchim,524769,707.0,NP0769,70709.0,524 7 69 4 005,NP0769405
-694,Kamalbazar Nagarpalika,Achham,Kamalbazar,Nagarpalika,7,Sudurpashchim,524769,707.0,NP0769,70708.0,524 7 69 3 003,NP0769303
-695,Mangalsen Nagarpalika,Achham,Mangalsen,Nagarpalika,7,Sudurpashchim,524769,707.0,NP0769,70706.0,524 7 69 3 002,NP0769302
-696,Mellekh Gaunpalika,Achham,Mellekh,Gaunpalika,7,Sudurpashchim,524769,707.0,NP0769,70703.0,524 7 69 4 002,NP0769402
-697,Panchadewal Binayak Nagarpalika,Achham,Panchadewal Binayak,Nagarpalika,7,Sudurpashchim,524769,707.0,NP0769,70701.0,524 7 69 3 004,NP0769304
-698,Ramaroshan Gaunpalika,Achham,Ramaroshan,Gaunpalika,7,Sudurpashchim,524769,707.0,NP0769,70702.0,524 7 69 4 004,NP0769404
-699,Sanphebagar Nagarpalika,Achham,Sanphebagar,Nagarpalika,7,Sudurpashchim,524769,707.0,NP0769,70704.0,524 7 69 3 001,NP0769301
-700,Turmakhad Gaunpalika,Achham,Turmakhad,Gaunpalika,7,Sudurpashchim,524769,707.0,NP0769,70710.0,524 7 69 4 006,NP0769406
+691,Bannigadhi Jayagadh Gaunpalika,Achham,Bannigadhi Jayagadh,Gaunpalika,7,Sudurpashchim,524769,707,NP0769,70707,524 7 69 4 003,NP0769403
+692,Chaurpati Gaunpalika,Achham,Chaurpati,Gaunpalika,7,Sudurpashchim,524769,707,NP0769,70705,524 7 69 4 001,NP0769401
+693,Dhakari Gaunpalika,Achham,Dhakari,Gaunpalika,7,Sudurpashchim,524769,707,NP0769,70709,524 7 69 4 005,NP0769405
+694,Kamalbazar Nagarpalika,Achham,Kamalbazar,Nagarpalika,7,Sudurpashchim,524769,707,NP0769,70708,524 7 69 3 003,NP0769303
+695,Mangalsen Nagarpalika,Achham,Mangalsen,Nagarpalika,7,Sudurpashchim,524769,707,NP0769,70706,524 7 69 3 002,NP0769302
+696,Mellekh Gaunpalika,Achham,Mellekh,Gaunpalika,7,Sudurpashchim,524769,707,NP0769,70703,524 7 69 4 002,NP0769402
+697,Panchadewal Binayak Nagarpalika,Achham,Panchadewal Binayak,Nagarpalika,7,Sudurpashchim,524769,707,NP0769,70701,524 7 69 3 004,NP0769304
+698,Ramaroshan Gaunpalika,Achham,Ramaroshan,Gaunpalika,7,Sudurpashchim,524769,707,NP0769,70702,524 7 69 4 004,NP0769404
+699,Sanphebagar Nagarpalika,Achham,Sanphebagar,Nagarpalika,7,Sudurpashchim,524769,707,NP0769,70704,524 7 69 3 001,NP0769301
+700,Turmakhad Gaunpalika,Achham,Turmakhad,Gaunpalika,7,Sudurpashchim,524769,707,NP0769,70710,524 7 69 4 006,NP0769406
 701,Khaptad National Park,Achham,Khaptad National Park,National Park,7,Sudurpashchim,524769,,NP0769,,524 7 69 5 997,NP0769597
-702,Adharsha Gaunpalika,Doti,Adharsha,Gaunpalika,7,Sudurpashchim,524770,706.0,NP0770,70603.0,524 7 70 4 001,NP0770401
-703,Badikedar Gaunpalika,Doti,Badikedar,Gaunpalika,7,Sudurpashchim,524770,706.0,NP0770,70608.0,524 7 70 4 006,NP0770406
-704,Bogtan Gaunpalika,Doti,Bogtan,Gaunpalika,7,Sudurpashchim,524770,706.0,NP0770,70607.0,524 7 70 4 007,NP0770407
-705,Dipayal Silgadi Nagarpalika,Doti,Dipayal Silgadi,Nagarpalika,7,Sudurpashchim,524770,706.0,NP0770,70605.0,524 7 70 3 002,NP0770302
-706,Jorayal Gaunpalika,Doti,Jorayal,Gaunpalika,7,Sudurpashchim,524770,706.0,NP0770,70609.0,524 7 70 4 004,NP0770404
-707,K I Sin Gaunpalika,Doti,K I Sin,Gaunpalika,7,Sudurpashchim,524770,706.0,NP0770,70606.0,524 7 70 4 005,NP0770405
-708,Purbichauki Gaunpalika,Doti,Purbichauki,Gaunpalika,7,Sudurpashchim,524770,706.0,NP0770,70601.0,524 7 70 4 003,NP0770403
-709,Sayal Gaunpalika,Doti,Sayal,Gaunpalika,7,Sudurpashchim,524770,706.0,NP0770,70602.0,524 7 70 4 002,NP0770402
-710,Shikhar Nagarpalika,Doti,Shikhar,Nagarpalika,7,Sudurpashchim,524770,706.0,NP0770,70604.0,524 7 70 3 001,NP0770301
+702,Adharsha Gaunpalika,Doti,Adharsha,Gaunpalika,7,Sudurpashchim,524770,706,NP0770,70603,524 7 70 4 001,NP0770401
+703,Badikedar Gaunpalika,Doti,Badikedar,Gaunpalika,7,Sudurpashchim,524770,706,NP0770,70608,524 7 70 4 006,NP0770406
+704,Bogtan Gaunpalika,Doti,Bogtan,Gaunpalika,7,Sudurpashchim,524770,706,NP0770,70607,524 7 70 4 007,NP0770407
+705,Dipayal Silgadi Nagarpalika,Doti,Dipayal Silgadi,Nagarpalika,7,Sudurpashchim,524770,706,NP0770,70605,524 7 70 3 002,NP0770302
+706,Jorayal Gaunpalika,Doti,Jorayal,Gaunpalika,7,Sudurpashchim,524770,706,NP0770,70609,524 7 70 4 004,NP0770404
+707,K I Sin Gaunpalika,Doti,K I Sin,Gaunpalika,7,Sudurpashchim,524770,706,NP0770,70606,524 7 70 4 005,NP0770405
+708,Purbichauki Gaunpalika,Doti,Purbichauki,Gaunpalika,7,Sudurpashchim,524770,706,NP0770,70601,524 7 70 4 003,NP0770403
+709,Sayal Gaunpalika,Doti,Sayal,Gaunpalika,7,Sudurpashchim,524770,706,NP0770,70602,524 7 70 4 002,NP0770402
+710,Shikhar Nagarpalika,Doti,Shikhar,Nagarpalika,7,Sudurpashchim,524770,706,NP0770,70604,524 7 70 3 001,NP0770301
 711,Khaptad National Park,Doti,Khaptad National Park,National Park,7,Sudurpashchim,524770,,NP0770,,524 7 70 5 997,NP0770597
-712,Bardagoriya Gaunpalika,Kailali,Bardagoriya,Gaunpalika,7,Sudurpashchim,524771,708.0,NP0771,70806.0,524 7 71 4 005,NP0771405
-713,Bhajani Nagarpalika,Kailali,Bhajani,Nagarpalika,7,Sudurpashchim,524771,708.0,NP0771,70811.0,524 7 71 3 004,NP0771304
-714,Chure Gaunpalika,Kailali,Chure,Gaunpalika,7,Sudurpashchim,524771,708.0,NP0771,70802.0,524 7 71 4 001,NP0771401
-715,Dhangadhi Upamahanagarpalika,Kailali,Dhangadhi,Upamahanagarpalika,7,Sudurpashchim,524771,708.0,NP0771,70813.0,524 7 71 2 001,NP0771201
-716,Gauriganga Nagarpalika,Kailali,Gauriganga,Nagarpalika,7,Sudurpashchim,524771,708.0,NP0771,70804.0,524 7 71 3 002,NP0771302
-717,Ghodaghodi Nagarpalika,Kailali,Ghodaghodi,Nagarpalika,7,Sudurpashchim,524771,708.0,NP0771,70805.0,524 7 71 3 003,NP0771303
-718,Godawari Nagarpalika,Kailali,Godawari,Nagarpalika,7,Sudurpashchim,524771,708.0,NP0771,70803.0,524 7 71 3 001,NP0771301
-719,Janaki Gaunpalika,Kailali,Janaki,Gaunpalika,7,Sudurpashchim,524771,708.0,NP0771,70808.0,524 7 71 4 006,NP0771406
-720,Joshipur Gaunpalika,Kailali,Joshipur,Gaunpalika,7,Sudurpashchim,524771,708.0,NP0771,70809.0,524 7 71 4 004,NP0771404
-721,Kailari Gaunpalika,Kailali,Kailari,Gaunpalika,7,Sudurpashchim,524771,708.0,NP0771,70812.0,524 7 71 4 002,NP0771402
-722,Lamkichuha Nagarpalika,Kailali,Lamkichuha,Nagarpalika,7,Sudurpashchim,524771,708.0,NP0771,70807.0,524 7 71 3 006,NP0771306
-723,Mohanyal Gaunpalika,Kailali,Mohanyal,Gaunpalika,7,Sudurpashchim,524771,708.0,NP0771,70801.0,524 7 71 4 003,NP0771403
-724,Tikapur Nagarpalika,Kailali,Tikapur,Nagarpalika,7,Sudurpashchim,524771,708.0,NP0771,70810.0,524 7 71 3 005,NP0771305
-725,Bedkot Nagarpalika,Kanchanpur,Bedkot,Nagarpalika,7,Sudurpashchim,524772,709.0,NP0772,70903.0,524 7 72 3 003,NP0772303
-726,Belauri Nagarpalika,Kanchanpur,Belauri,Nagarpalika,7,Sudurpashchim,524772,709.0,NP0772,70908.0,524 7 72 3 006,NP0772306
-727,Beldandi Gaunpalika,Kanchanpur,Beldandi,Gaunpalika,7,Sudurpashchim,524772,709.0,NP0772,70909.0,524 7 72 4 001,NP0772401
-728,Bhimdatta Nagarpalika,Kanchanpur,Bhimdatta,Nagarpalika,7,Sudurpashchim,524772,709.0,NP0772,70904.0,524 7 72 3 002,NP0772302
-729,Krishnapur Nagarpalika,Kanchanpur,Krishnapur,Nagarpalika,7,Sudurpashchim,524772,709.0,NP0772,70901.0,524 7 72 3 005,NP0772305
-730,Laljhadi Gaunpalika,Kanchanpur,Laljhadi,Gaunpalika,7,Sudurpashchim,524772,709.0,NP0772,70906.0,524 7 72 4 002,NP0772402
-731,Mahakali Nagarpalika,Kanchanpur,Mahakali,Nagarpalika,7,Sudurpashchim,524772,709.0,NP0772,70905.0,524 7 72 3 001,NP0772301
-732,Punarbas Nagarpalika,Kanchanpur,Punarbas,Nagarpalika,7,Sudurpashchim,524772,709.0,NP0772,70907.0,524 7 72 3 007,NP0772307
-733,Shuklaphanta Nagarpalika,Kanchanpur,Shuklaphanta,Nagarpalika,7,Sudurpashchim,524772,709.0,NP0772,70902.0,524 7 72 3 004,NP0772304
+712,Bardagoriya Gaunpalika,Kailali,Bardagoriya,Gaunpalika,7,Sudurpashchim,524771,708,NP0771,70806,524 7 71 4 005,NP0771405
+713,Bhajani Nagarpalika,Kailali,Bhajani,Nagarpalika,7,Sudurpashchim,524771,708,NP0771,70811,524 7 71 3 004,NP0771304
+714,Chure Gaunpalika,Kailali,Chure,Gaunpalika,7,Sudurpashchim,524771,708,NP0771,70802,524 7 71 4 001,NP0771401
+715,Dhangadhi Upamahanagarpalika,Kailali,Dhangadhi,Upamahanagarpalika,7,Sudurpashchim,524771,708,NP0771,70813,524 7 71 2 001,NP0771201
+716,Gauriganga Nagarpalika,Kailali,Gauriganga,Nagarpalika,7,Sudurpashchim,524771,708,NP0771,70804,524 7 71 3 002,NP0771302
+717,Ghodaghodi Nagarpalika,Kailali,Ghodaghodi,Nagarpalika,7,Sudurpashchim,524771,708,NP0771,70805,524 7 71 3 003,NP0771303
+718,Godawari Nagarpalika,Kailali,Godawari,Nagarpalika,7,Sudurpashchim,524771,708,NP0771,70803,524 7 71 3 001,NP0771301
+719,Janaki Gaunpalika,Kailali,Janaki,Gaunpalika,7,Sudurpashchim,524771,708,NP0771,70808,524 7 71 4 006,NP0771406
+720,Joshipur Gaunpalika,Kailali,Joshipur,Gaunpalika,7,Sudurpashchim,524771,708,NP0771,70809,524 7 71 4 004,NP0771404
+721,Kailari Gaunpalika,Kailali,Kailari,Gaunpalika,7,Sudurpashchim,524771,708,NP0771,70812,524 7 71 4 002,NP0771402
+722,Lamkichuha Nagarpalika,Kailali,Lamkichuha,Nagarpalika,7,Sudurpashchim,524771,708,NP0771,70807,524 7 71 3 006,NP0771306
+723,Mohanyal Gaunpalika,Kailali,Mohanyal,Gaunpalika,7,Sudurpashchim,524771,708,NP0771,70801,524 7 71 4 003,NP0771403
+724,Tikapur Nagarpalika,Kailali,Tikapur,Nagarpalika,7,Sudurpashchim,524771,708,NP0771,70810,524 7 71 3 005,NP0771305
+725,Bedkot Nagarpalika,Kanchanpur,Bedkot,Nagarpalika,7,Sudurpashchim,524772,709,NP0772,70903,524 7 72 3 003,NP0772303
+726,Belauri Nagarpalika,Kanchanpur,Belauri,Nagarpalika,7,Sudurpashchim,524772,709,NP0772,70908,524 7 72 3 006,NP0772306
+727,Beldandi Gaunpalika,Kanchanpur,Beldandi,Gaunpalika,7,Sudurpashchim,524772,709,NP0772,70909,524 7 72 4 001,NP0772401
+728,Bhimdatta Nagarpalika,Kanchanpur,Bhimdatta,Nagarpalika,7,Sudurpashchim,524772,709,NP0772,70904,524 7 72 3 002,NP0772302
+729,Krishnapur Nagarpalika,Kanchanpur,Krishnapur,Nagarpalika,7,Sudurpashchim,524772,709,NP0772,70901,524 7 72 3 005,NP0772305
+730,Laljhadi Gaunpalika,Kanchanpur,Laljhadi,Gaunpalika,7,Sudurpashchim,524772,709,NP0772,70906,524 7 72 4 002,NP0772402
+731,Mahakali Nagarpalika,Kanchanpur,Mahakali,Nagarpalika,7,Sudurpashchim,524772,709,NP0772,70905,524 7 72 3 001,NP0772301
+732,Punarbas Nagarpalika,Kanchanpur,Punarbas,Nagarpalika,7,Sudurpashchim,524772,709,NP0772,70907,524 7 72 3 007,NP0772307
+733,Shuklaphanta Nagarpalika,Kanchanpur,Shuklaphanta,Nagarpalika,7,Sudurpashchim,524772,709,NP0772,70902,524 7 72 3 004,NP0772304
 734,Shuklaphanta National Park,Kanchanpur,Shuklaphanta National Park,National Park,7,Sudurpashchim,524772,,NP0772,,524 7 72 5 997,NP0772597
-735,Ajaymeru Gaunpalika,Dadeldhura,Ajaymeru,Gaunpalika,7,Sudurpashchim,524773,705.0,NP0773,70503.0,524 7 73 4 002,NP0773402
-736,Alital Gaunpalika,Dadeldhura,Alital,Gaunpalika,7,Sudurpashchim,524773,705.0,NP0773,70506.0,524 7 73 4 004,NP0773404
-737,Amargadhi Nagarpalika,Dadeldhura,Amargadhi,Nagarpalika,7,Sudurpashchim,524773,705.0,NP0773,70502.0,524 7 73 3 002,NP0773302
-738,Bhageshwar Gaunpalika,Dadeldhura,Bhageshwar,Gaunpalika,7,Sudurpashchim,524773,705.0,NP0773,70504.0,524 7 73 4 001,NP0773401
-739,Ganayapdhura Gaunpalika,Dadeldhura,Ganayapdhura,Gaunpalika,7,Sudurpashchim,524773,705.0,NP0773,70507.0,524 7 73 4 005,NP0773405
-740,Nawadurga Gaunpalika,Dadeldhura,Nawadurga,Gaunpalika,7,Sudurpashchim,524773,705.0,NP0773,70501.0,524 7 73 4 003,NP0773403
-741,Parashuram Nagarpalika,Dadeldhura,Parashuram,Nagarpalika,7,Sudurpashchim,524773,705.0,NP0773,70505.0,524 7 73 3 001,NP0773301
-742,Dasharathchanda Nagarpalika,Baitadi,Dasharathchanda,Nagarpalika,7,Sudurpashchim,524774,704.0,NP0774,70405.0,524 7 74 3 001,NP0774301
-743,Dilasaini Gaunpalika,Baitadi,Dilasaini,Gaunpalika,7,Sudurpashchim,524774,704.0,NP0774,70401.0,524 7 74 4 001,NP0774401
-744,Dogadakedar Gaunpalika,Baitadi,Dogadakedar,Gaunpalika,7,Sudurpashchim,524774,704.0,NP0774,70402.0,524 7 74 4 002,NP0774402
-745,Melauli Nagarpalika,Baitadi,Melauli,Nagarpalika,7,Sudurpashchim,524774,704.0,NP0774,70408.0,524 7 74 3 003,NP0774303
-746,Pancheshwar Gaunpalika,Baitadi,Pancheshwar,Gaunpalika,7,Sudurpashchim,524774,704.0,NP0774,70406.0,524 7 74 4 004,NP0774404
-747,Patan Nagarpalika,Baitadi,Patan,Nagarpalika,7,Sudurpashchim,524774,704.0,NP0774,70409.0,524 7 74 3 004,NP0774304
-748,Purchaudi Nagarpalika,Baitadi,Purchaudi,Nagarpalika,7,Sudurpashchim,524774,704.0,NP0774,70403.0,524 7 74 3 002,NP0774302
-749,Shivanath Gaunpalika,Baitadi,Shivanath,Gaunpalika,7,Sudurpashchim,524774,704.0,NP0774,70407.0,524 7 74 4 005,NP0774405
-750,Sigas Gaunpalika,Baitadi,Sigas,Gaunpalika,7,Sudurpashchim,524774,704.0,NP0774,70410.0,524 7 74 4 006,NP0774406
-751,Surnaya Gaunpalika,Baitadi,Surnaya,Gaunpalika,7,Sudurpashchim,524774,704.0,NP0774,70404.0,524 7 74 4 003,NP0774403
-752,Apihimal Gaunpalika,Darchula,Apihimal,Gaunpalika,7,Sudurpashchim,524775,703.0,NP0775,70305.0,524 7 75 4 003,NP0775403
-753,Byas Gaunpalika,Darchula,Byas,Gaunpalika,7,Sudurpashchim,524775,703.0,NP0775,70301.0,524 7 75 4 001,NP0775401
-754,Dunhu Gaunpalika,Darchula,Dunhu,Gaunpalika,7,Sudurpashchim,524775,703.0,NP0775,70302.0,524 7 75 4 002,NP0775402
-755,Lekam Gaunpalika,Darchula,Lekam,Gaunpalika,7,Sudurpashchim,524775,703.0,NP0775,70309.0,524 7 75 4 006,NP0775406
-756,Mahakali Nagarpalika,Darchula,Mahakali,Nagarpalika,7,Sudurpashchim,524775,703.0,NP0775,70303.0,524 7 75 3 001,NP0775301
-757,Malikaarjun Gaunpalika,Darchula,Malikaarjun,Gaunpalika,7,Sudurpashchim,524775,703.0,NP0775,70308.0,524 7 75 4 004,NP0775404
-758,Marma Gaunpalika,Darchula,Marma,Gaunpalika,7,Sudurpashchim,524775,703.0,NP0775,70306.0,524 7 75 4 007,NP0775407
-759,Naugad Gaunpalika,Darchula,Naugad,Gaunpalika,7,Sudurpashchim,524775,703.0,NP0775,70304.0,524 7 75 4 005,NP0775405
-760,Shailyashikhar Nagarpalika,Darchula,Shailyashikhar,Nagarpalika,7,Sudurpashchim,524775,703.0,NP0775,70307.0,524 7 75 3 002,NP0775302
-761,Binayee Tribeni Gaunpalika,Nawalparasi_E,Binayee Tribeni,Gaunpalika,4,Gandaki,524447,408.0,NP0447,40808.0,524 4 47 4 004,NP0447404
-762,Bulingtar Gaunpalika,Nawalparasi_E,Bulingtar,Gaunpalika,4,Gandaki,524447,408.0,NP0447,40802.0,524 4 47 4 002,NP0447402
-763,Bungdikali Gaunpalika,Nawalparasi_E,Bungdikali,Gaunpalika,4,Gandaki,524447,408.0,NP0447,40803.0,524 4 47 4 001,NP0447401
-764,Devchuli Nagarpalika,Nawalparasi_E,Devchuli,Nagarpalika,4,Gandaki,524447,408.0,NP0447,40805.0,524 4 47 3 003,NP0447303
-765,Gaidakot Nagarpalika,Nawalparasi_E,Gaidakot,Nagarpalika,4,Gandaki,524447,408.0,NP0447,40801.0,524 4 47 3 004,NP0447304
-766,Hupsekot Gaunpalika,Nawalparasi_E,Hupsekot,Gaunpalika,4,Gandaki,524447,408.0,NP0447,40804.0,524 4 47 4 003,NP0447403
-767,Kawasoti Nagarpalika,Nawalparasi_E,Kawasoti,Nagarpalika,4,Gandaki,524447,408.0,NP0447,40806.0,524 4 47 3 002,NP0447302
-768,Madhyabindu Nagarpalika,Nawalparasi_E,Madhyabindu,Nagarpalika,4,Gandaki,524447,408.0,NP0447,40807.0,524 4 47 3 001,NP0447301
+735,Ajaymeru Gaunpalika,Dadeldhura,Ajaymeru,Gaunpalika,7,Sudurpashchim,524773,705,NP0773,70503,524 7 73 4 002,NP0773402
+736,Alital Gaunpalika,Dadeldhura,Alital,Gaunpalika,7,Sudurpashchim,524773,705,NP0773,70506,524 7 73 4 004,NP0773404
+737,Amargadhi Nagarpalika,Dadeldhura,Amargadhi,Nagarpalika,7,Sudurpashchim,524773,705,NP0773,70502,524 7 73 3 002,NP0773302
+738,Bhageshwar Gaunpalika,Dadeldhura,Bhageshwar,Gaunpalika,7,Sudurpashchim,524773,705,NP0773,70504,524 7 73 4 001,NP0773401
+739,Ganayapdhura Gaunpalika,Dadeldhura,Ganayapdhura,Gaunpalika,7,Sudurpashchim,524773,705,NP0773,70507,524 7 73 4 005,NP0773405
+740,Nawadurga Gaunpalika,Dadeldhura,Nawadurga,Gaunpalika,7,Sudurpashchim,524773,705,NP0773,70501,524 7 73 4 003,NP0773403
+741,Parashuram Nagarpalika,Dadeldhura,Parashuram,Nagarpalika,7,Sudurpashchim,524773,705,NP0773,70505,524 7 73 3 001,NP0773301
+742,Dasharathchanda Nagarpalika,Baitadi,Dasharathchanda,Nagarpalika,7,Sudurpashchim,524774,704,NP0774,70405,524 7 74 3 001,NP0774301
+743,Dilasaini Gaunpalika,Baitadi,Dilasaini,Gaunpalika,7,Sudurpashchim,524774,704,NP0774,70401,524 7 74 4 001,NP0774401
+744,Dogadakedar Gaunpalika,Baitadi,Dogadakedar,Gaunpalika,7,Sudurpashchim,524774,704,NP0774,70402,524 7 74 4 002,NP0774402
+745,Melauli Nagarpalika,Baitadi,Melauli,Nagarpalika,7,Sudurpashchim,524774,704,NP0774,70408,524 7 74 3 003,NP0774303
+746,Pancheshwar Gaunpalika,Baitadi,Pancheshwar,Gaunpalika,7,Sudurpashchim,524774,704,NP0774,70406,524 7 74 4 004,NP0774404
+747,Patan Nagarpalika,Baitadi,Patan,Nagarpalika,7,Sudurpashchim,524774,704,NP0774,70409,524 7 74 3 004,NP0774304
+748,Purchaudi Nagarpalika,Baitadi,Purchaudi,Nagarpalika,7,Sudurpashchim,524774,704,NP0774,70403,524 7 74 3 002,NP0774302
+749,Shivanath Gaunpalika,Baitadi,Shivanath,Gaunpalika,7,Sudurpashchim,524774,704,NP0774,70407,524 7 74 4 005,NP0774405
+750,Sigas Gaunpalika,Baitadi,Sigas,Gaunpalika,7,Sudurpashchim,524774,704,NP0774,70410,524 7 74 4 006,NP0774406
+751,Surnaya Gaunpalika,Baitadi,Surnaya,Gaunpalika,7,Sudurpashchim,524774,704,NP0774,70404,524 7 74 4 003,NP0774403
+752,Apihimal Gaunpalika,Darchula,Apihimal,Gaunpalika,7,Sudurpashchim,524775,703,NP0775,70305,524 7 75 4 003,NP0775403
+753,Byas Gaunpalika,Darchula,Byas,Gaunpalika,7,Sudurpashchim,524775,703,NP0775,70301,524 7 75 4 001,NP0775401
+754,Dunhu Gaunpalika,Darchula,Dunhu,Gaunpalika,7,Sudurpashchim,524775,703,NP0775,70302,524 7 75 4 002,NP0775402
+755,Lekam Gaunpalika,Darchula,Lekam,Gaunpalika,7,Sudurpashchim,524775,703,NP0775,70309,524 7 75 4 006,NP0775406
+756,Mahakali Nagarpalika,Darchula,Mahakali,Nagarpalika,7,Sudurpashchim,524775,703,NP0775,70303,524 7 75 3 001,NP0775301
+757,Malikaarjun Gaunpalika,Darchula,Malikaarjun,Gaunpalika,7,Sudurpashchim,524775,703,NP0775,70308,524 7 75 4 004,NP0775404
+758,Marma Gaunpalika,Darchula,Marma,Gaunpalika,7,Sudurpashchim,524775,703,NP0775,70306,524 7 75 4 007,NP0775407
+759,Naugad Gaunpalika,Darchula,Naugad,Gaunpalika,7,Sudurpashchim,524775,703,NP0775,70304,524 7 75 4 005,NP0775405
+760,Shailyashikhar Nagarpalika,Darchula,Shailyashikhar,Nagarpalika,7,Sudurpashchim,524775,703,NP0775,70307,524 7 75 3 002,NP0775302
+761,Binayee Tribeni Gaunpalika,Nawalparasi_E,Binayee Tribeni,Gaunpalika,4,Gandaki,524447,408,NP0447,40808,524 4 47 4 004,NP0447404
+762,Bulingtar Gaunpalika,Nawalparasi_E,Bulingtar,Gaunpalika,4,Gandaki,524447,408,NP0447,40802,524 4 47 4 002,NP0447402
+763,Bungdikali Gaunpalika,Nawalparasi_E,Bungdikali,Gaunpalika,4,Gandaki,524447,408,NP0447,40803,524 4 47 4 001,NP0447401
+764,Devchuli Nagarpalika,Nawalparasi_E,Devchuli,Nagarpalika,4,Gandaki,524447,408,NP0447,40805,524 4 47 3 003,NP0447303
+765,Gaidakot Nagarpalika,Nawalparasi_E,Gaidakot,Nagarpalika,4,Gandaki,524447,408,NP0447,40801,524 4 47 3 004,NP0447304
+766,Hupsekot Gaunpalika,Nawalparasi_E,Hupsekot,Gaunpalika,4,Gandaki,524447,408,NP0447,40804,524 4 47 4 003,NP0447403
+767,Kawasoti Nagarpalika,Nawalparasi_E,Kawasoti,Nagarpalika,4,Gandaki,524447,408,NP0447,40806,524 4 47 3 002,NP0447302
+768,Madhyabindu Nagarpalika,Nawalparasi_E,Madhyabindu,Nagarpalika,4,Gandaki,524447,408,NP0447,40807,524 4 47 3 001,NP0447301
 769,Chitawan National Park,Nawalparasi_E,Chitawan National Park,National Park,4,Gandaki,524447,,NP0447,,524 4 47 5 997,NP0447597
-770,Bhume Gaunpalika,Rukum_E,Bhume,Gaunpalika,5,5,524552,501.0,NP0552,50103.0,524 5 52 4 003,NP0552403
-771,Putha Uttarganga Gaunpalika,Rukum_E,Putha Uttarganga,Gaunpalika,5,5,524552,501.0,NP0552,50101.0,524 5 52 4 002,NP0552402
-772,Sisne Gaunpalika,Rukum_E,Sisne,Gaunpalika,5,5,524552,501.0,NP0552,50102.0,524 5 52 4 001,NP0552401
+770,Bhume Gaunpalika,Rukum_E,Bhume,Gaunpalika,5,5,524552,501,NP0552,50103,524 5 52 4 003,NP0552403
+771,Putha Uttarganga Gaunpalika,Rukum_E,Putha Uttarganga,Gaunpalika,5,5,524552,501,NP0552,50101,524 5 52 4 002,NP0552402
+772,Sisne Gaunpalika,Rukum_E,Sisne,Gaunpalika,5,5,524552,501,NP0552,50102,524 5 52 4 001,NP0552401
 773,Dhorpatan Hunting Reserve,Rukum_E,Dhorpatan Hunting Reserve,Hunting Reserve,5,5,524552,,NP0552,,524 5 52 5 998,NP0552598
 774,Parsa Wildlife Reserve,Parsa,Parsa Wildlife Reserve,Wildlife Reserve,2,2,524234,,NP0234,,524 2 34 5 995,NP0234595
 775,Chitawan National Park,Parsa,Chitawan National Park,National Park,2,2,524234,,NP0234,,524 2 34 5 997,NP0234597
-776,Rolpa Nagarpalika,Rolpa,Rolpa,Nagarpalika,5,5,524554,502.0,NP0554,50207.0,524 5 54 3 001,NP0554301
-777,Musikot Nagarpalika,Rukum_W,Musikot,Nagarpalika,6,Karnali,524652,608.0,NP0652,60804.0,524 6 52 3 003,NP0652303
+776,Rolpa Nagarpalika,Rolpa,Rolpa,Nagarpalika,5,5,524554,502,NP0554,50207,524 5 54 3 001,NP0554301
+777,Musikot Nagarpalika,Rukum_W,Musikot,Nagarpalika,6,Karnali,524652,608,NP0652,60804,524 6 52 3 003,NP0652303
