@@ -55,8 +55,8 @@ Format for arguments:
 
 ```
 
-## Palika Codes
-Central Bureau of Statistics (CBS) codes, High Level Commission for Information and Technology (HLCIT) codes and P-codes (used by UN agencies like UN-OCHA) for all the palikas (local units) are compiled and provided in the CSV format.
+## Admin Codes
+Central Bureau of Statistics (CBS) codes, High Level Commission for Information and Technology (HLCIT) codes and P-codes (used by UN agencies like UN-OCHA) for all the new districts (total of 77) and palikas (local units) are compiled and provided in the CSV format under the filename, _admin_codes.csv_. For designated areas like national parks and wildlife reserves, the CBS codes are not available, so the fields are left empty.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
