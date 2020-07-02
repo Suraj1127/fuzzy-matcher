@@ -52,6 +52,9 @@ class FuzzyMatcher:
         df_1.columns = df_1.columns.str.lower().str.strip()
         df_2.columns = df_2.columns.str.lower().str.strip()
         
+        columns_1 = [i.lower().strip() for i in columns_1]
+        columns_2 = [i.lower().strip() for i in columns_2]
+        
         if append_in == 'first':
             
             temp = df_1
@@ -66,17 +69,15 @@ class FuzzyMatcher:
         
         self.columns = columns_2
         
-        df_1.columns = df_1.columns.str.lower().str.strip()
-        df_2.columns = df_2.columns.str.lower().str.strip()
-        
         self.df_2 = self._fuzzy_match(self.df_1, df_2, self.columns[0])
         
         
     @staticmethod
-    def _string_matching(name, collection, mapping_={}):
+    def _string_matching(name, collection, mapping_):
         """
         Returns similar name using fuzzy matching.
         """
+        
         if name in collection:
             return name
 
@@ -95,9 +96,12 @@ class FuzzyMatcher:
         
         Notice that the appended columns end with '_t'.
         """
+        
         collection = set(df_1_t[common_column_t])
         
-        df_2_t[common_column_t + '_t'] = df_2_t[common_column_t].apply(self._string_matching, args=(collection,))
+        mapping_ = {}
+        
+        df_2_t[common_column_t + '_t'] = df_2_t[common_column_t].apply(self._string_matching, args=(collection, mapping_))
         
         return df_2_t
     
@@ -110,15 +114,13 @@ class FuzzyMatcher:
         for i_t, common_column in enumerate(self.columns[1:], start=1):
             
             self.df_2[common_column + '_t'] = np.nan
-            
-            collection = set(self.df_1[common_column])
-            
+                        
             group_1 = self.df_1.groupby(self.columns[:i_t])
             
             group_2 = self.df_2.groupby([i + '_t' for i in self.columns[:i_t]])
             
             for key, df_slice_2 in group_2:
-                
+
                 df_slice_1 = group_1.get_group(key)
                 
                 df_slice_2 = self._fuzzy_match(df_slice_1, df_slice_2, common_column)
